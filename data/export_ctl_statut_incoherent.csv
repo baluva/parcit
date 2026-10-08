@@ -1,0 +1,86 @@
+id_equipement,statut,dernier_mvt
+EQ00001,en stock,attribution
+EQ00015,réformé,restitution
+EQ00057,réformé,restitution
+EQ00100,en stock,attribution
+EQ00124,attribué,entrée stock
+EQ00230,attribué,entrée stock
+EQ00239,attribué,restitution
+EQ00247,attribué,restitution
+EQ00318,réformé,restitution
+EQ00343,réformé,restitution
+EQ00389,réformé,restitution
+EQ00441,attribué,restitution
+EQ00475,en stock,attribution
+EQ00505,attribué,entrée stock
+EQ00606,réformé,restitution
+EQ00727,en stock,attribution
+EQ00783,attribué,entrée stock
+EQ00795,en stock,attribution
+EQ00825,réformé,restitution
+EQ00830,attribué,entrée stock
+EQ00912,attribué,entrée stock
+EQ00939,attribué,mise au rebut
+EQ01043,réformé,restitution
+EQ01083,réformé,restitution
+EQ01177,réformé,restitution
+EQ01209,réformé,restitution
+EQ01266,réformé,restitution
+EQ01271,en stock,attribution
+EQ01382,réformé,restitution
+EQ01453,réformé,restitution
+EQ01459,en stock,attribution
+EQ01651,réformé,restitution
+EQ01675,réformé,restitution
+EQ01681,attribué,entrée stock
+EQ01696,réformé,restitution
+EQ01777,attribué,restitution
+EQ01855,en stock,attribution
+EQ01893,réformé,restitution
+EQ02015,attribué,entrée stock
+EQ02113,attribué,restitution
+EQ02157,réformé,restitution
+EQ02191,en stock,attribution
+EQ02206,en stock,attribution
+EQ02227,réformé,restitution
+EQ02298,attribué,restitution
+EQ02359,attribué,restitution
+EQ02374,en stock,attribution
+EQ02625,en stock,attribution
+EQ02628,réformé,restitution
+EQ02649,attribué,restitution
+EQ02669,attribué,entrée stock
+EQ02692,attribué,restitution
+EQ02720,en stock,attribution
+EQ02733,en stock,attribution
+EQ02793,réformé,restitution
+EQ02874,en stock,attribution
+EQ02875,attribué,restitution
+EQ03097,réformé,restitution
+EQ03162,en stock,attribution
+EQ03371,réformé,restitution
+EQ03482,réformé,restitution
+EQ03507,en stock,attribution
+EQ03550,attribué,restitution
+EQ03599,attribué,entrée stock
+EQ03655,en stock,attribution
+EQ03722,attribué,entrée stock
+EQ03728,attribué,mise au rebut
+EQ03786,attribué,restitution
+EQ03901,réformé,restitution
+EQ03913,réformé,restitution
+EQ03931,réformé,restitution
+EQ03985,réformé,restitution
+EQ04153,en stock,attribution
+EQ04211,attribué,restitution
+EQ04229,attribué,entrée stock
+EQ04247,réformé,restitution
+EQ04263,réformé,restitution
+EQ04327,en stock,attribution
+EQ04442,réformé,restitution
+EQ04541,réformé,restitution
+EQ04595,attribué,mise au rebut
+EQ04627,en stock,attribution
+EQ04679,réformé,restitution
+EQ04758,réformé,restitution
+EQ04847,réformé,restitution

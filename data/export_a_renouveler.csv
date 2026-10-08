@@ -1,0 +1,2625 @@
+id_equipement,type,modele,site,date_achat,fin_garantie
+EQ00001,Smartphone,Samsung Galaxy A54,Nantes,2020-03-11,2023-03-11
+EQ00002,PC fixe,HP EliteDesk 800 G9,Nantes,2020-02-25,2023-02-24
+EQ00003,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-03-27,2023-03-27
+EQ00008,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-06-06,2023-06-06
+EQ00009,PC fixe,HP EliteDesk 800 G9,Marseille,2021-07-31,2024-07-30
+EQ00010,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-03-27,2023-03-27
+EQ00011,PC portable,Dell Latitude 5440,Paris La Défense,2021-07-08,2024-07-07
+EQ00012,PC portable,HP EliteBook 840 G10,Lille,2019-04-18,2022-04-17
+EQ00013,PC portable,Dell Latitude 5440,Marseille,2021-01-17,2024-01-17
+EQ00016,Écran,HP E24 G5,Paris Bercy,2023-04-08,2026-04-07
+EQ00017,Écran,Dell P2423,Paris Bercy,2019-04-25,2022-04-24
+EQ00018,PC portable,HP EliteBook 840 G10,Lyon,2020-01-17,2023-01-16
+EQ00019,PC portable,Dell Latitude 5440,Lille,2023-07-27,2026-07-26
+EQ00021,PC portable,Lenovo ThinkPad T14,Nantes,2020-10-21,2023-10-21
+EQ00022,Écran,Iiyama XUB2492,Paris Bercy,2023-05-07,2026-05-06
+EQ00023,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-03-03,2022-03-02
+EQ00025,PC portable,HP EliteBook 840 G10,Nantes,2022-02-21,2025-02-20
+EQ00026,PC fixe,HP EliteDesk 800 G9,Lyon,2023-01-28,2026-01-27
+EQ00027,PC fixe,Dell OptiPlex 7010,Lille,2021-12-12,2024-12-11
+EQ00028,Smartphone,iPhone 13,Marseille,2021-07-02,2024-07-01
+EQ00029,Écran,Dell P2423,Marseille,2021-03-28,2024-03-27
+EQ00031,PC portable,HP EliteBook 840 G10,Lille,2019-04-04,2022-04-03
+EQ00032,Écran,Dell P2423,Paris Bercy,2021-11-28,2024-11-27
+EQ00034,Écran,Iiyama XUB2492,Paris La Défense,2023-05-13,2026-05-12
+EQ00035,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-07-20,2025-07-19
+EQ00037,Écran,Dell P2423,Nantes,2020-11-11,2023-11-11
+EQ00038,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-01-30,2026-01-29
+EQ00039,PC portable,Lenovo ThinkPad T14,Nantes,2022-12-13,2025-12-12
+EQ00041,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-12-25,2022-12-24
+EQ00045,Smartphone,iPhone 13,Paris La Défense,2021-09-16,2024-09-15
+EQ00046,Smartphone,Samsung Galaxy A54,Nantes,2021-02-28,2024-02-28
+EQ00047,PC portable,Lenovo ThinkPad T14,Nantes,2020-06-01,2023-06-01
+EQ00048,PC portable,Dell Latitude 5440,Paris Bercy,2022-08-13,2025-08-12
+EQ00051,Écran,Dell P2423,Lyon,2023-03-29,2026-03-28
+EQ00053,Smartphone,Samsung Galaxy A54,Marseille,2021-05-01,2024-04-30
+EQ00056,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-04-15,2023-04-15
+EQ00058,PC portable,Dell Latitude 5440,Lyon,2022-01-17,2025-01-16
+EQ00059,PC portable,Lenovo ThinkPad T14,Nantes,2019-05-19,2022-05-18
+EQ00060,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-04-14,2023-04-14
+EQ00061,PC fixe,Dell OptiPlex 7010,Lyon,2023-04-29,2026-04-28
+EQ00062,Écran,HP E24 G5,Nantes,2019-11-03,2022-11-02
+EQ00064,Smartphone,iPhone 13,Nantes,2019-06-01,2022-05-31
+EQ00066,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-02-12,2022-02-11
+EQ00067,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-11-28,2023-11-28
+EQ00070,Écran,Dell P2423,Lille,2021-04-23,2024-04-22
+EQ00072,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-06-16,2023-06-16
+EQ00073,Écran,HP E24 G5,Paris La Défense,2021-02-08,2024-02-08
+EQ00075,PC portable,Lenovo ThinkPad T14,Nantes,2023-06-14,2026-06-13
+EQ00076,Smartphone,Samsung Galaxy A54,Lyon,2021-03-05,2024-03-04
+EQ00077,PC portable,Dell Latitude 5440,Nantes,2019-05-27,2022-05-26
+EQ00079,Écran,Dell P2423,Lille,2022-06-04,2025-06-03
+EQ00080,PC portable,HP EliteBook 840 G10,Lille,2019-02-22,2022-02-21
+EQ00081,PC portable,HP EliteBook 840 G10,Nantes,2019-03-13,2022-03-12
+EQ00089,PC fixe,Dell OptiPlex 7010,Lyon,2021-06-09,2024-06-08
+EQ00090,PC portable,Dell Latitude 5440,Paris Bercy,2022-01-13,2025-01-12
+EQ00091,Smartphone,Samsung Galaxy A54,Lyon,2020-02-06,2023-02-05
+EQ00092,PC portable,HP EliteBook 840 G10,Nantes,2022-05-02,2025-05-01
+EQ00093,PC fixe,HP EliteDesk 800 G9,Marseille,2023-01-04,2026-01-03
+EQ00094,PC portable,Dell Latitude 5440,Paris La Défense,2023-09-21,2026-09-20
+EQ00096,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-05-28,2026-05-27
+EQ00099,Écran,Iiyama XUB2492,Marseille,2019-01-27,2022-01-26
+EQ00100,PC portable,Lenovo ThinkPad T14,Marseille,2020-02-29,2023-02-28
+EQ00102,PC fixe,HP EliteDesk 800 G9,Lille,2022-03-31,2025-03-30
+EQ00104,Écran,HP E24 G5,Lyon,2019-06-24,2022-06-23
+EQ00106,Écran,Iiyama XUB2492,Marseille,2022-05-25,2025-05-24
+EQ00108,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-10-13,2023-10-13
+EQ00110,PC portable,Lenovo ThinkPad T14,Lille,2020-06-29,2023-06-29
+EQ00111,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-05-17,2022-05-16
+EQ00117,PC fixe,Dell OptiPlex 7010,Lille,2021-12-13,2024-12-12
+EQ00118,Écran,Dell P2423,Paris Bercy,2019-09-13,2022-09-12
+EQ00119,Écran,HP E24 G5,Lyon,2019-05-25,2022-05-24
+EQ00120,PC portable,HP EliteBook 840 G10,Nantes,2021-03-14,2024-03-13
+EQ00124,Écran,Iiyama XUB2492,Paris Bercy,2023-01-02,2026-01-01
+EQ00125,Écran,Iiyama XUB2492,Lille,2022-04-13,2025-04-12
+EQ00127,PC portable,Lenovo ThinkPad T14,Lille,2021-08-20,2024-08-19
+EQ00128,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-03,2026-04-02
+EQ00132,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2021-09-02,2024-09-01
+EQ00133,Écran,Iiyama XUB2492,Paris La Défense,2019-02-20,2022-02-19
+EQ00135,Écran,Dell P2423,Lyon,2022-02-05,2025-02-04
+EQ00137,Smartphone,Samsung Galaxy A54,Paris La Défense,2021-11-20,2024-11-19
+EQ00139,PC portable,Dell Latitude 5440,Nantes,2022-04-19,2025-04-18
+EQ00140,Écran,Iiyama XUB2492,Paris Bercy,2022-11-10,2025-11-09
+EQ00141,PC fixe,Dell OptiPlex 7010,Nantes,2023-09-09,2026-09-08
+EQ00143,Écran,Dell P2423,Paris Bercy,2022-04-15,2025-04-14
+EQ00144,PC portable,Lenovo ThinkPad T14,Lille,2023-01-23,2026-01-22
+EQ00146,PC portable,Lenovo ThinkPad T14,Nantes,2023-09-21,2026-09-20
+EQ00147,PC portable,Lenovo ThinkPad T14,Marseille,2020-05-09,2023-05-09
+EQ00149,PC fixe,Dell OptiPlex 7010,Marseille,2023-05-09,2026-05-08
+EQ00151,Smartphone,Samsung Galaxy A54,Lille,2023-08-02,2026-08-01
+EQ00155,PC portable,HP EliteBook 840 G10,Lyon,2020-04-30,2023-04-30
+EQ00158,Écran,Iiyama XUB2492,Paris Bercy,2023-02-22,2026-02-21
+EQ00159,Écran,HP E24 G5,Marseille,2020-05-06,2023-05-06
+EQ00160,PC portable,Lenovo ThinkPad T14,Lyon,2022-10-05,2025-10-04
+EQ00161,PC portable,Lenovo ThinkPad T14,Lille,2020-02-16,2023-02-15
+EQ00162,PC portable,Dell Latitude 5440,Marseille,2020-09-12,2023-09-12
+EQ00163,Smartphone,iPhone 13,Paris La Défense,2021-05-27,2024-05-26
+EQ00165,Écran,Iiyama XUB2492,Nantes,2023-05-26,2026-05-25
+EQ00166,PC fixe,HP EliteDesk 800 G9,Lille,2022-07-30,2025-07-29
+EQ00170,Écran,Dell P2423,Nantes,2020-06-13,2023-06-13
+EQ00172,Écran,HP E24 G5,Lille,2023-06-09,2026-06-08
+EQ00173,Smartphone,Samsung Galaxy A54,Nantes,2020-02-24,2023-02-23
+EQ00175,Écran,HP E24 G5,Nantes,2021-03-06,2024-03-05
+EQ00177,PC portable,Dell Latitude 5440,Nantes,2023-03-07,2026-03-06
+EQ00179,Écran,Iiyama XUB2492,Paris Bercy,2019-12-10,2022-12-09
+EQ00183,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-02-25,2022-02-24
+EQ00185,PC fixe,HP EliteDesk 800 G9,Nantes,2021-04-17,2024-04-16
+EQ00186,Écran,Iiyama XUB2492,Paris Bercy,2020-07-08,2023-07-08
+EQ00187,Écran,Dell P2423,Lyon,2021-07-14,2024-07-13
+EQ00189,PC portable,Dell Latitude 5440,Nantes,2021-12-12,2024-12-11
+EQ00192,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-08-02,2022-08-01
+EQ00197,PC fixe,HP EliteDesk 800 G9,Nantes,2019-01-23,2022-01-22
+EQ00198,PC fixe,Dell OptiPlex 7010,Nantes,2019-02-23,2022-02-22
+EQ00199,PC portable,Dell Latitude 5440,Nantes,2019-08-23,2022-08-22
+EQ00200,Écran,Dell P2423,Paris La Défense,2020-06-23,2023-06-23
+EQ00202,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-12-28,2024-12-27
+EQ00205,PC fixe,Dell OptiPlex 7010,Lyon,2021-10-07,2024-10-06
+EQ00206,PC portable,HP EliteBook 840 G10,Lyon,2022-04-23,2025-04-22
+EQ00207,Écran,Iiyama XUB2492,Paris La Défense,2020-11-29,2023-11-29
+EQ00208,PC fixe,Dell OptiPlex 7010,Paris La Défense,2022-01-06,2025-01-05
+EQ00212,PC portable,HP EliteBook 840 G10,Marseille,2022-10-15,2025-10-14
+EQ00215,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-08-27,2023-08-27
+EQ00216,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-11-12,2025-11-11
+EQ00217,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-07-27,2025-07-26
+EQ00218,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-12-30,2023-12-30
+EQ00223,Écran,Iiyama XUB2492,Paris La Défense,2020-09-07,2023-09-07
+EQ00224,PC portable,Dell Latitude 5440,Lille,2022-10-14,2025-10-13
+EQ00228,Écran,Iiyama XUB2492,Marseille,2020-02-19,2023-02-18
+EQ00229,Écran,Iiyama XUB2492,Nantes,2022-05-26,2025-05-25
+EQ00231,Écran,Dell P2423,Paris La Défense,2022-01-21,2025-01-20
+EQ00232,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-08-22,2025-08-21
+EQ00235,Écran,Iiyama XUB2492,Lille,2019-11-18,2022-11-17
+EQ00238,PC portable,Lenovo ThinkPad T14,Lille,2020-10-13,2023-10-13
+EQ00239,Écran,Iiyama XUB2492,Nantes,2022-07-25,2025-07-24
+EQ00240,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-03-27,2025-03-26
+EQ00242,Écran,Iiyama XUB2492,Lyon,2020-01-08,2023-01-07
+EQ00244,Écran,HP E24 G5,Lyon,2021-03-29,2024-03-28
+EQ00247,Smartphone,iPhone 13,Paris Bercy,2020-10-14,2023-10-14
+EQ00248,Smartphone,iPhone 13,Marseille,2019-10-16,2022-10-15
+EQ00249,Écran,Iiyama XUB2492,Marseille,2023-01-28,2026-01-27
+EQ00252,Écran,HP E24 G5,Lyon,2022-11-03,2025-11-02
+EQ00254,PC portable,HP EliteBook 840 G10,Nantes,2020-10-10,2023-10-10
+EQ00257,PC fixe,Dell OptiPlex 7010,Marseille,2023-03-29,2026-03-28
+EQ00260,PC portable,Dell Latitude 5440,Lyon,2020-02-09,2023-02-08
+EQ00263,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-07-21,2024-07-20
+EQ00270,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-08-07,2024-08-06
+EQ00271,Écran,Iiyama XUB2492,Paris Bercy,2020-12-04,2023-12-04
+EQ00272,Smartphone,Samsung Galaxy A54,Lyon,2022-05-28,2025-05-27
+EQ00273,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-07-14,2026-07-13
+EQ00274,Écran,HP E24 G5,Lyon,2019-04-07,2022-04-06
+EQ00275,Smartphone,Samsung Galaxy A54,Lille,2019-07-08,2022-07-07
+EQ00276,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-08-22,2026-08-21
+EQ00277,PC fixe,Dell OptiPlex 7010,Lille,2022-04-08,2025-04-07
+EQ00285,PC portable,Dell Latitude 5440,Paris La Défense,2023-05-17,2026-05-16
+EQ00287,Smartphone,iPhone 13,Paris Bercy,2020-09-17,2023-09-17
+EQ00288,Écran,HP E24 G5,Lyon,2021-04-06,2024-04-05
+EQ00289,Smartphone,Samsung Galaxy A54,Marseille,2021-05-04,2024-05-03
+EQ00291,Écran,HP E24 G5,Paris La Défense,2023-06-28,2026-06-27
+EQ00292,Écran,HP E24 G5,Marseille,2023-05-16,2026-05-15
+EQ00293,Écran,Dell P2423,Paris La Défense,2019-06-09,2022-06-08
+EQ00294,Smartphone,iPhone 13,Nantes,2021-12-22,2024-12-21
+EQ00296,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2021-11-18,2024-11-17
+EQ00297,Écran,Dell P2423,Paris Bercy,2020-08-07,2023-08-07
+EQ00298,Smartphone,Samsung Galaxy A54,Lyon,2020-06-23,2023-06-23
+EQ00301,PC portable,Lenovo ThinkPad T14,Lille,2022-02-18,2025-02-17
+EQ00302,Écran,HP E24 G5,Paris La Défense,2021-12-12,2024-12-11
+EQ00303,PC portable,HP EliteBook 840 G10,Lyon,2022-11-24,2025-11-23
+EQ00305,PC fixe,Dell OptiPlex 7010,Nantes,2020-09-13,2023-09-13
+EQ00307,Smartphone,Samsung Galaxy A54,Marseille,2022-04-29,2025-04-28
+EQ00308,Smartphone,iPhone 13,Marseille,2019-08-31,2022-08-30
+EQ00312,PC portable,HP EliteBook 840 G10,Lyon,2022-10-30,2025-10-29
+EQ00314,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-04-07,2025-04-06
+EQ00317,Écran,HP E24 G5,Marseille,2022-09-08,2025-09-07
+EQ00323,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-01-10,2024-01-10
+EQ00325,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-10-19,2023-10-19
+EQ00327,PC portable,HP EliteBook 840 G10,Lyon,2023-07-22,2026-07-21
+EQ00328,PC fixe,Dell OptiPlex 7010,Marseille,2022-10-12,2025-10-11
+EQ00330,Écran,HP E24 G5,Paris Bercy,2021-12-14,2024-12-13
+EQ00331,PC portable,Dell Latitude 5440,Marseille,2021-07-09,2024-07-08
+EQ00332,PC portable,Dell Latitude 5440,Lyon,2019-02-20,2022-02-19
+EQ00333,PC portable,HP EliteBook 840 G10,Lyon,2023-02-25,2026-02-24
+EQ00338,PC portable,Dell Latitude 5440,Marseille,2022-11-24,2025-11-23
+EQ00340,Smartphone,Samsung Galaxy A54,Lille,2021-05-31,2024-05-30
+EQ00342,PC portable,Lenovo ThinkPad T14,Lille,2023-08-22,2026-08-21
+EQ00344,Écran,Dell P2423,Marseille,2021-10-29,2024-10-28
+EQ00346,PC portable,Dell Latitude 5440,Marseille,2022-08-31,2025-08-30
+EQ00347,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-12-07,2023-12-07
+EQ00349,PC portable,Lenovo ThinkPad T14,Marseille,2020-09-01,2023-09-01
+EQ00353,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-07-14,2026-07-13
+EQ00354,Écran,Iiyama XUB2492,Nantes,2022-08-05,2025-08-04
+EQ00355,PC portable,HP EliteBook 840 G10,Lyon,2021-03-22,2024-03-21
+EQ00358,PC portable,Lenovo ThinkPad T14,Nantes,2022-12-11,2025-12-10
+EQ00360,PC portable,HP EliteBook 840 G10,Lille,2021-09-11,2024-09-10
+EQ00361,PC portable,Dell Latitude 5440,Paris La Défense,2023-07-05,2026-07-04
+EQ00363,Écran,HP E24 G5,Paris La Défense,2023-06-08,2026-06-07
+EQ00364,PC fixe,Dell OptiPlex 7010,Nantes,2021-01-21,2024-01-21
+EQ00366,PC portable,Dell Latitude 5440,Marseille,2020-08-07,2023-08-07
+EQ00368,Smartphone,iPhone 13,Marseille,2019-08-20,2022-08-19
+EQ00369,Écran,Dell P2423,Nantes,2023-08-07,2026-08-06
+EQ00370,PC portable,Dell Latitude 5440,Nantes,2023-05-07,2026-05-06
+EQ00374,PC portable,HP EliteBook 840 G10,Marseille,2019-03-27,2022-03-26
+EQ00377,PC portable,Lenovo ThinkPad T14,Nantes,2021-02-21,2024-02-21
+EQ00378,PC portable,Dell Latitude 5440,Paris Bercy,2022-06-11,2025-06-10
+EQ00380,PC portable,Lenovo ThinkPad T14,Marseille,2021-04-25,2024-04-24
+EQ00381,PC fixe,Dell OptiPlex 7010,Marseille,2020-06-18,2023-06-18
+EQ00385,Écran,Dell P2423,Paris La Défense,2021-10-18,2024-10-17
+EQ00388,PC portable,HP EliteBook 840 G10,Lille,2021-03-18,2024-03-17
+EQ00391,PC portable,HP EliteBook 840 G10,Lille,2019-05-28,2022-05-27
+EQ00392,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-11-02,2025-11-01
+EQ00393,Écran,Dell P2423,Nantes,2022-07-29,2025-07-28
+EQ00394,PC portable,Dell Latitude 5440,Paris La Défense,2019-11-05,2022-11-04
+EQ00396,Smartphone,iPhone 13,Marseille,2019-01-16,2022-01-15
+EQ00398,Écran,Iiyama XUB2492,Lille,2021-02-14,2024-02-14
+EQ00400,PC portable,HP EliteBook 840 G10,Lille,2019-01-29,2022-01-28
+EQ00401,Smartphone,Samsung Galaxy A54,Lyon,2019-12-28,2022-12-27
+EQ00402,PC portable,HP EliteBook 840 G10,Marseille,2022-12-16,2025-12-15
+EQ00403,Écran,HP E24 G5,Marseille,2023-07-10,2026-07-09
+EQ00405,PC portable,Dell Latitude 5440,Marseille,2019-03-09,2022-03-08
+EQ00408,Écran,HP E24 G5,Marseille,2023-09-02,2026-09-01
+EQ00410,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-10-05,2024-10-04
+EQ00416,Écran,Dell P2423,Lyon,2020-05-08,2023-05-08
+EQ00417,PC fixe,Dell OptiPlex 7010,Marseille,2021-10-13,2024-10-12
+EQ00418,Smartphone,Samsung Galaxy A54,Marseille,2020-08-27,2023-08-27
+EQ00419,Écran,Dell P2423,Paris La Défense,2022-08-15,2025-08-14
+EQ00420,PC portable,Dell Latitude 5440,Lyon,2020-12-30,2023-12-30
+EQ00421,PC portable,Lenovo ThinkPad T14,Marseille,2019-10-12,2022-10-11
+EQ00423,Smartphone,Samsung Galaxy A54,Nantes,2020-07-17,2023-07-17
+EQ00426,PC portable,HP EliteBook 840 G10,Nantes,2021-04-05,2024-04-04
+EQ00427,PC portable,Dell Latitude 5440,Lille,2020-03-13,2023-03-13
+EQ00428,PC portable,Dell Latitude 5440,Lille,2019-08-11,2022-08-10
+EQ00430,PC fixe,Dell OptiPlex 7010,Nantes,2023-05-20,2026-05-19
+EQ00432,Smartphone,iPhone 13,Marseille,2022-05-27,2025-05-26
+EQ00433,PC portable,Dell Latitude 5440,Marseille,2022-02-20,2025-02-19
+EQ00436,Écran,Iiyama XUB2492,Paris La Défense,2021-06-01,2024-05-31
+EQ00437,Écran,Iiyama XUB2492,Lille,2022-02-24,2025-02-23
+EQ00439,PC portable,HP EliteBook 840 G10,Marseille,2023-02-13,2026-02-12
+EQ00440,Écran,HP E24 G5,Paris Bercy,2023-07-26,2026-07-25
+EQ00443,Smartphone,iPhone 13,Nantes,2020-08-17,2023-08-17
+EQ00445,Écran,Iiyama XUB2492,Lille,2020-11-05,2023-11-05
+EQ00446,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-05-28,2026-05-27
+EQ00448,PC portable,Dell Latitude 5440,Nantes,2021-05-07,2024-05-06
+EQ00460,Smartphone,iPhone 13,Paris La Défense,2023-03-24,2026-03-23
+EQ00461,Smartphone,iPhone 13,Paris Bercy,2020-02-20,2023-02-19
+EQ00466,PC portable,HP EliteBook 840 G10,Lille,2020-06-29,2023-06-29
+EQ00468,Smartphone,iPhone 13,Paris Bercy,2019-10-18,2022-10-17
+EQ00470,PC portable,Lenovo ThinkPad T14,Marseille,2020-06-05,2023-06-05
+EQ00476,PC portable,Lenovo ThinkPad T14,Nantes,2021-12-16,2024-12-15
+EQ00478,Écran,HP E24 G5,Paris Bercy,2022-10-13,2025-10-12
+EQ00479,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-10-30,2025-10-29
+EQ00480,PC portable,HP EliteBook 840 G10,Lyon,2021-02-12,2024-02-12
+EQ00481,PC portable,Dell Latitude 5440,Paris La Défense,2023-01-20,2026-01-19
+EQ00482,Écran,Iiyama XUB2492,Paris La Défense,2021-04-19,2024-04-18
+EQ00484,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-04-19,2026-04-18
+EQ00487,Écran,Dell P2423,Marseille,2023-05-03,2026-05-02
+EQ00489,Smartphone,Samsung Galaxy A54,Lyon,2022-11-03,2025-11-02
+EQ00490,Écran,HP E24 G5,Paris Bercy,2023-03-27,2026-03-26
+EQ00494,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-10-12,2023-10-12
+EQ00496,Smartphone,iPhone 13,Paris La Défense,2021-08-25,2024-08-24
+EQ00498,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-09-30,2023-09-30
+EQ00499,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-03-26,2026-03-25
+EQ00501,Écran,Dell P2423,Nantes,2021-10-26,2024-10-25
+EQ00502,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-05-30,2022-05-29
+EQ00504,Smartphone,Samsung Galaxy A54,Marseille,2021-11-01,2024-10-31
+EQ00505,Smartphone,Samsung Galaxy A54,Lyon,2022-04-25,2025-04-24
+EQ00508,PC portable,Lenovo ThinkPad T14,Lyon,2023-07-11,2026-07-10
+EQ00510,Smartphone,Samsung Galaxy A54,Lyon,2023-03-28,2026-03-27
+EQ00511,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-09-07,2026-09-06
+EQ00515,Écran,Dell P2423,Nantes,2022-02-16,2025-02-15
+EQ00517,PC portable,Lenovo ThinkPad T14,Lille,2020-02-08,2023-02-07
+EQ00518,Smartphone,Samsung Galaxy A54,Lyon,2022-09-29,2025-09-28
+EQ00519,PC portable,Lenovo ThinkPad T14,Lyon,2020-11-06,2023-11-06
+EQ00520,Écran,HP E24 G5,Paris La Défense,2020-09-14,2023-09-14
+EQ00522,Écran,HP E24 G5,Paris Bercy,2021-02-26,2024-02-26
+EQ00524,PC portable,Lenovo ThinkPad T14,Lille,2022-10-19,2025-10-18
+EQ00525,PC portable,HP EliteBook 840 G10,Lyon,2021-08-21,2024-08-20
+EQ00526,PC portable,Lenovo ThinkPad T14,Lille,2022-09-24,2025-09-23
+EQ00528,PC portable,Dell Latitude 5440,Lyon,2021-02-23,2024-02-23
+EQ00532,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-02-12,2025-02-11
+EQ00533,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-01-12,2022-01-11
+EQ00534,PC portable,Lenovo ThinkPad T14,Nantes,2023-05-20,2026-05-19
+EQ00536,Smartphone,Samsung Galaxy A54,Marseille,2019-09-15,2022-09-14
+EQ00537,PC portable,HP EliteBook 840 G10,Nantes,2022-07-14,2025-07-13
+EQ00542,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-09-07,2025-09-06
+EQ00544,Écran,HP E24 G5,Paris La Défense,2023-01-20,2026-01-19
+EQ00546,Smartphone,iPhone 13,Lyon,2019-09-28,2022-09-27
+EQ00548,Écran,Iiyama XUB2492,Marseille,2021-03-06,2024-03-05
+EQ00551,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-02-09,2024-02-09
+EQ00552,Écran,Dell P2423,Lille,2023-08-30,2026-08-29
+EQ00553,PC portable,Lenovo ThinkPad T14,Nantes,2020-01-29,2023-01-28
+EQ00555,PC portable,Dell Latitude 5440,Marseille,2022-05-13,2025-05-12
+EQ00556,Smartphone,Samsung Galaxy A54,Paris La Défense,2023-01-24,2026-01-23
+EQ00557,PC portable,Lenovo ThinkPad T14,Nantes,2022-06-29,2025-06-28
+EQ00559,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-09-18,2026-09-17
+EQ00560,Écran,HP E24 G5,Marseille,2020-03-13,2023-03-13
+EQ00561,PC portable,Lenovo ThinkPad T14,Marseille,2019-03-10,2022-03-09
+EQ00562,Écran,Dell P2423,Marseille,2021-02-07,2024-02-07
+EQ00564,PC portable,Lenovo ThinkPad T14,Lyon,2023-09-18,2026-09-17
+EQ00565,PC portable,Dell Latitude 5440,Lille,2021-01-25,2024-01-25
+EQ00566,Écran,HP E24 G5,Paris Bercy,2023-06-05,2026-06-04
+EQ00570,PC portable,Dell Latitude 5440,Paris La Défense,2020-10-11,2023-10-11
+EQ00571,PC fixe,HP EliteDesk 800 G9,Lille,2022-05-26,2025-05-25
+EQ00577,Écran,Iiyama XUB2492,Nantes,2022-01-18,2025-01-17
+EQ00578,PC portable,Dell Latitude 5440,Lyon,2022-10-08,2025-10-07
+EQ00581,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-11-16,2024-11-15
+EQ00582,Smartphone,iPhone 13,Paris La Défense,2021-05-06,2024-05-05
+EQ00583,Écran,Dell P2423,Marseille,2019-01-27,2022-01-26
+EQ00584,Écran,Dell P2423,Paris Bercy,2021-02-27,2024-02-27
+EQ00586,PC fixe,Dell OptiPlex 7010,Paris Bercy,2019-02-01,2022-01-31
+EQ00588,Écran,Dell P2423,Marseille,2021-06-02,2024-06-01
+EQ00593,PC portable,Lenovo ThinkPad T14,Lille,2023-09-26,2026-09-25
+EQ00594,PC portable,Dell Latitude 5440,Paris La Défense,2019-05-16,2022-05-15
+EQ00595,Smartphone,Samsung Galaxy A54,Marseille,2020-02-07,2023-02-06
+EQ00596,Écran,Dell P2423,Lyon,2022-04-11,2025-04-10
+EQ00597,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2019-11-10,2022-11-09
+EQ00598,PC portable,Dell Latitude 5440,Paris Bercy,2020-05-18,2023-05-18
+EQ00599,PC portable,Lenovo ThinkPad T14,Marseille,2021-09-11,2024-09-10
+EQ00605,Écran,Dell P2423,Marseille,2022-06-13,2025-06-12
+EQ00607,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-04-05,2025-04-04
+EQ00609,Écran,Iiyama XUB2492,Paris Bercy,2023-02-17,2026-02-16
+EQ00611,Smartphone,Samsung Galaxy A54,Lyon,2021-05-05,2024-05-04
+EQ00614,PC portable,Lenovo ThinkPad T14,Nantes,2019-12-10,2022-12-09
+EQ00615,PC portable,Dell Latitude 5440,Paris Bercy,2021-01-27,2024-01-27
+EQ00617,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-08-29,2026-08-28
+EQ00618,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-10-18,2022-10-17
+EQ00619,Écran,Iiyama XUB2492,Nantes,2021-06-02,2024-06-01
+EQ00620,Écran,Iiyama XUB2492,Paris Bercy,2022-04-19,2025-04-18
+EQ00621,PC portable,HP EliteBook 840 G10,Lille,2023-02-11,2026-02-10
+EQ00623,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-06-22,2022-06-21
+EQ00624,PC portable,HP EliteBook 840 G10,Lyon,2021-06-14,2024-06-13
+EQ00628,Écran,HP E24 G5,Paris La Défense,2019-08-07,2022-08-06
+EQ00633,Écran,Dell P2423,Paris Bercy,2021-03-07,2024-03-06
+EQ00634,Smartphone,iPhone 13,Nantes,2023-07-14,2026-07-13
+EQ00635,Smartphone,iPhone 13,Lille,2019-05-06,2022-05-05
+EQ00636,Smartphone,iPhone 13,Lyon,2019-03-13,2022-03-12
+EQ00638,Écran,HP E24 G5,Nantes,2023-04-16,2026-04-15
+EQ00639,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-08-19,2023-08-19
+EQ00642,PC portable,Dell Latitude 5440,Nantes,2023-05-05,2026-05-04
+EQ00643,PC portable,Dell Latitude 5440,Marseille,2019-09-29,2022-09-28
+EQ00644,Écran,Iiyama XUB2492,Nantes,2021-03-13,2024-03-12
+EQ00646,Écran,Iiyama XUB2492,Lille,2023-08-14,2026-08-13
+EQ00648,Écran,Dell P2423,Paris La Défense,2021-12-12,2024-12-11
+EQ00651,PC fixe,Dell OptiPlex 7010,Lyon,2022-06-11,2025-06-10
+EQ00652,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-08-16,2025-08-15
+EQ00654,PC portable,Dell Latitude 5440,Paris La Défense,2021-02-03,2024-02-03
+EQ00659,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-10-14,2023-10-14
+EQ00660,Écran,Dell P2423,Paris La Défense,2020-12-14,2023-12-14
+EQ00662,Smartphone,iPhone 13,Paris La Défense,2020-06-03,2023-06-03
+EQ00663,Smartphone,iPhone 13,Lille,2022-10-15,2025-10-14
+EQ00668,Écran,Dell P2423,Nantes,2022-08-04,2025-08-03
+EQ00670,Écran,Iiyama XUB2492,Lyon,2021-08-30,2024-08-29
+EQ00671,Écran,Iiyama XUB2492,Marseille,2023-01-16,2026-01-15
+EQ00672,PC portable,HP EliteBook 840 G10,Lyon,2022-11-04,2025-11-03
+EQ00674,PC portable,Lenovo ThinkPad T14,Lille,2021-10-07,2024-10-06
+EQ00678,PC portable,Lenovo ThinkPad T14,Nantes,2021-07-04,2024-07-03
+EQ00679,PC portable,Dell Latitude 5440,Lille,2022-06-09,2025-06-08
+EQ00680,Écran,HP E24 G5,Nantes,2022-09-28,2025-09-27
+EQ00681,PC portable,Dell Latitude 5440,Paris Bercy,2020-03-15,2023-03-15
+EQ00683,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-12-23,2022-12-22
+EQ00684,PC fixe,Dell OptiPlex 7010,Lyon,2022-01-17,2025-01-16
+EQ00685,Écran,Iiyama XUB2492,Paris La Défense,2023-09-01,2026-08-31
+EQ00687,Smartphone,Samsung Galaxy A54,Nantes,2022-02-19,2025-02-18
+EQ00688,Smartphone,Samsung Galaxy A54,Lille,2019-12-06,2022-12-05
+EQ00689,Écran,Dell P2423,Lyon,2022-08-28,2025-08-27
+EQ00690,PC fixe,HP EliteDesk 800 G9,Marseille,2023-04-19,2026-04-18
+EQ00691,Écran,Dell P2423,Lille,2022-04-13,2025-04-12
+EQ00692,Écran,Dell P2423,Lyon,2023-02-19,2026-02-18
+EQ00693,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-09-15,2022-09-14
+EQ00695,PC portable,Dell Latitude 5440,Marseille,2021-12-10,2024-12-09
+EQ00696,PC portable,HP EliteBook 840 G10,Nantes,2023-01-27,2026-01-26
+EQ00698,PC fixe,Dell OptiPlex 7010,Marseille,2020-02-23,2023-02-22
+EQ00701,PC portable,Dell Latitude 5440,Lille,2022-09-01,2025-08-31
+EQ00704,PC portable,HP EliteBook 840 G10,Nantes,2021-11-05,2024-11-04
+EQ00705,PC portable,Lenovo ThinkPad T14,Lyon,2019-08-16,2022-08-15
+EQ00706,Écran,HP E24 G5,Paris Bercy,2020-02-08,2023-02-07
+EQ00709,PC portable,Lenovo ThinkPad T14,Lille,2023-05-08,2026-05-07
+EQ00710,PC portable,Dell Latitude 5440,Lille,2021-05-10,2024-05-09
+EQ00714,Écran,HP E24 G5,Paris La Défense,2020-04-19,2023-04-19
+EQ00715,Écran,Iiyama XUB2492,Paris La Défense,2021-05-26,2024-05-25
+EQ00717,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-10-12,2025-10-11
+EQ00719,Écran,Iiyama XUB2492,Lille,2019-09-28,2022-09-27
+EQ00720,PC portable,Lenovo ThinkPad T14,Nantes,2023-01-10,2026-01-09
+EQ00721,Smartphone,iPhone 13,Paris La Défense,2023-09-27,2026-09-26
+EQ00722,Smartphone,iPhone 13,Marseille,2019-04-02,2022-04-01
+EQ00723,Smartphone,Samsung Galaxy A54,Lyon,2020-03-14,2023-03-14
+EQ00729,Écran,Dell P2423,Paris La Défense,2020-12-17,2023-12-17
+EQ00733,Écran,Dell P2423,Paris La Défense,2019-04-13,2022-04-12
+EQ00737,PC portable,Lenovo ThinkPad T14,Marseille,2023-08-26,2026-08-25
+EQ00741,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-12-03,2023-12-03
+EQ00742,Écran,Iiyama XUB2492,Lyon,2021-08-21,2024-08-20
+EQ00745,PC fixe,HP EliteDesk 800 G9,Nantes,2019-10-17,2022-10-16
+EQ00746,PC portable,Dell Latitude 5440,Nantes,2019-02-17,2022-02-16
+EQ00749,PC portable,HP EliteBook 840 G10,Nantes,2023-05-26,2026-05-25
+EQ00751,Écran,Iiyama XUB2492,Marseille,2020-12-26,2023-12-26
+EQ00755,Écran,HP E24 G5,Lille,2021-09-22,2024-09-21
+EQ00756,Écran,Iiyama XUB2492,Nantes,2021-12-25,2024-12-24
+EQ00758,Écran,Iiyama XUB2492,Lyon,2021-10-13,2024-10-12
+EQ00761,PC portable,HP EliteBook 840 G10,Lille,2021-03-02,2024-03-01
+EQ00763,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-01-17,2025-01-16
+EQ00765,PC portable,HP EliteBook 840 G10,Lille,2022-07-03,2025-07-02
+EQ00767,PC portable,Dell Latitude 5440,Paris La Défense,2020-04-09,2023-04-09
+EQ00769,Écran,Iiyama XUB2492,Lyon,2020-07-10,2023-07-10
+EQ00775,Écran,Dell P2423,Paris Bercy,2020-10-18,2023-10-18
+EQ00776,Écran,Dell P2423,Paris La Défense,2023-05-18,2026-05-17
+EQ00777,PC fixe,HP EliteDesk 800 G9,Nantes,2021-10-25,2024-10-24
+EQ00779,Smartphone,Samsung Galaxy A54,Marseille,2022-01-24,2025-01-23
+EQ00782,Écran,HP E24 G5,Nantes,2021-08-10,2024-08-09
+EQ00783,Smartphone,iPhone 13,Paris La Défense,2019-11-11,2022-11-10
+EQ00786,Écran,Iiyama XUB2492,Lille,2021-09-21,2024-09-20
+EQ00787,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2020-11-26,2023-11-26
+EQ00790,PC fixe,HP EliteDesk 800 G9,Nantes,2022-03-19,2025-03-18
+EQ00791,PC portable,HP EliteBook 840 G10,Lille,2021-11-07,2024-11-06
+EQ00792,Écran,Iiyama XUB2492,Paris La Défense,2020-03-14,2023-03-14
+EQ00797,PC portable,Dell Latitude 5440,Paris Bercy,2021-08-22,2024-08-21
+EQ00802,PC portable,HP EliteBook 840 G10,Nantes,2021-08-21,2024-08-20
+EQ00803,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-07-20,2023-07-20
+EQ00805,Écran,HP E24 G5,Lille,2022-09-11,2025-09-10
+EQ00806,PC portable,Lenovo ThinkPad T14,Lyon,2023-02-28,2026-02-27
+EQ00808,Écran,Iiyama XUB2492,Marseille,2021-03-08,2024-03-07
+EQ00811,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-03-25,2026-03-24
+EQ00812,Écran,Iiyama XUB2492,Marseille,2023-01-08,2026-01-07
+EQ00814,PC portable,HP EliteBook 840 G10,Marseille,2020-04-27,2023-04-27
+EQ00818,PC portable,Dell Latitude 5440,Lyon,2022-04-17,2025-04-16
+EQ00819,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-07-23,2022-07-22
+EQ00820,PC portable,Dell Latitude 5440,Marseille,2019-08-05,2022-08-04
+EQ00824,Écran,Iiyama XUB2492,Paris La Défense,2019-08-30,2022-08-29
+EQ00827,Écran,Iiyama XUB2492,Lille,2021-07-18,2024-07-17
+EQ00828,Smartphone,iPhone 13,Marseille,2020-04-18,2023-04-18
+EQ00830,Écran,Iiyama XUB2492,Marseille,2023-01-14,2026-01-13
+EQ00831,PC portable,Dell Latitude 5440,Marseille,2020-09-12,2023-09-12
+EQ00834,Smartphone,iPhone 13,Marseille,2022-05-05,2025-05-04
+EQ00838,PC portable,HP EliteBook 840 G10,Lyon,2022-09-07,2025-09-06
+EQ00839,PC portable,HP EliteBook 840 G10,Lyon,2021-08-15,2024-08-14
+EQ00840,Smartphone,iPhone 13,Lille,2019-12-05,2022-12-04
+EQ00841,Smartphone,iPhone 13,Paris La Défense,2023-01-03,2026-01-02
+EQ00842,Écran,Iiyama XUB2492,Lyon,2021-01-19,2024-01-19
+EQ00844,PC portable,Dell Latitude 5440,Paris Bercy,2019-04-25,2022-04-24
+EQ00847,PC portable,HP EliteBook 840 G10,Lille,2023-03-12,2026-03-11
+EQ00848,PC portable,HP EliteBook 840 G10,Marseille,2019-03-20,2022-03-19
+EQ00849,Écran,Iiyama XUB2492,Lyon,2022-03-29,2025-03-28
+EQ00850,PC portable,HP EliteBook 840 G10,Marseille,2023-05-28,2026-05-27
+EQ00851,PC portable,Dell Latitude 5440,Paris La Défense,2019-02-15,2022-02-14
+EQ00852,PC portable,Dell Latitude 5440,Lyon,2021-06-25,2024-06-24
+EQ00853,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-04-22,2023-04-22
+EQ00855,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-02-03,2024-02-03
+EQ00857,PC portable,Dell Latitude 5440,Marseille,2021-02-13,2024-02-13
+EQ00861,Smartphone,iPhone 13,Paris Bercy,2022-10-23,2025-10-22
+EQ00862,Écran,Dell P2423,Lyon,2022-02-04,2025-02-03
+EQ00863,Smartphone,iPhone 13,Paris Bercy,2021-07-25,2024-07-24
+EQ00867,Écran,Iiyama XUB2492,Paris Bercy,2021-06-16,2024-06-15
+EQ00873,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-04-11,2024-04-10
+EQ00874,PC portable,Dell Latitude 5440,Marseille,2023-05-30,2026-05-29
+EQ00877,Écran,Dell P2423,Paris Bercy,2023-03-24,2026-03-23
+EQ00878,PC portable,Dell Latitude 5440,Paris Bercy,2022-04-25,2025-04-24
+EQ00879,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-09-11,2023-09-11
+EQ00882,Écran,Dell P2423,Nantes,2023-02-02,2026-02-01
+EQ00883,Écran,HP E24 G5,Lille,2023-02-07,2026-02-06
+EQ00885,Écran,Iiyama XUB2492,Lille,2022-01-03,2025-01-02
+EQ00888,PC portable,Lenovo ThinkPad T14,Nantes,2019-02-02,2022-02-01
+EQ00889,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-02-05,2025-02-04
+EQ00890,Écran,Dell P2423,Paris Bercy,2021-10-12,2024-10-11
+EQ00891,PC fixe,Dell OptiPlex 7010,Lille,2020-03-03,2023-03-03
+EQ00892,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-08-04,2023-08-04
+EQ00893,PC fixe,HP EliteDesk 800 G9,Lille,2021-12-29,2024-12-28
+EQ00894,Smartphone,Samsung Galaxy A54,Lille,2019-04-14,2022-04-13
+EQ00899,Smartphone,Samsung Galaxy A54,Paris La Défense,2021-03-23,2024-03-22
+EQ00900,Smartphone,Samsung Galaxy A54,Lyon,2021-10-05,2024-10-04
+EQ00904,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-06-08,2022-06-07
+EQ00905,PC fixe,HP EliteDesk 800 G9,Lille,2021-01-19,2024-01-19
+EQ00906,PC portable,Dell Latitude 5440,Paris Bercy,2021-05-09,2024-05-08
+EQ00911,PC portable,Lenovo ThinkPad T14,Lyon,2019-08-16,2022-08-15
+EQ00913,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-04-28,2026-04-27
+EQ00914,PC fixe,HP EliteDesk 800 G9,Marseille,2023-02-05,2026-02-04
+EQ00915,Écran,Iiyama XUB2492,Paris La Défense,2023-02-17,2026-02-16
+EQ00916,Smartphone,Samsung Galaxy A54,Nantes,2020-01-10,2023-01-09
+EQ00918,PC portable,Dell Latitude 5440,Paris Bercy,2021-11-04,2024-11-03
+EQ00919,PC portable,Dell Latitude 5440,Paris Bercy,2019-10-28,2022-10-27
+EQ00921,Écran,Iiyama XUB2492,Marseille,2019-04-26,2022-04-25
+EQ00923,Écran,Iiyama XUB2492,Paris Bercy,2022-06-18,2025-06-17
+EQ00924,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-07-07,2022-07-06
+EQ00926,PC fixe,HP EliteDesk 800 G9,Nantes,2022-05-04,2025-05-03
+EQ00928,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-07-24,2026-07-23
+EQ00929,PC portable,Lenovo ThinkPad T14,Lille,2020-03-26,2023-03-26
+EQ00937,Écran,Dell P2423,Paris La Défense,2020-06-12,2023-06-12
+EQ00938,PC fixe,Dell OptiPlex 7010,Nantes,2022-05-19,2025-05-18
+EQ00939,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-09-28,2024-09-27
+EQ00940,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-08-12,2022-08-11
+EQ00943,PC portable,Dell Latitude 5440,Paris La Défense,2020-07-09,2023-07-09
+EQ00948,PC fixe,HP EliteDesk 800 G9,Marseille,2022-02-22,2025-02-21
+EQ00950,Smartphone,iPhone 13,Paris Bercy,2021-06-01,2024-05-31
+EQ00951,Smartphone,iPhone 13,Marseille,2019-02-13,2022-02-12
+EQ00952,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-06-23,2023-06-23
+EQ00955,Écran,Dell P2423,Nantes,2021-07-20,2024-07-19
+EQ00957,PC portable,Dell Latitude 5440,Paris La Défense,2019-12-13,2022-12-12
+EQ00960,Écran,Dell P2423,Marseille,2020-03-24,2023-03-24
+EQ00961,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-03-19,2026-03-18
+EQ00963,Smartphone,Samsung Galaxy A54,Lyon,2019-03-17,2022-03-16
+EQ00964,Écran,Iiyama XUB2492,Paris Bercy,2022-07-06,2025-07-05
+EQ00966,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-11-29,2023-11-29
+EQ00967,Smartphone,iPhone 13,Nantes,2020-09-10,2023-09-10
+EQ00968,PC portable,Lenovo ThinkPad T14,Marseille,2021-09-27,2024-09-26
+EQ00969,Écran,Dell P2423,Paris La Défense,2022-10-23,2025-10-22
+EQ00970,Smartphone,iPhone 13,Lille,2021-07-08,2024-07-07
+EQ00972,PC portable,Lenovo ThinkPad T14,Lyon,2022-08-31,2025-08-30
+EQ00974,PC portable,Lenovo ThinkPad T14,Lille,2022-06-27,2025-06-26
+EQ00981,PC portable,Lenovo ThinkPad T14,Nantes,2021-09-27,2024-09-26
+EQ00983,Écran,HP E24 G5,Marseille,2020-11-02,2023-11-02
+EQ00985,PC portable,Lenovo ThinkPad T14,Lille,2022-10-09,2025-10-08
+EQ00986,Écran,HP E24 G5,Paris Bercy,2023-07-07,2026-07-06
+EQ00987,PC portable,Dell Latitude 5440,Lille,2021-07-13,2024-07-12
+EQ00988,Écran,HP E24 G5,Marseille,2019-03-23,2022-03-22
+EQ00991,PC portable,HP EliteBook 840 G10,Lyon,2022-05-09,2025-05-08
+EQ00993,PC portable,Lenovo ThinkPad T14,Lille,2022-01-22,2025-01-21
+EQ00999,PC portable,Lenovo ThinkPad T14,Lyon,2023-04-09,2026-04-08
+EQ01000,Écran,Dell P2423,Paris La Défense,2023-06-04,2026-06-03
+EQ01001,Écran,Dell P2423,Paris La Défense,2019-09-08,2022-09-07
+EQ01005,Écran,Dell P2423,Paris La Défense,2019-02-22,2022-02-21
+EQ01010,Écran,Iiyama XUB2492,Lyon,2020-04-23,2023-04-23
+EQ01012,PC portable,HP EliteBook 840 G10,Lille,2022-03-27,2025-03-26
+EQ01013,PC fixe,Dell OptiPlex 7010,Paris La Défense,2022-07-04,2025-07-03
+EQ01015,Écran,Iiyama XUB2492,Lille,2021-08-28,2024-08-27
+EQ01016,PC portable,Lenovo ThinkPad T14,Nantes,2022-11-20,2025-11-19
+EQ01017,PC portable,HP EliteBook 840 G10,Nantes,2023-02-17,2026-02-16
+EQ01018,PC portable,HP EliteBook 840 G10,Nantes,2022-06-17,2025-06-16
+EQ01019,Écran,HP E24 G5,Paris La Défense,2022-04-26,2025-04-25
+EQ01023,PC portable,Dell Latitude 5440,Lyon,2019-09-14,2022-09-13
+EQ01026,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-06-11,2026-06-10
+EQ01028,Écran,Iiyama XUB2492,Marseille,2022-10-25,2025-10-24
+EQ01033,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-08-10,2023-08-10
+EQ01036,Écran,Dell P2423,Marseille,2021-04-24,2024-04-23
+EQ01038,PC portable,Dell Latitude 5440,Nantes,2022-10-10,2025-10-09
+EQ01040,Écran,Iiyama XUB2492,Lille,2020-01-02,2023-01-01
+EQ01041,Écran,Dell P2423,Lille,2019-03-23,2022-03-22
+EQ01044,PC portable,Lenovo ThinkPad T14,Nantes,2022-11-29,2025-11-28
+EQ01045,PC portable,HP EliteBook 840 G10,Nantes,2022-09-29,2025-09-28
+EQ01046,Écran,Iiyama XUB2492,Nantes,2021-09-07,2024-09-06
+EQ01049,Écran,Iiyama XUB2492,Paris La Défense,2021-11-16,2024-11-15
+EQ01050,PC fixe,HP EliteDesk 800 G9,Lille,2022-08-17,2025-08-16
+EQ01051,Écran,HP E24 G5,Marseille,2022-05-12,2025-05-11
+EQ01052,Smartphone,iPhone 13,Paris Bercy,2019-06-03,2022-06-02
+EQ01053,Écran,HP E24 G5,Paris La Défense,2021-05-15,2024-05-14
+EQ01054,Écran,Dell P2423,Nantes,2019-01-15,2022-01-14
+EQ01056,PC portable,Dell Latitude 5440,Paris Bercy,2019-05-24,2022-05-23
+EQ01058,Écran,Iiyama XUB2492,Paris La Défense,2023-09-13,2026-09-12
+EQ01059,Smartphone,iPhone 13,Lille,2019-10-05,2022-10-04
+EQ01060,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-03-01,2026-02-28
+EQ01061,Smartphone,Samsung Galaxy A54,Lyon,2020-08-13,2023-08-13
+EQ01062,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-04-01,2025-03-31
+EQ01063,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-12,2026-04-11
+EQ01064,Écran,Dell P2423,Marseille,2023-05-21,2026-05-20
+EQ01067,PC portable,HP EliteBook 840 G10,Nantes,2021-04-16,2024-04-15
+EQ01068,Smartphone,iPhone 13,Lille,2022-02-18,2025-02-17
+EQ01072,PC portable,Dell Latitude 5440,Marseille,2020-06-18,2023-06-18
+EQ01073,Écran,Dell P2423,Paris La Défense,2022-12-07,2025-12-06
+EQ01074,Écran,HP E24 G5,Paris Bercy,2020-01-08,2023-01-07
+EQ01085,Smartphone,iPhone 13,Nantes,2023-04-24,2026-04-23
+EQ01087,PC portable,HP EliteBook 840 G10,Nantes,2019-12-03,2022-12-02
+EQ01089,PC portable,HP EliteBook 840 G10,Nantes,2020-01-29,2023-01-28
+EQ01090,Smartphone,iPhone 13,Lille,2021-02-13,2024-02-13
+EQ01098,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-12-20,2023-12-20
+EQ01099,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-01-02,2023-01-01
+EQ01100,Écran,Iiyama XUB2492,Lyon,2021-11-25,2024-11-24
+EQ01102,Smartphone,Samsung Galaxy A54,Nantes,2020-03-14,2023-03-14
+EQ01105,PC fixe,HP EliteDesk 800 G9,Lille,2023-09-10,2026-09-09
+EQ01106,Écran,Dell P2423,Paris Bercy,2020-09-17,2023-09-17
+EQ01109,PC portable,Lenovo ThinkPad T14,Nantes,2020-03-21,2023-03-21
+EQ01110,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-03-28,2023-03-28
+EQ01111,PC portable,Dell Latitude 5440,Lille,2022-03-05,2025-03-04
+EQ01114,Smartphone,iPhone 13,Lyon,2023-07-18,2026-07-17
+EQ01116,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-07-03,2026-07-02
+EQ01117,PC portable,Dell Latitude 5440,Marseille,2021-09-08,2024-09-07
+EQ01119,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-04-23,2023-04-23
+EQ01120,Smartphone,iPhone 13,Lyon,2020-09-29,2023-09-29
+EQ01121,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-05-08,2023-05-08
+EQ01124,Écran,HP E24 G5,Lyon,2023-04-23,2026-04-22
+EQ01128,PC portable,Dell Latitude 5440,Paris Bercy,2023-06-07,2026-06-06
+EQ01131,PC portable,HP EliteBook 840 G10,Lille,2019-08-13,2022-08-12
+EQ01132,Écran,Dell P2423,Nantes,2020-04-05,2023-04-05
+EQ01133,Écran,Dell P2423,Lyon,2019-03-05,2022-03-04
+EQ01135,PC portable,Lenovo ThinkPad T14,Marseille,2020-09-28,2023-09-28
+EQ01136,Smartphone,iPhone 13,Paris La Défense,2022-09-11,2025-09-10
+EQ01139,PC fixe,HP EliteDesk 800 G9,Lyon,2020-05-16,2023-05-16
+EQ01142,Smartphone,iPhone 13,Marseille,2023-07-01,2026-06-30
+EQ01143,PC portable,Lenovo ThinkPad T14,Lyon,2019-05-04,2022-05-03
+EQ01147,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-08-25,2023-08-25
+EQ01148,Smartphone,iPhone 13,Marseille,2020-03-12,2023-03-12
+EQ01149,PC portable,Dell Latitude 5440,Marseille,2020-02-29,2023-02-28
+EQ01150,Écran,Dell P2423,Paris La Défense,2019-02-26,2022-02-25
+EQ01151,PC portable,Dell Latitude 5440,Marseille,2021-03-05,2024-03-04
+EQ01152,Écran,HP E24 G5,Nantes,2020-10-16,2023-10-16
+EQ01153,Smartphone,iPhone 13,Nantes,2019-01-22,2022-01-21
+EQ01154,Écran,Dell P2423,Nantes,2021-01-08,2024-01-08
+EQ01155,Écran,Iiyama XUB2492,Marseille,2020-12-04,2023-12-04
+EQ01157,Écran,Iiyama XUB2492,Paris Bercy,2019-03-30,2022-03-29
+EQ01158,Écran,Dell P2423,Paris Bercy,2020-11-10,2023-11-10
+EQ01159,Smartphone,iPhone 13,Paris Bercy,2021-10-09,2024-10-08
+EQ01160,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-05-17,2022-05-16
+EQ01162,Écran,Dell P2423,Lyon,2022-01-08,2025-01-07
+EQ01163,PC portable,Dell Latitude 5440,Marseille,2021-09-21,2024-09-20
+EQ01164,PC portable,Lenovo ThinkPad T14,Marseille,2021-04-12,2024-04-11
+EQ01166,Écran,Iiyama XUB2492,Paris La Défense,2021-07-25,2024-07-24
+EQ01168,PC portable,Dell Latitude 5440,Lille,2021-05-09,2024-05-08
+EQ01171,Smartphone,iPhone 13,Nantes,2020-03-24,2023-03-24
+EQ01173,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-01-31,2025-01-30
+EQ01175,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-06-03,2025-06-02
+EQ01176,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-07-20,2026-07-19
+EQ01178,PC portable,Dell Latitude 5440,Marseille,2020-07-04,2023-07-04
+EQ01179,Écran,HP E24 G5,Nantes,2019-08-04,2022-08-03
+EQ01180,Écran,Dell P2423,Lyon,2021-10-03,2024-10-02
+EQ01181,PC portable,Lenovo ThinkPad T14,Marseille,2022-02-24,2025-02-23
+EQ01182,PC portable,Lenovo ThinkPad T14,Lille,2021-06-13,2024-06-12
+EQ01183,Smartphone,iPhone 13,Marseille,2021-03-22,2024-03-21
+EQ01187,PC portable,Dell Latitude 5440,Nantes,2021-10-25,2024-10-24
+EQ01188,Smartphone,Samsung Galaxy A54,Marseille,2019-10-12,2022-10-11
+EQ01190,PC portable,HP EliteBook 840 G10,Nantes,2023-05-12,2026-05-11
+EQ01191,Écran,HP E24 G5,Lille,2023-02-23,2026-02-22
+EQ01193,PC portable,HP EliteBook 840 G10,Marseille,2022-07-05,2025-07-04
+EQ01194,PC fixe,HP EliteDesk 800 G9,Lyon,2019-11-15,2022-11-14
+EQ01196,Écran,Dell P2423,Lille,2020-06-22,2023-06-22
+EQ01197,Écran,HP E24 G5,Paris Bercy,2019-09-02,2022-09-01
+EQ01198,Smartphone,Samsung Galaxy A54,Lille,2021-07-22,2024-07-21
+EQ01202,PC fixe,Dell OptiPlex 7010,Nantes,2021-04-20,2024-04-19
+EQ01203,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2023-06-26,2026-06-25
+EQ01204,PC portable,HP EliteBook 840 G10,Lille,2019-03-31,2022-03-30
+EQ01205,PC portable,Dell Latitude 5440,Paris Bercy,2023-05-20,2026-05-19
+EQ01207,PC portable,Dell Latitude 5440,Paris Bercy,2022-08-15,2025-08-14
+EQ01211,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-01-17,2025-01-16
+EQ01212,PC fixe,HP EliteDesk 800 G9,Marseille,2019-01-23,2022-01-22
+EQ01213,Smartphone,Samsung Galaxy A54,Marseille,2020-02-26,2023-02-25
+EQ01214,PC portable,HP EliteBook 840 G10,Nantes,2019-08-11,2022-08-10
+EQ01215,PC portable,Lenovo ThinkPad T14,Marseille,2020-10-14,2023-10-14
+EQ01216,Écran,Iiyama XUB2492,Marseille,2019-03-20,2022-03-19
+EQ01217,Écran,HP E24 G5,Paris La Défense,2023-04-26,2026-04-25
+EQ01218,Écran,Iiyama XUB2492,Marseille,2020-12-18,2023-12-18
+EQ01220,Écran,Dell P2423,Lille,2022-04-24,2025-04-23
+EQ01221,PC portable,Dell Latitude 5440,Marseille,2021-07-01,2024-06-30
+EQ01222,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-04-17,2025-04-16
+EQ01223,Écran,Dell P2423,Lyon,2023-02-13,2026-02-12
+EQ01224,Écran,Dell P2423,Nantes,2022-01-19,2025-01-18
+EQ01225,PC portable,HP EliteBook 840 G10,Lyon,2023-02-22,2026-02-21
+EQ01228,PC portable,Dell Latitude 5440,Nantes,2023-08-10,2026-08-09
+EQ01229,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-07-30,2026-07-29
+EQ01232,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-05-18,2025-05-17
+EQ01233,PC portable,Lenovo ThinkPad T14,Nantes,2021-03-30,2024-03-29
+EQ01236,Smartphone,iPhone 13,Lille,2022-06-03,2025-06-02
+EQ01238,Écran,Iiyama XUB2492,Lyon,2023-04-21,2026-04-20
+EQ01244,PC portable,Lenovo ThinkPad T14,Marseille,2022-09-26,2025-09-25
+EQ01249,PC fixe,Dell OptiPlex 7010,Lyon,2021-02-16,2024-02-16
+EQ01250,Smartphone,Samsung Galaxy A54,Lille,2019-01-22,2022-01-21
+EQ01251,Smartphone,iPhone 13,Paris La Défense,2023-01-03,2026-01-02
+EQ01253,Écran,HP E24 G5,Lyon,2020-01-26,2023-01-25
+EQ01254,Écran,Dell P2423,Lyon,2022-06-29,2025-06-28
+EQ01255,PC fixe,Dell OptiPlex 7010,Paris La Défense,2020-12-30,2023-12-30
+EQ01256,PC portable,Lenovo ThinkPad T14,Lille,2022-02-15,2025-02-14
+EQ01258,PC portable,HP EliteBook 840 G10,Nantes,2021-02-16,2024-02-16
+EQ01261,PC portable,HP EliteBook 840 G10,Lille,2021-03-28,2024-03-27
+EQ01263,Smartphone,Samsung Galaxy A54,Lille,2023-01-28,2026-01-27
+EQ01264,Écran,Dell P2423,Lille,2020-07-17,2023-07-17
+EQ01265,Écran,Dell P2423,Paris Bercy,2023-07-30,2026-07-29
+EQ01267,PC portable,Dell Latitude 5440,Marseille,2021-09-04,2024-09-03
+EQ01269,PC portable,Dell Latitude 5440,Paris Bercy,2019-04-29,2022-04-28
+EQ01270,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-05-27,2026-05-26
+EQ01272,PC portable,Lenovo ThinkPad T14,Lyon,2022-03-14,2025-03-13
+EQ01275,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-07-31,2026-07-30
+EQ01276,Smartphone,iPhone 13,Marseille,2020-09-23,2023-09-23
+EQ01277,PC portable,Lenovo ThinkPad T14,Lille,2021-08-01,2024-07-31
+EQ01281,Smartphone,Samsung Galaxy A54,Nantes,2023-07-16,2026-07-15
+EQ01284,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-02-15,2024-02-15
+EQ01287,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-10-15,2023-10-15
+EQ01289,Écran,Iiyama XUB2492,Lyon,2019-12-11,2022-12-10
+EQ01290,Écran,Dell P2423,Paris Bercy,2021-10-04,2024-10-03
+EQ01292,PC portable,Dell Latitude 5440,Lille,2022-05-08,2025-05-07
+EQ01293,Écran,HP E24 G5,Nantes,2020-11-25,2023-11-25
+EQ01297,Écran,HP E24 G5,Nantes,2022-03-04,2025-03-03
+EQ01299,Écran,Iiyama XUB2492,Nantes,2021-11-21,2024-11-20
+EQ01301,PC portable,Dell Latitude 5440,Paris Bercy,2020-06-06,2023-06-06
+EQ01302,PC portable,Dell Latitude 5440,Paris Bercy,2022-10-22,2025-10-21
+EQ01307,PC portable,HP EliteBook 840 G10,Nantes,2021-11-12,2024-11-11
+EQ01310,Smartphone,Samsung Galaxy A54,Lyon,2023-06-21,2026-06-20
+EQ01311,Écran,HP E24 G5,Nantes,2023-08-27,2026-08-26
+EQ01313,Écran,HP E24 G5,Paris Bercy,2021-04-06,2024-04-05
+EQ01315,Smartphone,iPhone 13,Lyon,2022-05-06,2025-05-05
+EQ01316,Smartphone,iPhone 13,Lille,2022-02-12,2025-02-11
+EQ01319,Écran,HP E24 G5,Lille,2023-03-27,2026-03-26
+EQ01320,PC portable,Lenovo ThinkPad T14,Marseille,2022-08-11,2025-08-10
+EQ01321,Écran,Iiyama XUB2492,Lyon,2021-10-24,2024-10-23
+EQ01325,Smartphone,iPhone 13,Lille,2021-12-30,2024-12-29
+EQ01328,PC portable,Lenovo ThinkPad T14,Marseille,2023-09-17,2026-09-16
+EQ01330,PC fixe,Dell OptiPlex 7010,Marseille,2020-01-05,2023-01-04
+EQ01334,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-07-09,2025-07-08
+EQ01336,PC portable,Lenovo ThinkPad T14,Lyon,2019-09-23,2022-09-22
+EQ01337,Écran,Iiyama XUB2492,Marseille,2020-11-17,2023-11-17
+EQ01338,Écran,Dell P2423,Paris La Défense,2023-06-21,2026-06-20
+EQ01340,PC fixe,HP EliteDesk 800 G9,Nantes,2020-09-25,2023-09-25
+EQ01343,Smartphone,iPhone 13,Lille,2021-09-20,2024-09-19
+EQ01344,PC portable,Dell Latitude 5440,Lille,2022-12-22,2025-12-21
+EQ01345,Écran,HP E24 G5,Paris La Défense,2021-06-12,2024-06-11
+EQ01349,PC portable,Dell Latitude 5440,Nantes,2023-05-31,2026-05-30
+EQ01351,Écran,Dell P2423,Paris La Défense,2022-04-16,2025-04-15
+EQ01352,Écran,Dell P2423,Marseille,2019-09-29,2022-09-28
+EQ01353,Écran,Iiyama XUB2492,Nantes,2020-10-18,2023-10-18
+EQ01354,Écran,Iiyama XUB2492,Nantes,2022-09-19,2025-09-18
+EQ01355,Écran,Iiyama XUB2492,Nantes,2019-10-10,2022-10-09
+EQ01359,Écran,HP E24 G5,Lille,2022-01-25,2025-01-24
+EQ01360,Écran,Iiyama XUB2492,Nantes,2021-11-11,2024-11-10
+EQ01361,Écran,Dell P2423,Paris Bercy,2021-09-15,2024-09-14
+EQ01366,Écran,HP E24 G5,Paris Bercy,2022-09-03,2025-09-02
+EQ01367,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-06-12,2025-06-11
+EQ01370,Écran,Dell P2423,Nantes,2022-05-08,2025-05-07
+EQ01372,Écran,HP E24 G5,Nantes,2021-11-13,2024-11-12
+EQ01373,PC portable,Lenovo ThinkPad T14,Lyon,2023-01-19,2026-01-18
+EQ01374,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-01-16,2023-01-15
+EQ01376,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-08-17,2026-08-16
+EQ01377,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-05-18,2025-05-17
+EQ01378,Écran,Iiyama XUB2492,Paris Bercy,2021-03-21,2024-03-20
+EQ01379,Smartphone,Samsung Galaxy A54,Lille,2022-10-04,2025-10-03
+EQ01380,PC portable,Lenovo ThinkPad T14,Lille,2022-08-02,2025-08-01
+EQ01381,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-06-11,2023-06-11
+EQ01383,Smartphone,iPhone 13,Lyon,2022-03-06,2025-03-05
+EQ01384,PC portable,Lenovo ThinkPad T14,Lille,2020-12-13,2023-12-13
+EQ01386,PC portable,HP EliteBook 840 G10,Marseille,2020-12-28,2023-12-28
+EQ01387,Écran,Dell P2423,Marseille,2023-09-03,2026-09-02
+EQ01388,Écran,HP E24 G5,Lyon,2020-10-14,2023-10-14
+EQ01389,Écran,Dell P2423,Lille,2022-10-20,2025-10-19
+EQ01392,PC fixe,Dell OptiPlex 7010,Nantes,2022-04-27,2025-04-26
+EQ01393,PC portable,Dell Latitude 5440,Lille,2021-07-08,2024-07-07
+EQ01394,PC portable,Dell Latitude 5440,Marseille,2019-08-30,2022-08-29
+EQ01395,PC portable,HP EliteBook 840 G10,Marseille,2020-07-27,2023-07-27
+EQ01397,Smartphone,Samsung Galaxy A54,Nantes,2021-02-22,2024-02-22
+EQ01398,Écran,Iiyama XUB2492,Lille,2023-04-19,2026-04-18
+EQ01399,PC portable,Dell Latitude 5440,Paris Bercy,2022-09-08,2025-09-07
+EQ01402,PC portable,Lenovo ThinkPad T14,Lyon,2020-02-16,2023-02-15
+EQ01403,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2021-06-05,2024-06-04
+EQ01404,Smartphone,iPhone 13,Marseille,2020-05-02,2023-05-02
+EQ01405,Écran,Dell P2423,Lyon,2021-10-06,2024-10-05
+EQ01408,PC portable,HP EliteBook 840 G10,Nantes,2020-02-05,2023-02-04
+EQ01410,PC portable,Dell Latitude 5440,Lyon,2023-04-08,2026-04-07
+EQ01412,PC portable,Dell Latitude 5440,Paris Bercy,2022-10-06,2025-10-05
+EQ01413,PC portable,HP EliteBook 840 G10,Lyon,2022-11-11,2025-11-10
+EQ01418,Smartphone,Samsung Galaxy A54,Lyon,2021-05-02,2024-05-01
+EQ01419,PC portable,Dell Latitude 5440,Lyon,2019-04-17,2022-04-16
+EQ01420,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-06-30,2024-06-29
+EQ01424,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-03-08,2025-03-07
+EQ01425,PC portable,Dell Latitude 5440,Lyon,2019-01-06,2022-01-05
+EQ01426,PC portable,Dell Latitude 5440,Marseille,2022-07-29,2025-07-28
+EQ01428,PC portable,Dell Latitude 5440,Lille,2022-03-24,2025-03-23
+EQ01429,Smartphone,Samsung Galaxy A54,Lyon,2021-12-11,2024-12-10
+EQ01430,PC portable,Lenovo ThinkPad T14,Marseille,2022-11-11,2025-11-10
+EQ01431,Écran,Iiyama XUB2492,Marseille,2021-07-20,2024-07-19
+EQ01433,Écran,HP E24 G5,Marseille,2019-01-03,2022-01-02
+EQ01437,Smartphone,iPhone 13,Nantes,2019-02-07,2022-02-06
+EQ01438,PC portable,HP EliteBook 840 G10,Lyon,2022-10-16,2025-10-15
+EQ01440,PC portable,HP EliteBook 840 G10,Lille,2022-10-16,2025-10-15
+EQ01441,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-05-04,2026-05-03
+EQ01443,PC portable,Dell Latitude 5440,Marseille,2023-07-27,2026-07-26
+EQ01444,PC portable,Dell Latitude 5440,Marseille,2019-01-21,2022-01-20
+EQ01447,PC portable,Dell Latitude 5440,Lille,2022-02-24,2025-02-23
+EQ01448,PC portable,HP EliteBook 840 G10,Lyon,2019-01-02,2022-01-01
+EQ01449,PC portable,Dell Latitude 5440,Paris Bercy,2022-03-25,2025-03-24
+EQ01451,PC portable,Lenovo ThinkPad T14,Nantes,2019-04-19,2022-04-18
+EQ01452,PC portable,HP EliteBook 840 G10,Lille,2023-05-02,2026-05-01
+EQ01457,Smartphone,iPhone 13,Paris La Défense,2020-07-25,2023-07-25
+EQ01459,PC portable,HP EliteBook 840 G10,Nantes,2023-04-30,2026-04-29
+EQ01461,PC fixe,Dell OptiPlex 7010,Paris La Défense,2022-09-29,2025-09-28
+EQ01462,Écran,Iiyama XUB2492,Nantes,2021-01-04,2024-01-04
+EQ01467,PC portable,Lenovo ThinkPad T14,Marseille,2022-04-13,2025-04-12
+EQ01468,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-09-22,2024-09-21
+EQ01469,Smartphone,Samsung Galaxy A54,Lyon,2022-01-09,2025-01-08
+EQ01471,Smartphone,iPhone 13,Paris La Défense,2020-09-12,2023-09-12
+EQ01472,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-01-04,2025-01-03
+EQ01473,PC portable,Lenovo ThinkPad T14,Marseille,2021-05-20,2024-05-19
+EQ01477,PC portable,HP EliteBook 840 G10,Nantes,2020-01-19,2023-01-18
+EQ01478,PC fixe,Dell OptiPlex 7010,Paris Bercy,2019-07-19,2022-07-18
+EQ01479,PC fixe,HP EliteDesk 800 G9,Marseille,2021-06-08,2024-06-07
+EQ01480,PC fixe,Dell OptiPlex 7010,Paris La Défense,2019-05-28,2022-05-27
+EQ01481,Écran,Iiyama XUB2492,Nantes,2023-07-17,2026-07-16
+EQ01482,PC fixe,HP EliteDesk 800 G9,Marseille,2023-05-14,2026-05-13
+EQ01483,Écran,Dell P2423,Lille,2021-04-07,2024-04-06
+EQ01491,PC portable,HP EliteBook 840 G10,Nantes,2020-05-30,2023-05-30
+EQ01492,PC portable,Dell Latitude 5440,Lille,2019-02-02,2022-02-01
+EQ01495,Écran,HP E24 G5,Paris Bercy,2022-02-15,2025-02-14
+EQ01498,Écran,HP E24 G5,Marseille,2023-07-08,2026-07-07
+EQ01499,PC portable,Lenovo ThinkPad T14,Paris La Défense,2021-12-25,2024-12-24
+EQ01500,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-02-02,2026-02-01
+EQ01501,PC portable,HP EliteBook 840 G10,Lyon,2019-03-29,2022-03-28
+EQ01503,Écran,Iiyama XUB2492,Marseille,2023-01-07,2026-01-06
+EQ01504,PC fixe,HP EliteDesk 800 G9,Lille,2023-08-20,2026-08-19
+EQ01506,PC fixe,HP EliteDesk 800 G9,Marseille,2022-06-25,2025-06-24
+EQ01507,Écran,Iiyama XUB2492,Lille,2020-11-12,2023-11-12
+EQ01508,Écran,Iiyama XUB2492,Lyon,2019-12-20,2022-12-19
+EQ01509,PC portable,Lenovo ThinkPad T14,Lyon,2021-08-18,2024-08-17
+EQ01510,PC portable,HP EliteBook 840 G10,Lille,2020-04-11,2023-04-11
+EQ01511,PC portable,Lenovo ThinkPad T14,Lille,2021-12-11,2024-12-10
+EQ01513,Smartphone,iPhone 13,Paris La Défense,2019-12-28,2022-12-27
+EQ01514,Smartphone,iPhone 13,Lille,2022-12-29,2025-12-28
+EQ01515,PC portable,Lenovo ThinkPad T14,Marseille,2021-08-25,2024-08-24
+EQ01517,Smartphone,iPhone 13,Paris Bercy,2022-08-23,2025-08-22
+EQ01520,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-04-06,2025-04-05
+EQ01522,PC portable,Dell Latitude 5440,Marseille,2022-12-14,2025-12-13
+EQ01523,PC portable,Dell Latitude 5440,Lille,2019-08-18,2022-08-17
+EQ01524,Smartphone,iPhone 13,Lille,2022-12-02,2025-12-01
+EQ01526,Écran,Iiyama XUB2492,Marseille,2019-04-05,2022-04-04
+EQ01527,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-12-07,2024-12-06
+EQ01528,PC portable,HP EliteBook 840 G10,Lille,2019-04-12,2022-04-11
+EQ01529,Écran,Iiyama XUB2492,Lyon,2022-02-08,2025-02-07
+EQ01530,Écran,HP E24 G5,Lille,2023-01-22,2026-01-21
+EQ01533,PC portable,HP EliteBook 840 G10,Lille,2022-12-17,2025-12-16
+EQ01536,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-04-05,2025-04-04
+EQ01537,Smartphone,Samsung Galaxy A54,Nantes,2022-10-13,2025-10-12
+EQ01538,PC portable,Dell Latitude 5440,Marseille,2022-01-07,2025-01-06
+EQ01542,Écran,HP E24 G5,Paris Bercy,2021-08-10,2024-08-09
+EQ01543,Écran,Iiyama XUB2492,Paris La Défense,2021-02-09,2024-02-09
+EQ01544,PC portable,Lenovo ThinkPad T14,Lille,2021-09-05,2024-09-04
+EQ01546,PC portable,HP EliteBook 840 G10,Lyon,2022-12-04,2025-12-03
+EQ01547,PC portable,Dell Latitude 5440,Lyon,2021-08-08,2024-08-07
+EQ01548,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-03-29,2024-03-28
+EQ01549,Écran,Dell P2423,Marseille,2020-11-14,2023-11-14
+EQ01553,PC portable,Lenovo ThinkPad T14,Nantes,2021-07-27,2024-07-26
+EQ01554,PC portable,Lenovo ThinkPad T14,Lille,2019-07-09,2022-07-08
+EQ01556,Écran,HP E24 G5,Lyon,2020-03-15,2023-03-15
+EQ01557,PC portable,Lenovo ThinkPad T14,Marseille,2020-04-01,2023-04-01
+EQ01558,PC fixe,Dell OptiPlex 7010,Lyon,2019-11-06,2022-11-05
+EQ01559,Smartphone,Samsung Galaxy A54,Lyon,2019-08-20,2022-08-19
+EQ01560,Écran,HP E24 G5,Paris Bercy,2019-08-15,2022-08-14
+EQ01563,PC portable,Lenovo ThinkPad T14,Nantes,2021-08-20,2024-08-19
+EQ01565,Écran,HP E24 G5,Lille,2019-12-19,2022-12-18
+EQ01566,PC portable,Dell Latitude 5440,Paris La Défense,2020-02-13,2023-02-12
+EQ01567,PC portable,Dell Latitude 5440,Nantes,2020-03-27,2023-03-27
+EQ01569,Smartphone,iPhone 13,Lyon,2023-03-05,2026-03-04
+EQ01571,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-11,2026-04-10
+EQ01572,Écran,Iiyama XUB2492,Paris Bercy,2023-03-15,2026-03-14
+EQ01573,PC portable,HP EliteBook 840 G10,Lyon,2019-04-22,2022-04-21
+EQ01576,PC portable,Dell Latitude 5440,Paris La Défense,2019-09-21,2022-09-20
+EQ01577,Smartphone,Samsung Galaxy A54,Lille,2023-06-29,2026-06-28
+EQ01580,Écran,Iiyama XUB2492,Lyon,2023-09-07,2026-09-06
+EQ01581,Smartphone,Samsung Galaxy A54,Marseille,2019-02-08,2022-02-07
+EQ01582,PC portable,Lenovo ThinkPad T14,Nantes,2023-09-11,2026-09-10
+EQ01585,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-05-13,2026-05-12
+EQ01586,PC fixe,Dell OptiPlex 7010,Nantes,2022-01-01,2024-12-31
+EQ01588,Écran,Iiyama XUB2492,Lille,2021-08-18,2024-08-17
+EQ01589,Smartphone,iPhone 13,Nantes,2021-06-11,2024-06-10
+EQ01590,Smartphone,Samsung Galaxy A54,Marseille,2020-03-09,2023-03-09
+EQ01591,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-09-21,2026-09-20
+EQ01592,PC portable,Lenovo ThinkPad T14,Lille,2021-05-01,2024-04-30
+EQ01594,Écran,HP E24 G5,Nantes,2023-01-24,2026-01-23
+EQ01595,Écran,HP E24 G5,Lille,2020-12-21,2023-12-21
+EQ01599,PC portable,Dell Latitude 5440,Lyon,2022-06-23,2025-06-22
+EQ01600,Écran,Iiyama XUB2492,Lyon,2021-09-29,2024-09-28
+EQ01605,PC portable,Dell Latitude 5440,Paris La Défense,2021-10-21,2024-10-20
+EQ01609,Écran,Iiyama XUB2492,Lyon,2020-12-20,2023-12-20
+EQ01618,PC portable,Dell Latitude 5440,Paris La Défense,2019-12-03,2022-12-02
+EQ01619,PC portable,HP EliteBook 840 G10,Lille,2019-03-23,2022-03-22
+EQ01621,Écran,Iiyama XUB2492,Paris Bercy,2021-12-18,2024-12-17
+EQ01622,Écran,Dell P2423,Paris La Défense,2022-09-15,2025-09-14
+EQ01623,Écran,HP E24 G5,Nantes,2021-10-18,2024-10-17
+EQ01624,Écran,HP E24 G5,Lyon,2021-03-13,2024-03-12
+EQ01625,Écran,HP E24 G5,Paris La Défense,2021-05-03,2024-05-02
+EQ01627,PC portable,Dell Latitude 5440,Lille,2021-03-06,2024-03-05
+EQ01628,PC portable,Dell Latitude 5440,Lille,2019-10-22,2022-10-21
+EQ01629,PC portable,HP EliteBook 840 G10,Lyon,2022-02-20,2025-02-19
+EQ01631,Écran,HP E24 G5,Lille,2022-03-20,2025-03-19
+EQ01637,Écran,HP E24 G5,Paris La Défense,2019-02-25,2022-02-24
+EQ01638,PC portable,HP EliteBook 840 G10,Lille,2019-09-03,2022-09-02
+EQ01639,Écran,Iiyama XUB2492,Paris La Défense,2019-11-15,2022-11-14
+EQ01641,Écran,Iiyama XUB2492,Nantes,2023-04-20,2026-04-19
+EQ01642,Écran,Iiyama XUB2492,Nantes,2019-03-10,2022-03-09
+EQ01644,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2023-03-21,2026-03-20
+EQ01646,Smartphone,Samsung Galaxy A54,Lille,2020-11-12,2023-11-12
+EQ01647,Écran,HP E24 G5,Marseille,2023-07-23,2026-07-22
+EQ01648,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-02-08,2024-02-08
+EQ01649,Écran,Iiyama XUB2492,Lille,2023-02-02,2026-02-01
+EQ01650,Écran,HP E24 G5,Nantes,2019-08-26,2022-08-25
+EQ01652,PC portable,HP EliteBook 840 G10,Nantes,2020-02-02,2023-02-01
+EQ01653,Écran,HP E24 G5,Nantes,2021-03-14,2024-03-13
+EQ01654,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-10-05,2023-10-05
+EQ01656,Écran,Dell P2423,Lyon,2019-09-15,2022-09-14
+EQ01658,Écran,HP E24 G5,Lille,2021-08-30,2024-08-29
+EQ01661,Écran,Iiyama XUB2492,Marseille,2019-04-04,2022-04-03
+EQ01666,PC portable,Dell Latitude 5440,Paris Bercy,2021-04-04,2024-04-03
+EQ01667,Smartphone,Samsung Galaxy A54,Nantes,2021-12-30,2024-12-29
+EQ01669,Smartphone,Samsung Galaxy A54,Paris La Défense,2023-06-25,2026-06-24
+EQ01671,Smartphone,iPhone 13,Lille,2019-06-20,2022-06-19
+EQ01673,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-05-25,2022-05-24
+EQ01674,PC portable,Dell Latitude 5440,Marseille,2021-04-23,2024-04-22
+EQ01677,PC portable,Lenovo ThinkPad T14,Marseille,2023-06-02,2026-06-01
+EQ01678,Écran,Iiyama XUB2492,Lille,2023-07-13,2026-07-12
+EQ01679,Smartphone,iPhone 13,Lille,2023-02-14,2026-02-13
+EQ01682,PC portable,Lenovo ThinkPad T14,Lille,2023-08-05,2026-08-04
+EQ01683,Smartphone,Samsung Galaxy A54,Nantes,2022-02-23,2025-02-22
+EQ01685,Écran,Dell P2423,Paris La Défense,2022-02-06,2025-02-05
+EQ01686,PC fixe,HP EliteDesk 800 G9,Lyon,2021-11-19,2024-11-18
+EQ01690,PC fixe,Dell OptiPlex 7010,Lyon,2021-05-30,2024-05-29
+EQ01691,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-04-15,2024-04-14
+EQ01693,PC portable,HP EliteBook 840 G10,Lille,2021-12-30,2024-12-29
+EQ01695,Smartphone,iPhone 13,Marseille,2023-08-02,2026-08-01
+EQ01697,PC portable,Dell Latitude 5440,Marseille,2021-01-17,2024-01-17
+EQ01698,Écran,Iiyama XUB2492,Paris La Défense,2022-11-07,2025-11-06
+EQ01699,PC portable,Lenovo ThinkPad T14,Nantes,2020-09-19,2023-09-19
+EQ01701,PC portable,HP EliteBook 840 G10,Nantes,2022-07-31,2025-07-30
+EQ01702,Écran,HP E24 G5,Marseille,2021-06-30,2024-06-29
+EQ01703,Écran,Iiyama XUB2492,Marseille,2019-08-09,2022-08-08
+EQ01704,PC portable,HP EliteBook 840 G10,Lille,2022-09-26,2025-09-25
+EQ01705,Écran,Dell P2423,Paris Bercy,2021-12-12,2024-12-11
+EQ01711,Smartphone,Samsung Galaxy A54,Lille,2020-02-05,2023-02-04
+EQ01714,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-10-24,2025-10-23
+EQ01718,Écran,Iiyama XUB2492,Lille,2021-08-26,2024-08-25
+EQ01721,Écran,Dell P2423,Nantes,2021-03-05,2024-03-04
+EQ01722,Écran,Iiyama XUB2492,Lyon,2021-07-10,2024-07-09
+EQ01723,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-04-02,2022-04-01
+EQ01724,Écran,Dell P2423,Lille,2021-01-13,2024-01-13
+EQ01726,Smartphone,Samsung Galaxy A54,Paris La Défense,2023-03-27,2026-03-26
+EQ01727,PC portable,Lenovo ThinkPad T14,Marseille,2022-07-28,2025-07-27
+EQ01728,PC portable,Dell Latitude 5440,Paris La Défense,2019-11-09,2022-11-08
+EQ01732,PC fixe,HP EliteDesk 800 G9,Lyon,2023-06-06,2026-06-05
+EQ01734,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-09-01,2026-08-31
+EQ01736,Écran,HP E24 G5,Lyon,2023-05-05,2026-05-04
+EQ01737,PC portable,Lenovo ThinkPad T14,Lyon,2019-06-01,2022-05-31
+EQ01739,PC fixe,Dell OptiPlex 7010,Marseille,2019-02-14,2022-02-13
+EQ01740,PC portable,Lenovo ThinkPad T14,Lille,2021-10-16,2024-10-15
+EQ01741,PC fixe,Dell OptiPlex 7010,Lyon,2023-02-11,2026-02-10
+EQ01742,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-08-07,2024-08-06
+EQ01743,PC portable,HP EliteBook 840 G10,Marseille,2023-01-23,2026-01-22
+EQ01744,Écran,Dell P2423,Paris La Défense,2022-11-14,2025-11-13
+EQ01746,Écran,Iiyama XUB2492,Lyon,2021-06-22,2024-06-21
+EQ01747,Écran,HP E24 G5,Paris La Défense,2021-02-26,2024-02-26
+EQ01748,PC portable,Lenovo ThinkPad T14,Lille,2021-08-07,2024-08-06
+EQ01750,Écran,HP E24 G5,Paris La Défense,2021-08-13,2024-08-12
+EQ01751,Smartphone,iPhone 13,Lyon,2021-12-17,2024-12-16
+EQ01752,Écran,Dell P2423,Paris La Défense,2021-06-08,2024-06-07
+EQ01753,Écran,Dell P2423,Marseille,2022-05-09,2025-05-08
+EQ01755,PC portable,Dell Latitude 5440,Paris Bercy,2019-04-12,2022-04-11
+EQ01756,Écran,Iiyama XUB2492,Paris La Défense,2023-07-29,2026-07-28
+EQ01760,Écran,Iiyama XUB2492,Paris La Défense,2023-01-04,2026-01-03
+EQ01762,PC portable,HP EliteBook 840 G10,Lille,2023-07-02,2026-07-01
+EQ01763,PC portable,HP EliteBook 840 G10,Lille,2021-07-17,2024-07-16
+EQ01764,Écran,HP E24 G5,Marseille,2019-05-16,2022-05-15
+EQ01767,Smartphone,Samsung Galaxy A54,Lyon,2023-08-08,2026-08-07
+EQ01771,PC fixe,HP EliteDesk 800 G9,Lille,2021-04-11,2024-04-10
+EQ01773,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-06-19,2022-06-18
+EQ01775,Smartphone,Samsung Galaxy A54,Marseille,2023-07-21,2026-07-20
+EQ01777,PC fixe,Dell OptiPlex 7010,Lyon,2022-10-31,2025-10-30
+EQ01778,PC portable,Dell Latitude 5440,Lille,2021-09-01,2024-08-31
+EQ01782,PC portable,Lenovo ThinkPad T14,Nantes,2020-05-03,2023-05-03
+EQ01783,PC portable,HP EliteBook 840 G10,Nantes,2020-10-23,2023-10-23
+EQ01785,Smartphone,Samsung Galaxy A54,Lille,2022-05-24,2025-05-23
+EQ01786,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-10-15,2022-10-14
+EQ01790,Écran,Dell P2423,Nantes,2020-10-03,2023-10-03
+EQ01792,PC portable,Lenovo ThinkPad T14,Marseille,2020-11-18,2023-11-18
+EQ01793,PC portable,Dell Latitude 5440,Nantes,2021-12-07,2024-12-06
+EQ01794,PC portable,Dell Latitude 5440,Lille,2020-02-15,2023-02-14
+EQ01797,Écran,Iiyama XUB2492,Lyon,2019-12-04,2022-12-03
+EQ01800,PC portable,HP EliteBook 840 G10,Lille,2021-08-04,2024-08-03
+EQ01801,Écran,HP E24 G5,Paris Bercy,2022-11-21,2025-11-20
+EQ01802,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2021-06-25,2024-06-24
+EQ01803,Écran,HP E24 G5,Paris Bercy,2023-03-14,2026-03-13
+EQ01806,Écran,HP E24 G5,Lyon,2022-05-10,2025-05-09
+EQ01808,Smartphone,iPhone 13,Paris La Défense,2022-11-15,2025-11-14
+EQ01809,PC portable,Dell Latitude 5440,Marseille,2020-05-11,2023-05-11
+EQ01810,PC portable,Dell Latitude 5440,Marseille,2022-02-11,2025-02-10
+EQ01814,PC portable,Dell Latitude 5440,Lille,2021-06-02,2024-06-01
+EQ01815,PC fixe,Dell OptiPlex 7010,Nantes,2020-02-07,2023-02-06
+EQ01816,Écran,Dell P2423,Marseille,2022-12-17,2025-12-16
+EQ01820,Écran,Dell P2423,Marseille,2021-04-17,2024-04-16
+EQ01822,PC portable,Dell Latitude 5440,Lyon,2022-05-31,2025-05-30
+EQ01823,PC portable,Dell Latitude 5440,Paris La Défense,2020-08-23,2023-08-23
+EQ01826,PC fixe,Dell OptiPlex 7010,Lille,2019-05-30,2022-05-29
+EQ01829,Écran,Iiyama XUB2492,Paris La Défense,2023-01-11,2026-01-10
+EQ01830,PC portable,Dell Latitude 5440,Paris Bercy,2019-01-18,2022-01-17
+EQ01831,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-01-12,2026-01-11
+EQ01833,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-04-15,2023-04-15
+EQ01838,PC portable,Dell Latitude 5440,Marseille,2021-12-16,2024-12-15
+EQ01839,Écran,Iiyama XUB2492,Marseille,2022-07-15,2025-07-14
+EQ01840,Écran,Dell P2423,Paris La Défense,2022-03-31,2025-03-30
+EQ01841,Smartphone,iPhone 13,Paris La Défense,2022-11-01,2025-10-31
+EQ01842,Écran,Dell P2423,Marseille,2019-07-15,2022-07-14
+EQ01846,PC portable,Dell Latitude 5440,Paris La Défense,2023-04-28,2026-04-27
+EQ01848,PC portable,HP EliteBook 840 G10,Nantes,2019-04-20,2022-04-19
+EQ01850,PC portable,HP EliteBook 840 G10,Lille,2019-02-19,2022-02-18
+EQ01851,Écran,Iiyama XUB2492,Paris La Défense,2021-04-07,2024-04-06
+EQ01854,PC portable,Dell Latitude 5440,Paris Bercy,2020-10-24,2023-10-24
+EQ01856,Écran,HP E24 G5,Lille,2020-04-02,2023-04-02
+EQ01859,Smartphone,iPhone 13,Nantes,2022-01-25,2025-01-24
+EQ01861,PC portable,Lenovo ThinkPad T14,Lille,2023-05-30,2026-05-29
+EQ01864,Écran,Dell P2423,Lyon,2021-08-30,2024-08-29
+EQ01868,Écran,Dell P2423,Nantes,2023-03-18,2026-03-17
+EQ01869,PC fixe,Dell OptiPlex 7010,Lille,2021-03-16,2024-03-15
+EQ01870,Smartphone,iPhone 13,Lille,2022-07-22,2025-07-21
+EQ01871,PC fixe,Dell OptiPlex 7010,Lille,2019-09-16,2022-09-15
+EQ01875,PC portable,Lenovo ThinkPad T14,Lyon,2021-11-19,2024-11-18
+EQ01876,PC portable,Dell Latitude 5440,Paris Bercy,2022-06-20,2025-06-19
+EQ01878,Écran,HP E24 G5,Marseille,2020-11-14,2023-11-14
+EQ01880,Smartphone,iPhone 13,Lille,2023-06-08,2026-06-07
+EQ01888,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-12-02,2023-12-02
+EQ01889,PC portable,Dell Latitude 5440,Paris Bercy,2022-11-30,2025-11-29
+EQ01892,PC portable,Dell Latitude 5440,Lille,2020-01-10,2023-01-09
+EQ01894,PC portable,Lenovo ThinkPad T14,Lille,2022-01-17,2025-01-16
+EQ01895,Écran,Dell P2423,Lille,2023-08-30,2026-08-29
+EQ01896,PC fixe,Dell OptiPlex 7010,Paris La Défense,2022-06-05,2025-06-04
+EQ01897,PC fixe,HP EliteDesk 800 G9,Lille,2019-05-06,2022-05-05
+EQ01898,PC portable,HP EliteBook 840 G10,Nantes,2019-01-15,2022-01-14
+EQ01899,PC portable,HP EliteBook 840 G10,Lille,2020-10-27,2023-10-27
+EQ01900,Écran,Iiyama XUB2492,Lyon,2021-08-20,2024-08-19
+EQ01901,Smartphone,iPhone 13,Marseille,2022-06-07,2025-06-06
+EQ01903,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-07-05,2026-07-04
+EQ01909,Écran,Iiyama XUB2492,Marseille,2019-12-26,2022-12-25
+EQ01916,Écran,HP E24 G5,Nantes,2021-08-19,2024-08-18
+EQ01918,Écran,Dell P2423,Lyon,2022-06-22,2025-06-21
+EQ01919,Écran,Dell P2423,Lyon,2022-11-07,2025-11-06
+EQ01922,PC fixe,HP EliteDesk 800 G9,Marseille,2023-03-30,2026-03-29
+EQ01924,Écran,Dell P2423,Lyon,2021-03-02,2024-03-01
+EQ01925,PC fixe,Dell OptiPlex 7010,Paris La Défense,2022-03-03,2025-03-02
+EQ01926,PC portable,Dell Latitude 5440,Lille,2019-06-27,2022-06-26
+EQ01929,PC portable,HP EliteBook 840 G10,Nantes,2023-01-16,2026-01-15
+EQ01933,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-12-15,2025-12-14
+EQ01934,Smartphone,Samsung Galaxy A54,Lille,2021-05-19,2024-05-18
+EQ01936,Écran,Iiyama XUB2492,Nantes,2023-06-28,2026-06-27
+EQ01939,Écran,Dell P2423,Paris La Défense,2020-12-08,2023-12-08
+EQ01940,Smartphone,iPhone 13,Paris Bercy,2023-04-16,2026-04-15
+EQ01941,Écran,Iiyama XUB2492,Nantes,2020-10-07,2023-10-07
+EQ01942,PC portable,Lenovo ThinkPad T14,Nantes,2020-08-18,2023-08-18
+EQ01943,PC fixe,Dell OptiPlex 7010,Paris La Défense,2020-08-18,2023-08-18
+EQ01945,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2022-08-20,2025-08-19
+EQ01947,PC fixe,HP EliteDesk 800 G9,Marseille,2021-10-23,2024-10-22
+EQ01948,Smartphone,Samsung Galaxy A54,Paris Bercy,2019-12-20,2022-12-19
+EQ01949,Smartphone,Samsung Galaxy A54,Lille,2019-11-02,2022-11-01
+EQ01951,Écran,Iiyama XUB2492,Paris Bercy,2021-12-11,2024-12-10
+EQ01956,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-01-23,2026-01-22
+EQ01959,Smartphone,Samsung Galaxy A54,Lille,2022-09-29,2025-09-28
+EQ01960,Écran,Dell P2423,Lille,2021-11-22,2024-11-21
+EQ01961,Écran,Dell P2423,Paris La Défense,2023-02-09,2026-02-08
+EQ01962,Smartphone,Samsung Galaxy A54,Marseille,2021-07-30,2024-07-29
+EQ01964,PC portable,Dell Latitude 5440,Nantes,2022-10-14,2025-10-13
+EQ01965,PC portable,Dell Latitude 5440,Lyon,2021-11-24,2024-11-23
+EQ01966,Écran,HP E24 G5,Nantes,2019-10-18,2022-10-17
+EQ01972,Écran,HP E24 G5,Paris La Défense,2021-01-08,2024-01-08
+EQ01976,PC portable,Lenovo ThinkPad T14,Lille,2019-01-14,2022-01-13
+EQ01977,Écran,Iiyama XUB2492,Marseille,2021-10-25,2024-10-24
+EQ01978,Écran,Dell P2423,Marseille,2022-12-02,2025-12-01
+EQ01982,PC portable,Dell Latitude 5440,Paris La Défense,2021-02-09,2024-02-09
+EQ01983,Écran,HP E24 G5,Marseille,2023-06-07,2026-06-06
+EQ01987,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-07-02,2022-07-01
+EQ01988,Écran,HP E24 G5,Paris Bercy,2019-03-10,2022-03-09
+EQ01989,PC fixe,HP EliteDesk 800 G9,Marseille,2020-07-11,2023-07-11
+EQ01993,Écran,HP E24 G5,Paris La Défense,2021-06-13,2024-06-12
+EQ01995,PC portable,Lenovo ThinkPad T14,Lyon,2022-10-15,2025-10-14
+EQ02004,PC portable,Dell Latitude 5440,Nantes,2021-09-30,2024-09-29
+EQ02005,Écran,Dell P2423,Nantes,2022-08-05,2025-08-04
+EQ02006,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-03-28,2022-03-27
+EQ02009,PC portable,HP EliteBook 840 G10,Lyon,2020-04-14,2023-04-14
+EQ02011,Smartphone,iPhone 13,Paris Bercy,2023-02-12,2026-02-11
+EQ02014,PC portable,Dell Latitude 5440,Lyon,2022-04-26,2025-04-25
+EQ02016,PC portable,Dell Latitude 5440,Lille,2023-01-24,2026-01-23
+EQ02017,Écran,Iiyama XUB2492,Lyon,2022-03-11,2025-03-10
+EQ02019,Écran,HP E24 G5,Marseille,2022-12-19,2025-12-18
+EQ02020,PC fixe,Dell OptiPlex 7010,Paris La Défense,2021-11-01,2024-10-31
+EQ02021,Écran,Iiyama XUB2492,Lyon,2021-04-15,2024-04-14
+EQ02023,Smartphone,iPhone 13,Nantes,2021-04-14,2024-04-13
+EQ02025,PC portable,Dell Latitude 5440,Paris Bercy,2023-01-16,2026-01-15
+EQ02032,PC portable,Dell Latitude 5440,Paris La Défense,2023-06-04,2026-06-03
+EQ02035,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-07-14,2023-07-14
+EQ02036,PC portable,Dell Latitude 5440,Paris Bercy,2023-09-20,2026-09-19
+EQ02037,PC fixe,Dell OptiPlex 7010,Lille,2022-03-14,2025-03-13
+EQ02039,Smartphone,Samsung Galaxy A54,Lille,2020-08-02,2023-08-02
+EQ02040,Smartphone,iPhone 13,Nantes,2022-06-27,2025-06-26
+EQ02041,PC portable,HP EliteBook 840 G10,Marseille,2021-08-22,2024-08-21
+EQ02042,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-06-28,2026-06-27
+EQ02043,PC portable,Dell Latitude 5440,Paris La Défense,2022-05-21,2025-05-20
+EQ02045,Écran,Dell P2423,Lille,2023-06-26,2026-06-25
+EQ02046,Smartphone,iPhone 13,Lille,2020-12-19,2023-12-19
+EQ02047,Écran,Iiyama XUB2492,Lyon,2022-07-13,2025-07-12
+EQ02049,PC fixe,Dell OptiPlex 7010,Lille,2021-12-29,2024-12-28
+EQ02051,Smartphone,Samsung Galaxy A54,Lille,2022-08-23,2025-08-22
+EQ02056,Smartphone,Samsung Galaxy A54,Lyon,2021-11-10,2024-11-09
+EQ02057,PC fixe,HP EliteDesk 800 G9,Marseille,2022-12-19,2025-12-18
+EQ02059,PC portable,Dell Latitude 5440,Nantes,2021-05-21,2024-05-20
+EQ02060,Smartphone,Samsung Galaxy A54,Lille,2020-05-28,2023-05-28
+EQ02063,Smartphone,Samsung Galaxy A54,Lille,2021-04-07,2024-04-06
+EQ02070,Écran,Iiyama XUB2492,Lyon,2023-01-27,2026-01-26
+EQ02072,Écran,Iiyama XUB2492,Nantes,2022-04-12,2025-04-11
+EQ02073,PC portable,Dell Latitude 5440,Lyon,2020-12-07,2023-12-07
+EQ02074,PC portable,Dell Latitude 5440,Marseille,2023-07-21,2026-07-20
+EQ02075,Écran,HP E24 G5,Marseille,2023-01-18,2026-01-17
+EQ02076,Écran,Iiyama XUB2492,Paris Bercy,2019-02-26,2022-02-25
+EQ02079,PC fixe,HP EliteDesk 800 G9,Lille,2023-08-04,2026-08-03
+EQ02080,PC portable,HP EliteBook 840 G10,Marseille,2022-07-21,2025-07-20
+EQ02081,Écran,Dell P2423,Lyon,2021-03-04,2024-03-03
+EQ02083,Écran,Dell P2423,Lille,2019-06-10,2022-06-09
+EQ02084,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-01-07,2026-01-06
+EQ02086,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-07-26,2023-07-26
+EQ02088,PC portable,Dell Latitude 5440,Paris Bercy,2021-12-30,2024-12-29
+EQ02089,Écran,Iiyama XUB2492,Paris Bercy,2019-12-04,2022-12-03
+EQ02091,PC portable,Lenovo ThinkPad T14,Marseille,2020-04-10,2023-04-10
+EQ02093,PC portable,Dell Latitude 5440,Paris La Défense,2022-03-31,2025-03-30
+EQ02094,Écran,Dell P2423,Nantes,2020-06-27,2023-06-27
+EQ02095,PC fixe,Dell OptiPlex 7010,Lille,2021-06-10,2024-06-09
+EQ02096,Écran,Dell P2423,Paris Bercy,2019-05-03,2022-05-02
+EQ02099,Écran,Iiyama XUB2492,Paris Bercy,2023-08-26,2026-08-25
+EQ02100,PC portable,HP EliteBook 840 G10,Marseille,2022-03-17,2025-03-16
+EQ02101,PC portable,HP EliteBook 840 G10,Lille,2020-08-22,2023-08-22
+EQ02102,Smartphone,Samsung Galaxy A54,Lyon,2021-04-17,2024-04-16
+EQ02104,Écran,HP E24 G5,Lyon,2023-08-21,2026-08-20
+EQ02108,Écran,HP E24 G5,Lille,2021-10-08,2024-10-07
+EQ02109,Écran,Dell P2423,Marseille,2021-11-10,2024-11-09
+EQ02111,PC portable,HP EliteBook 840 G10,Marseille,2022-09-20,2025-09-19
+EQ02112,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-01-25,2025-01-24
+EQ02114,PC portable,Dell Latitude 5440,Lyon,2021-06-29,2024-06-28
+EQ02115,PC portable,Dell Latitude 5440,Marseille,2022-04-05,2025-04-04
+EQ02116,Écran,Dell P2423,Marseille,2019-12-02,2022-12-01
+EQ02121,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-05-08,2022-05-07
+EQ02122,PC portable,Lenovo ThinkPad T14,Lille,2023-07-02,2026-07-01
+EQ02125,Écran,Iiyama XUB2492,Nantes,2020-08-27,2023-08-27
+EQ02126,Écran,Iiyama XUB2492,Paris La Défense,2023-02-06,2026-02-05
+EQ02127,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-07-06,2023-07-06
+EQ02128,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-06-25,2026-06-24
+EQ02129,PC portable,Lenovo ThinkPad T14,Lille,2023-08-25,2026-08-24
+EQ02130,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-03-27,2023-03-27
+EQ02132,Smartphone,Samsung Galaxy A54,Paris La Défense,2021-03-12,2024-03-11
+EQ02134,Écran,HP E24 G5,Nantes,2019-03-24,2022-03-23
+EQ02135,Écran,HP E24 G5,Lyon,2021-11-02,2024-11-01
+EQ02136,Écran,HP E24 G5,Marseille,2022-01-23,2025-01-22
+EQ02137,PC portable,HP EliteBook 840 G10,Lille,2020-06-23,2023-06-23
+EQ02138,Écran,Dell P2423,Paris La Défense,2022-01-28,2025-01-27
+EQ02142,Écran,Iiyama XUB2492,Nantes,2023-03-18,2026-03-17
+EQ02143,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-12-14,2022-12-13
+EQ02144,Écran,Dell P2423,Marseille,2023-08-19,2026-08-18
+EQ02145,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-10-09,2023-10-09
+EQ02149,Écran,Dell P2423,Nantes,2019-01-28,2022-01-27
+EQ02150,PC portable,HP EliteBook 840 G10,Nantes,2019-05-07,2022-05-06
+EQ02155,Écran,HP E24 G5,Lyon,2020-09-02,2023-09-02
+EQ02159,Écran,Iiyama XUB2492,Nantes,2023-05-17,2026-05-16
+EQ02162,Smartphone,Samsung Galaxy A54,Paris La Défense,2021-05-24,2024-05-23
+EQ02164,Écran,HP E24 G5,Paris Bercy,2022-05-24,2025-05-23
+EQ02167,PC fixe,Dell OptiPlex 7010,Nantes,2022-03-27,2025-03-26
+EQ02171,Smartphone,iPhone 13,Lille,2023-03-27,2026-03-26
+EQ02172,PC portable,Lenovo ThinkPad T14,Lille,2021-01-11,2024-01-11
+EQ02173,Écran,Iiyama XUB2492,Paris La Défense,2021-03-20,2024-03-19
+EQ02174,PC portable,HP EliteBook 840 G10,Marseille,2023-07-06,2026-07-05
+EQ02175,PC fixe,Dell OptiPlex 7010,Paris La Défense,2021-08-06,2024-08-05
+EQ02178,Écran,Dell P2423,Lille,2021-10-30,2024-10-29
+EQ02179,Écran,Iiyama XUB2492,Paris Bercy,2021-11-22,2024-11-21
+EQ02181,PC fixe,HP EliteDesk 800 G9,Nantes,2023-02-08,2026-02-07
+EQ02183,Écran,Iiyama XUB2492,Paris Bercy,2020-06-17,2023-06-17
+EQ02185,Écran,Iiyama XUB2492,Paris La Défense,2019-12-23,2022-12-22
+EQ02186,Écran,Dell P2423,Lyon,2020-01-02,2023-01-01
+EQ02187,PC portable,Dell Latitude 5440,Paris Bercy,2019-07-04,2022-07-03
+EQ02191,Smartphone,Samsung Galaxy A54,Nantes,2019-01-19,2022-01-18
+EQ02193,Smartphone,Samsung Galaxy A54,Lyon,2023-08-10,2026-08-09
+EQ02194,Écran,HP E24 G5,Nantes,2022-12-07,2025-12-06
+EQ02195,Écran,Dell P2423,Marseille,2021-12-21,2024-12-20
+EQ02196,PC portable,HP EliteBook 840 G10,Lyon,2019-04-07,2022-04-06
+EQ02197,PC portable,Dell Latitude 5440,Lyon,2022-12-02,2025-12-01
+EQ02198,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-03-15,2026-03-14
+EQ02199,PC portable,HP EliteBook 840 G10,Nantes,2023-07-26,2026-07-25
+EQ02200,Smartphone,Samsung Galaxy A54,Lyon,2019-12-24,2022-12-23
+EQ02207,PC portable,Lenovo ThinkPad T14,Lille,2022-11-09,2025-11-08
+EQ02208,PC fixe,HP EliteDesk 800 G9,Marseille,2022-09-30,2025-09-29
+EQ02209,Écran,Dell P2423,Lille,2021-09-06,2024-09-05
+EQ02210,Smartphone,Samsung Galaxy A54,Marseille,2021-10-14,2024-10-13
+EQ02211,PC portable,Dell Latitude 5440,Marseille,2019-05-03,2022-05-02
+EQ02213,PC portable,Dell Latitude 5440,Lille,2022-03-12,2025-03-11
+EQ02215,PC portable,Lenovo ThinkPad T14,Marseille,2019-12-05,2022-12-04
+EQ02219,PC portable,Lenovo ThinkPad T14,Nantes,2020-06-17,2023-06-17
+EQ02220,PC portable,HP EliteBook 840 G10,Lyon,2021-10-04,2024-10-03
+EQ02222,Écran,Dell P2423,Lille,2021-01-07,2024-01-07
+EQ02226,Écran,Iiyama XUB2492,Lyon,2020-09-07,2023-09-07
+EQ02228,Écran,Dell P2423,Paris La Défense,2021-09-25,2024-09-24
+EQ02229,Écran,HP E24 G5,Lille,2019-03-03,2022-03-02
+EQ02231,PC portable,HP EliteBook 840 G10,Nantes,2023-08-19,2026-08-18
+EQ02232,PC fixe,Dell OptiPlex 7010,Nantes,2019-09-11,2022-09-10
+EQ02233,Écran,Iiyama XUB2492,Lyon,2021-01-06,2024-01-06
+EQ02234,Écran,HP E24 G5,Marseille,2021-10-14,2024-10-13
+EQ02236,Smartphone,iPhone 13,Marseille,2020-03-08,2023-03-08
+EQ02240,PC portable,HP EliteBook 840 G10,Lyon,2021-09-12,2024-09-11
+EQ02242,Écran,Iiyama XUB2492,Lyon,2021-04-13,2024-04-12
+EQ02245,Écran,HP E24 G5,Marseille,2021-07-02,2024-07-01
+EQ02246,Écran,Iiyama XUB2492,Paris La Défense,2023-09-18,2026-09-17
+EQ02247,PC portable,Lenovo ThinkPad T14,Nantes,2023-03-03,2026-03-02
+EQ02249,Écran,Iiyama XUB2492,Paris La Défense,2021-01-27,2024-01-27
+EQ02250,PC fixe,Dell OptiPlex 7010,Marseille,2022-03-06,2025-03-05
+EQ02251,PC portable,Dell Latitude 5440,Paris Bercy,2020-01-15,2023-01-14
+EQ02253,PC portable,Lenovo ThinkPad T14,Lyon,2022-05-23,2025-05-22
+EQ02254,Écran,HP E24 G5,Paris La Défense,2021-10-18,2024-10-17
+EQ02256,PC portable,Lenovo ThinkPad T14,Lille,2023-09-10,2026-09-09
+EQ02259,Smartphone,iPhone 13,Marseille,2021-07-16,2024-07-15
+EQ02261,PC fixe,Dell OptiPlex 7010,Marseille,2022-08-31,2025-08-30
+EQ02262,Écran,Iiyama XUB2492,Nantes,2022-09-04,2025-09-03
+EQ02264,PC portable,Lenovo ThinkPad T14,Lyon,2022-12-15,2025-12-14
+EQ02266,Smartphone,Samsung Galaxy A54,Marseille,2020-11-09,2023-11-09
+EQ02270,PC fixe,HP EliteDesk 800 G9,Nantes,2019-07-23,2022-07-22
+EQ02276,PC portable,HP EliteBook 840 G10,Lyon,2020-04-08,2023-04-08
+EQ02277,PC portable,HP EliteBook 840 G10,Lille,2019-01-26,2022-01-25
+EQ02278,PC portable,Dell Latitude 5440,Marseille,2019-06-14,2022-06-13
+EQ02280,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-09-11,2026-09-10
+EQ02281,Smartphone,Samsung Galaxy A54,Marseille,2021-09-18,2024-09-17
+EQ02282,PC portable,Dell Latitude 5440,Paris La Défense,2019-11-08,2022-11-07
+EQ02283,Écran,Dell P2423,Lyon,2021-09-13,2024-09-12
+EQ02284,Écran,HP E24 G5,Marseille,2019-12-02,2022-12-01
+EQ02285,PC portable,Dell Latitude 5440,Paris Bercy,2019-04-11,2022-04-10
+EQ02286,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-09-02,2024-09-01
+EQ02290,PC fixe,HP EliteDesk 800 G9,Nantes,2023-04-09,2026-04-08
+EQ02293,Écran,Dell P2423,Marseille,2019-10-29,2022-10-28
+EQ02294,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-12-24,2025-12-23
+EQ02295,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-02-19,2026-02-18
+EQ02296,PC portable,Dell Latitude 5440,Lille,2020-08-25,2023-08-25
+EQ02298,Smartphone,iPhone 13,Marseille,2021-06-21,2024-06-20
+EQ02299,PC fixe,Dell OptiPlex 7010,Lille,2023-07-22,2026-07-21
+EQ02303,PC portable,Dell Latitude 5440,Marseille,2019-04-26,2022-04-25
+EQ02304,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-12-21,2025-12-20
+EQ02305,Écran,Iiyama XUB2492,Lille,2022-03-02,2025-03-01
+EQ02306,Écran,Dell P2423,Lille,2023-09-01,2026-08-31
+EQ02308,PC portable,Lenovo ThinkPad T14,Nantes,2023-05-03,2026-05-02
+EQ02310,Écran,Iiyama XUB2492,Lyon,2021-05-13,2024-05-12
+EQ02312,PC portable,HP EliteBook 840 G10,Nantes,2021-02-02,2024-02-02
+EQ02313,PC portable,Dell Latitude 5440,Paris La Défense,2023-02-17,2026-02-16
+EQ02315,PC fixe,HP EliteDesk 800 G9,Lille,2022-02-08,2025-02-07
+EQ02316,Écran,Dell P2423,Marseille,2019-11-20,2022-11-19
+EQ02318,PC portable,Dell Latitude 5440,Marseille,2022-09-15,2025-09-14
+EQ02320,PC portable,HP EliteBook 840 G10,Nantes,2021-03-28,2024-03-27
+EQ02321,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-08-22,2025-08-21
+EQ02325,Écran,Dell P2423,Marseille,2023-02-23,2026-02-22
+EQ02326,PC fixe,HP EliteDesk 800 G9,Lyon,2021-02-11,2024-02-11
+EQ02328,Smartphone,Samsung Galaxy A54,Lyon,2021-08-02,2024-08-01
+EQ02330,Écran,Iiyama XUB2492,Lyon,2022-10-26,2025-10-25
+EQ02331,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-11-12,2022-11-11
+EQ02333,PC portable,Dell Latitude 5440,Lyon,2023-05-25,2026-05-24
+EQ02334,Écran,HP E24 G5,Nantes,2022-08-01,2025-07-31
+EQ02335,PC portable,Lenovo ThinkPad T14,Nantes,2019-12-17,2022-12-16
+EQ02336,PC portable,Dell Latitude 5440,Nantes,2023-06-14,2026-06-13
+EQ02338,Smartphone,Samsung Galaxy A54,Marseille,2023-05-21,2026-05-20
+EQ02340,PC portable,Lenovo ThinkPad T14,Lille,2022-01-23,2025-01-22
+EQ02341,PC portable,Lenovo ThinkPad T14,Lille,2020-09-04,2023-09-04
+EQ02343,Écran,Iiyama XUB2492,Paris Bercy,2021-11-02,2024-11-01
+EQ02349,Écran,HP E24 G5,Nantes,2021-08-16,2024-08-15
+EQ02352,Écran,Iiyama XUB2492,Lyon,2019-06-12,2022-06-11
+EQ02356,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-08-26,2026-08-25
+EQ02358,PC portable,HP EliteBook 840 G10,Nantes,2023-02-27,2026-02-26
+EQ02359,Écran,Iiyama XUB2492,Lyon,2022-12-08,2025-12-07
+EQ02360,Écran,HP E24 G5,Paris La Défense,2020-02-12,2023-02-11
+EQ02361,PC portable,Lenovo ThinkPad T14,Lyon,2023-07-05,2026-07-04
+EQ02362,PC portable,HP EliteBook 840 G10,Lyon,2019-05-05,2022-05-04
+EQ02363,Smartphone,iPhone 13,Lille,2021-03-24,2024-03-23
+EQ02365,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-05-06,2023-05-06
+EQ02366,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-03-06,2023-03-06
+EQ02367,PC portable,Lenovo ThinkPad T14,Nantes,2021-08-20,2024-08-19
+EQ02368,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-06-01,2025-05-31
+EQ02370,Écran,Dell P2423,Paris Bercy,2019-02-14,2022-02-13
+EQ02371,PC portable,Dell Latitude 5440,Paris La Défense,2023-06-07,2026-06-06
+EQ02372,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2022-05-27,2025-05-26
+EQ02373,PC portable,Lenovo ThinkPad T14,Lille,2020-06-07,2023-06-07
+EQ02375,PC fixe,HP EliteDesk 800 G9,Marseille,2023-10-01,2026-09-30
+EQ02378,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-01-19,2026-01-18
+EQ02380,Écran,Dell P2423,Lille,2022-06-30,2025-06-29
+EQ02382,Écran,Iiyama XUB2492,Lille,2021-09-03,2024-09-02
+EQ02383,PC fixe,Dell OptiPlex 7010,Paris La Défense,2021-10-27,2024-10-26
+EQ02384,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-12-25,2025-12-24
+EQ02385,Écran,HP E24 G5,Lille,2021-06-16,2024-06-15
+EQ02388,Écran,Iiyama XUB2492,Paris La Défense,2022-02-09,2025-02-08
+EQ02389,PC fixe,Dell OptiPlex 7010,Lyon,2019-03-05,2022-03-04
+EQ02390,PC portable,HP EliteBook 840 G10,Nantes,2019-12-02,2022-12-01
+EQ02392,PC portable,Dell Latitude 5440,Marseille,2019-04-30,2022-04-29
+EQ02393,Écran,HP E24 G5,Nantes,2021-07-21,2024-07-20
+EQ02394,Écran,Dell P2423,Marseille,2021-12-05,2024-12-04
+EQ02395,PC portable,HP EliteBook 840 G10,Nantes,2020-01-17,2023-01-16
+EQ02397,Écran,Iiyama XUB2492,Lyon,2020-09-25,2023-09-25
+EQ02398,PC portable,Dell Latitude 5440,Lyon,2019-10-27,2022-10-26
+EQ02399,Écran,Dell P2423,Paris La Défense,2019-08-05,2022-08-04
+EQ02400,Écran,Iiyama XUB2492,Lille,2020-03-21,2023-03-21
+EQ02401,PC portable,HP EliteBook 840 G10,Nantes,2022-07-21,2025-07-20
+EQ02402,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-02-23,2024-02-23
+EQ02405,Écran,Dell P2423,Paris Bercy,2022-04-22,2025-04-21
+EQ02408,Smartphone,Samsung Galaxy A54,Lyon,2023-05-18,2026-05-17
+EQ02409,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-02-04,2026-02-03
+EQ02410,PC portable,Dell Latitude 5440,Paris La Défense,2023-04-05,2026-04-04
+EQ02411,PC portable,Lenovo ThinkPad T14,Lille,2022-12-21,2025-12-20
+EQ02415,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-12-31,2024-12-30
+EQ02416,Écran,Iiyama XUB2492,Lyon,2022-10-08,2025-10-07
+EQ02417,Écran,Iiyama XUB2492,Marseille,2022-12-21,2025-12-20
+EQ02422,Écran,Iiyama XUB2492,Nantes,2020-06-21,2023-06-21
+EQ02424,Smartphone,iPhone 13,Lille,2021-07-27,2024-07-26
+EQ02429,PC fixe,Dell OptiPlex 7010,Nantes,2019-09-26,2022-09-25
+EQ02430,PC portable,Dell Latitude 5440,Nantes,2020-06-17,2023-06-17
+EQ02432,PC portable,Lenovo ThinkPad T14,Marseille,2020-09-03,2023-09-03
+EQ02433,PC portable,Lenovo ThinkPad T14,Nantes,2021-10-01,2024-09-30
+EQ02436,Smartphone,iPhone 13,Paris La Défense,2022-02-19,2025-02-18
+EQ02439,Smartphone,Samsung Galaxy A54,Nantes,2020-03-03,2023-03-03
+EQ02440,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-07-02,2026-07-01
+EQ02441,Écran,Iiyama XUB2492,Paris La Défense,2022-03-19,2025-03-18
+EQ02442,PC portable,Lenovo ThinkPad T14,Marseille,2019-05-18,2022-05-17
+EQ02445,PC portable,Lenovo ThinkPad T14,Paris La Défense,2021-05-21,2024-05-20
+EQ02446,PC portable,Dell Latitude 5440,Marseille,2021-10-08,2024-10-07
+EQ02451,Écran,Iiyama XUB2492,Paris La Défense,2023-04-09,2026-04-08
+EQ02452,Écran,Iiyama XUB2492,Marseille,2021-05-21,2024-05-20
+EQ02453,PC portable,HP EliteBook 840 G10,Lille,2021-10-04,2024-10-03
+EQ02457,PC fixe,HP EliteDesk 800 G9,Nantes,2022-04-04,2025-04-03
+EQ02461,Écran,Iiyama XUB2492,Paris Bercy,2020-05-18,2023-05-18
+EQ02463,PC portable,Lenovo ThinkPad T14,Marseille,2020-02-09,2023-02-08
+EQ02464,Smartphone,Samsung Galaxy A54,Lyon,2023-06-25,2026-06-24
+EQ02466,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-01-29,2026-01-28
+EQ02468,Smartphone,Samsung Galaxy A54,Nantes,2020-11-28,2023-11-28
+EQ02469,PC portable,Dell Latitude 5440,Paris La Défense,2021-10-09,2024-10-08
+EQ02470,PC fixe,HP EliteDesk 800 G9,Marseille,2019-03-29,2022-03-28
+EQ02471,PC fixe,Dell OptiPlex 7010,Lyon,2021-11-02,2024-11-01
+EQ02475,PC portable,Lenovo ThinkPad T14,Lille,2019-07-08,2022-07-07
+EQ02476,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-03-09,2025-03-08
+EQ02477,Écran,Dell P2423,Paris La Défense,2019-07-19,2022-07-18
+EQ02479,PC portable,Lenovo ThinkPad T14,Nantes,2019-11-05,2022-11-04
+EQ02480,PC portable,HP EliteBook 840 G10,Lille,2022-06-02,2025-06-01
+EQ02481,PC portable,Lenovo ThinkPad T14,Lyon,2020-06-09,2023-06-09
+EQ02482,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-03-08,2025-03-07
+EQ02488,PC portable,Dell Latitude 5440,Lyon,2020-03-09,2023-03-09
+EQ02489,PC portable,HP EliteBook 840 G10,Nantes,2021-10-19,2024-10-18
+EQ02492,Écran,Dell P2423,Marseille,2022-07-14,2025-07-13
+EQ02494,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-10-26,2024-10-25
+EQ02495,PC portable,HP EliteBook 840 G10,Lille,2019-01-31,2022-01-30
+EQ02499,PC portable,HP EliteBook 840 G10,Nantes,2020-11-09,2023-11-09
+EQ02501,PC portable,HP EliteBook 840 G10,Marseille,2020-05-10,2023-05-10
+EQ02503,Smartphone,Samsung Galaxy A54,Lille,2021-07-25,2024-07-24
+EQ02504,Smartphone,Samsung Galaxy A54,Lyon,2020-06-07,2023-06-07
+EQ02505,Smartphone,iPhone 13,Paris Bercy,2022-06-11,2025-06-10
+EQ02508,Écran,Dell P2423,Paris Bercy,2022-09-07,2025-09-06
+EQ02510,PC portable,HP EliteBook 840 G10,Marseille,2023-05-26,2026-05-25
+EQ02512,PC portable,Dell Latitude 5440,Lyon,2022-09-01,2025-08-31
+EQ02513,Écran,Iiyama XUB2492,Marseille,2020-10-12,2023-10-12
+EQ02515,Écran,Dell P2423,Paris La Défense,2023-05-02,2026-05-01
+EQ02517,Smartphone,Samsung Galaxy A54,Lyon,2022-01-18,2025-01-17
+EQ02518,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-12-22,2022-12-21
+EQ02519,PC portable,Dell Latitude 5440,Paris Bercy,2019-10-07,2022-10-06
+EQ02522,PC portable,HP EliteBook 840 G10,Lille,2021-06-07,2024-06-06
+EQ02523,Smartphone,Samsung Galaxy A54,Lille,2020-02-05,2023-02-04
+EQ02524,Smartphone,iPhone 13,Lyon,2023-03-21,2026-03-20
+EQ02526,Smartphone,Samsung Galaxy A54,Lille,2019-08-28,2022-08-27
+EQ02528,PC fixe,Dell OptiPlex 7010,Lyon,2021-04-07,2024-04-06
+EQ02529,PC portable,Lenovo ThinkPad T14,Lille,2021-12-22,2024-12-21
+EQ02530,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-06-21,2024-06-20
+EQ02531,PC portable,Lenovo ThinkPad T14,Marseille,2019-12-08,2022-12-07
+EQ02532,PC portable,Dell Latitude 5440,Paris La Défense,2021-08-15,2024-08-14
+EQ02536,PC portable,Dell Latitude 5440,Paris La Défense,2020-10-07,2023-10-07
+EQ02539,Écran,HP E24 G5,Lyon,2019-04-14,2022-04-13
+EQ02540,Écran,HP E24 G5,Paris La Défense,2020-05-24,2023-05-24
+EQ02541,PC fixe,HP EliteDesk 800 G9,Marseille,2023-07-06,2026-07-05
+EQ02546,Écran,HP E24 G5,Lille,2023-01-17,2026-01-16
+EQ02550,PC fixe,HP EliteDesk 800 G9,Lyon,2023-04-23,2026-04-22
+EQ02551,Écran,Dell P2423,Paris Bercy,2022-11-21,2025-11-20
+EQ02552,PC portable,HP EliteBook 840 G10,Lyon,2021-08-19,2024-08-18
+EQ02555,PC portable,HP EliteBook 840 G10,Lyon,2022-02-04,2025-02-03
+EQ02556,Smartphone,Samsung Galaxy A54,Lyon,2021-12-21,2024-12-20
+EQ02557,Smartphone,iPhone 13,Marseille,2022-05-14,2025-05-13
+EQ02558,PC portable,Lenovo ThinkPad T14,Lyon,2023-05-06,2026-05-05
+EQ02559,Smartphone,iPhone 13,Lyon,2020-12-11,2023-12-11
+EQ02564,Écran,Dell P2423,Paris La Défense,2023-05-14,2026-05-13
+EQ02565,Écran,HP E24 G5,Paris La Défense,2020-08-25,2023-08-25
+EQ02566,PC portable,HP EliteBook 840 G10,Marseille,2019-02-06,2022-02-05
+EQ02568,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-05-21,2026-05-20
+EQ02569,PC portable,Lenovo ThinkPad T14,Nantes,2023-04-09,2026-04-08
+EQ02570,PC fixe,Dell OptiPlex 7010,Paris Bercy,2021-12-06,2024-12-05
+EQ02571,Smartphone,Samsung Galaxy A54,Lille,2019-10-05,2022-10-04
+EQ02572,Écran,Iiyama XUB2492,Marseille,2021-05-23,2024-05-22
+EQ02573,PC fixe,HP EliteDesk 800 G9,Marseille,2021-05-05,2024-05-04
+EQ02574,PC portable,Dell Latitude 5440,Paris Bercy,2022-02-23,2025-02-22
+EQ02576,Écran,Iiyama XUB2492,Lyon,2021-05-16,2024-05-15
+EQ02579,PC portable,HP EliteBook 840 G10,Lyon,2022-02-10,2025-02-09
+EQ02580,PC portable,HP EliteBook 840 G10,Lille,2022-02-06,2025-02-05
+EQ02582,Écran,Dell P2423,Lille,2022-12-15,2025-12-14
+EQ02583,Écran,HP E24 G5,Paris Bercy,2022-08-22,2025-08-21
+EQ02584,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-10-25,2023-10-25
+EQ02585,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-09-04,2022-09-03
+EQ02587,Écran,Iiyama XUB2492,Lyon,2019-03-31,2022-03-30
+EQ02588,Écran,Dell P2423,Nantes,2022-12-01,2025-11-30
+EQ02589,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-10-01,2024-09-30
+EQ02592,Écran,HP E24 G5,Marseille,2023-08-20,2026-08-19
+EQ02596,Écran,Iiyama XUB2492,Lyon,2019-10-14,2022-10-13
+EQ02598,Smartphone,iPhone 13,Lyon,2023-09-17,2026-09-16
+EQ02601,Écran,Dell P2423,Nantes,2023-01-19,2026-01-18
+EQ02602,PC fixe,HP EliteDesk 800 G9,Nantes,2019-12-13,2022-12-12
+EQ02603,Smartphone,Samsung Galaxy A54,Marseille,2022-05-07,2025-05-06
+EQ02604,Écran,HP E24 G5,Marseille,2023-03-19,2026-03-18
+EQ02605,PC portable,Dell Latitude 5440,Marseille,2022-05-18,2025-05-17
+EQ02610,Smartphone,Samsung Galaxy A54,Nantes,2020-05-29,2023-05-29
+EQ02611,PC portable,Dell Latitude 5440,Nantes,2023-05-22,2026-05-21
+EQ02612,PC portable,Lenovo ThinkPad T14,Marseille,2023-09-22,2026-09-21
+EQ02613,PC portable,HP EliteBook 840 G10,Lille,2023-07-27,2026-07-26
+EQ02614,PC portable,Dell Latitude 5440,Paris La Défense,2023-08-20,2026-08-19
+EQ02615,Écran,Dell P2423,Nantes,2019-10-03,2022-10-02
+EQ02617,PC portable,Dell Latitude 5440,Marseille,2020-10-25,2023-10-25
+EQ02620,PC portable,Lenovo ThinkPad T14,Marseille,2023-09-05,2026-09-04
+EQ02621,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-05-05,2025-05-04
+EQ02622,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-10,2026-04-09
+EQ02623,PC fixe,Dell OptiPlex 7010,Paris La Défense,2020-09-11,2023-09-11
+EQ02627,PC portable,HP EliteBook 840 G10,Nantes,2022-08-29,2025-08-28
+EQ02630,PC fixe,Dell OptiPlex 7010,Marseille,2019-09-10,2022-09-09
+EQ02632,Smartphone,Samsung Galaxy A54,Lyon,2019-10-30,2022-10-29
+EQ02633,PC portable,HP EliteBook 840 G10,Lille,2020-07-02,2023-07-02
+EQ02635,PC portable,HP EliteBook 840 G10,Marseille,2022-08-03,2025-08-02
+EQ02637,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-02-07,2024-02-07
+EQ02638,Écran,Iiyama XUB2492,Paris La Défense,2023-04-21,2026-04-20
+EQ02639,Écran,Iiyama XUB2492,Marseille,2021-07-30,2024-07-29
+EQ02641,Écran,Dell P2423,Marseille,2023-06-11,2026-06-10
+EQ02642,PC portable,HP EliteBook 840 G10,Marseille,2021-07-05,2024-07-04
+EQ02643,PC fixe,HP EliteDesk 800 G9,Lyon,2019-05-20,2022-05-19
+EQ02646,Écran,HP E24 G5,Marseille,2023-09-27,2026-09-26
+EQ02647,Écran,Iiyama XUB2492,Lille,2019-07-19,2022-07-18
+EQ02648,PC fixe,HP EliteDesk 800 G9,Lyon,2022-08-04,2025-08-03
+EQ02650,PC portable,Dell Latitude 5440,Nantes,2019-10-05,2022-10-04
+EQ02652,Écran,HP E24 G5,Lille,2020-11-11,2023-11-11
+EQ02654,PC portable,Lenovo ThinkPad T14,Lille,2020-11-08,2023-11-08
+EQ02655,Smartphone,iPhone 13,Paris La Défense,2022-06-22,2025-06-21
+EQ02656,PC portable,Dell Latitude 5440,Marseille,2021-03-16,2024-03-15
+EQ02657,PC portable,Dell Latitude 5440,Paris La Défense,2020-11-14,2023-11-14
+EQ02658,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-04-25,2023-04-25
+EQ02660,Smartphone,iPhone 13,Marseille,2022-08-02,2025-08-01
+EQ02663,Écran,HP E24 G5,Paris Bercy,2022-07-19,2025-07-18
+EQ02666,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-10-19,2024-10-18
+EQ02668,Écran,Iiyama XUB2492,Marseille,2022-11-10,2025-11-09
+EQ02670,PC portable,Dell Latitude 5440,Lyon,2022-02-16,2025-02-15
+EQ02671,Écran,Iiyama XUB2492,Paris Bercy,2023-07-07,2026-07-06
+EQ02673,PC fixe,Dell OptiPlex 7010,Marseille,2021-10-24,2024-10-23
+EQ02674,Écran,Iiyama XUB2492,Paris Bercy,2019-04-11,2022-04-10
+EQ02676,Écran,Iiyama XUB2492,Nantes,2020-07-25,2023-07-25
+EQ02677,Smartphone,Samsung Galaxy A54,Lyon,2021-01-29,2024-01-29
+EQ02683,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-04-08,2024-04-07
+EQ02686,PC portable,Dell Latitude 5440,Marseille,2020-02-06,2023-02-05
+EQ02688,PC portable,Lenovo ThinkPad T14,Lille,2020-03-02,2023-03-02
+EQ02691,PC portable,Dell Latitude 5440,Lyon,2022-07-03,2025-07-02
+EQ02692,PC portable,Dell Latitude 5440,Marseille,2019-11-08,2022-11-07
+EQ02693,Écran,HP E24 G5,Lyon,2022-11-20,2025-11-19
+EQ02694,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-11-22,2023-11-22
+EQ02696,Écran,HP E24 G5,Marseille,2021-11-09,2024-11-08
+EQ02697,Écran,Dell P2423,Paris Bercy,2020-12-29,2023-12-29
+EQ02698,Smartphone,iPhone 13,Lyon,2019-10-23,2022-10-22
+EQ02699,Écran,HP E24 G5,Lyon,2020-11-11,2023-11-11
+EQ02700,Écran,Dell P2423,Paris La Défense,2023-02-05,2026-02-04
+EQ02701,PC portable,Lenovo ThinkPad T14,Lyon,2022-02-27,2025-02-26
+EQ02703,PC portable,Dell Latitude 5440,Nantes,2020-06-08,2023-06-08
+EQ02706,PC portable,HP EliteBook 840 G10,Lille,2020-03-15,2023-03-15
+EQ02708,PC portable,Lenovo ThinkPad T14,Marseille,2021-06-16,2024-06-15
+EQ02709,PC portable,Lenovo ThinkPad T14,Nantes,2020-06-27,2023-06-27
+EQ02710,Smartphone,iPhone 13,Nantes,2023-09-12,2026-09-11
+EQ02711,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-10-17,2025-10-16
+EQ02714,Écran,Dell P2423,Lyon,2021-08-27,2024-08-26
+EQ02717,PC portable,HP EliteBook 840 G10,Lyon,2023-05-14,2026-05-13
+EQ02719,PC fixe,HP EliteDesk 800 G9,Marseille,2022-07-09,2025-07-08
+EQ02722,Smartphone,Samsung Galaxy A54,Marseille,2020-08-18,2023-08-18
+EQ02725,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-02-15,2026-02-14
+EQ02727,PC portable,Dell Latitude 5440,Paris La Défense,2022-06-05,2025-06-04
+EQ02728,PC portable,Lenovo ThinkPad T14,Marseille,2019-06-15,2022-06-14
+EQ02732,Écran,Iiyama XUB2492,Lyon,2022-08-10,2025-08-09
+EQ02733,Smartphone,iPhone 13,Lille,2021-09-23,2024-09-22
+EQ02736,PC portable,HP EliteBook 840 G10,Marseille,2023-06-14,2026-06-13
+EQ02739,Écran,Dell P2423,Lille,2019-04-07,2022-04-06
+EQ02740,PC portable,HP EliteBook 840 G10,Marseille,2022-06-19,2025-06-18
+EQ02741,Écran,Dell P2423,Marseille,2021-04-16,2024-04-15
+EQ02742,PC portable,HP EliteBook 840 G10,Lille,2019-05-01,2022-04-30
+EQ02743,PC portable,Dell Latitude 5440,Nantes,2023-08-15,2026-08-14
+EQ02745,PC fixe,Dell OptiPlex 7010,Marseille,2022-09-25,2025-09-24
+EQ02748,Smartphone,Samsung Galaxy A54,Lyon,2019-02-04,2022-02-03
+EQ02749,PC portable,HP EliteBook 840 G10,Lyon,2020-12-10,2023-12-10
+EQ02752,PC fixe,HP EliteDesk 800 G9,Lyon,2021-03-21,2024-03-20
+EQ02753,PC portable,HP EliteBook 840 G10,Nantes,2019-09-28,2022-09-27
+EQ02756,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-10-25,2024-10-24
+EQ02760,Écran,Dell P2423,Lille,2020-04-05,2023-04-05
+EQ02761,Écran,Dell P2423,Paris Bercy,2020-03-08,2023-03-08
+EQ02762,Écran,Dell P2423,Nantes,2020-08-13,2023-08-13
+EQ02765,Écran,HP E24 G5,Marseille,2023-02-22,2026-02-21
+EQ02768,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-06-04,2023-06-04
+EQ02770,PC portable,HP EliteBook 840 G10,Lille,2021-06-10,2024-06-09
+EQ02772,Écran,Iiyama XUB2492,Paris Bercy,2022-02-17,2025-02-16
+EQ02773,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-12-05,2023-12-05
+EQ02774,PC portable,Dell Latitude 5440,Marseille,2020-12-13,2023-12-13
+EQ02778,Écran,Dell P2423,Nantes,2021-10-07,2024-10-06
+EQ02781,PC portable,Lenovo ThinkPad T14,Lyon,2019-09-09,2022-09-08
+EQ02785,PC portable,Dell Latitude 5440,Paris Bercy,2023-03-31,2026-03-30
+EQ02786,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-12-23,2023-12-23
+EQ02787,PC fixe,Dell OptiPlex 7010,Nantes,2023-04-20,2026-04-19
+EQ02792,Écran,Iiyama XUB2492,Paris La Défense,2019-09-22,2022-09-21
+EQ02794,Écran,Dell P2423,Paris La Défense,2020-05-20,2023-05-20
+EQ02796,Smartphone,iPhone 13,Lille,2019-02-27,2022-02-26
+EQ02799,Smartphone,iPhone 13,Paris Bercy,2021-04-22,2024-04-21
+EQ02801,Écran,HP E24 G5,Nantes,2021-01-16,2024-01-16
+EQ02804,PC portable,Dell Latitude 5440,Paris Bercy,2020-05-05,2023-05-05
+EQ02805,Écran,Iiyama XUB2492,Lyon,2020-08-14,2023-08-14
+EQ02807,Écran,HP E24 G5,Lyon,2023-05-01,2026-04-30
+EQ02808,PC portable,Dell Latitude 5440,Lille,2023-07-17,2026-07-16
+EQ02810,PC portable,Dell Latitude 5440,Paris Bercy,2023-07-01,2026-06-30
+EQ02812,Écran,HP E24 G5,Lille,2021-03-11,2024-03-10
+EQ02814,Écran,Dell P2423,Marseille,2019-06-01,2022-05-31
+EQ02815,PC portable,Lenovo ThinkPad T14,Marseille,2020-06-11,2023-06-11
+EQ02816,Écran,Dell P2423,Nantes,2019-10-04,2022-10-03
+EQ02818,PC portable,Dell Latitude 5440,Paris Bercy,2021-07-01,2024-06-30
+EQ02819,PC fixe,HP EliteDesk 800 G9,Lille,2023-03-15,2026-03-14
+EQ02820,Écran,HP E24 G5,Marseille,2022-05-15,2025-05-14
+EQ02822,Smartphone,iPhone 13,Nantes,2019-07-21,2022-07-20
+EQ02825,PC portable,HP EliteBook 840 G10,Lille,2023-04-23,2026-04-22
+EQ02827,Écran,Iiyama XUB2492,Nantes,2020-11-28,2023-11-28
+EQ02828,Écran,Dell P2423,Lyon,2019-02-05,2022-02-04
+EQ02829,Écran,Iiyama XUB2492,Nantes,2022-07-22,2025-07-21
+EQ02831,Écran,HP E24 G5,Lille,2022-11-19,2025-11-18
+EQ02833,PC portable,HP EliteBook 840 G10,Marseille,2021-10-24,2024-10-23
+EQ02836,PC portable,HP EliteBook 840 G10,Lille,2022-12-07,2025-12-06
+EQ02837,PC portable,Dell Latitude 5440,Lyon,2021-07-06,2024-07-05
+EQ02838,PC portable,HP EliteBook 840 G10,Nantes,2023-02-18,2026-02-17
+EQ02842,Smartphone,Samsung Galaxy A54,Lille,2019-08-15,2022-08-14
+EQ02843,PC portable,Dell Latitude 5440,Nantes,2020-07-29,2023-07-29
+EQ02844,Smartphone,iPhone 13,Lille,2019-04-22,2022-04-21
+EQ02850,Smartphone,Samsung Galaxy A54,Nantes,2023-08-02,2026-08-01
+EQ02851,Écran,HP E24 G5,Marseille,2021-01-20,2024-01-20
+EQ02854,Écran,Dell P2423,Marseille,2020-05-21,2023-05-21
+EQ02855,Écran,Dell P2423,Lyon,2022-09-01,2025-08-31
+EQ02857,PC portable,Lenovo ThinkPad T14,Lyon,2021-01-02,2024-01-02
+EQ02860,Écran,Iiyama XUB2492,Paris La Défense,2020-04-14,2023-04-14
+EQ02861,PC fixe,Dell OptiPlex 7010,Lille,2019-05-19,2022-05-18
+EQ02863,PC fixe,Dell OptiPlex 7010,Lyon,2023-07-11,2026-07-10
+EQ02864,PC portable,Dell Latitude 5440,Nantes,2019-06-07,2022-06-06
+EQ02872,PC fixe,Dell OptiPlex 7010,Nantes,2023-04-05,2026-04-04
+EQ02873,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-08-06,2024-08-05
+EQ02874,Smartphone,Samsung Galaxy A54,Marseille,2022-12-23,2025-12-22
+EQ02876,PC portable,Dell Latitude 5440,Paris Bercy,2022-02-11,2025-02-10
+EQ02878,PC portable,Lenovo ThinkPad T14,Lyon,2023-02-20,2026-02-19
+EQ02881,Écran,Dell P2423,Lille,2022-02-26,2025-02-25
+EQ02882,PC portable,HP EliteBook 840 G10,Lyon,2021-02-22,2024-02-22
+EQ02883,PC portable,Dell Latitude 5440,Lyon,2023-01-14,2026-01-13
+EQ02884,PC fixe,Dell OptiPlex 7010,Lyon,2019-01-28,2022-01-27
+EQ02885,PC fixe,HP EliteDesk 800 G9,Lille,2020-12-05,2023-12-05
+EQ02890,PC portable,HP EliteBook 840 G10,Lille,2023-07-15,2026-07-14
+EQ02892,Écran,Dell P2423,Paris Bercy,2021-06-26,2024-06-25
+EQ02893,PC portable,Lenovo ThinkPad T14,Nantes,2020-05-03,2023-05-03
+EQ02894,PC portable,Lenovo ThinkPad T14,Lyon,2022-12-19,2025-12-18
+EQ02895,Écran,HP E24 G5,Paris La Défense,2019-12-12,2022-12-11
+EQ02896,Écran,Iiyama XUB2492,Marseille,2022-06-27,2025-06-26
+EQ02901,PC fixe,Dell OptiPlex 7010,Lyon,2023-09-10,2026-09-09
+EQ02902,Écran,Dell P2423,Paris La Défense,2020-11-02,2023-11-02
+EQ02903,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2021-03-13,2024-03-12
+EQ02904,Écran,Iiyama XUB2492,Nantes,2021-03-09,2024-03-08
+EQ02909,PC fixe,Dell OptiPlex 7010,Lyon,2023-02-15,2026-02-14
+EQ02911,PC portable,Lenovo ThinkPad T14,Marseille,2023-06-26,2026-06-25
+EQ02915,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-04-18,2023-04-18
+EQ02917,PC portable,Dell Latitude 5440,Lille,2023-05-08,2026-05-07
+EQ02923,PC portable,HP EliteBook 840 G10,Nantes,2022-05-17,2025-05-16
+EQ02928,Smartphone,Samsung Galaxy A54,Marseille,2021-04-15,2024-04-14
+EQ02930,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-05-04,2026-05-03
+EQ02933,Smartphone,Samsung Galaxy A54,Lyon,2022-07-23,2025-07-22
+EQ02934,PC portable,HP EliteBook 840 G10,Lyon,2023-09-22,2026-09-21
+EQ02935,Smartphone,Samsung Galaxy A54,Lyon,2022-07-22,2025-07-21
+EQ02936,PC portable,Dell Latitude 5440,Paris Bercy,2022-04-18,2025-04-17
+EQ02937,Écran,HP E24 G5,Lyon,2021-09-02,2024-09-01
+EQ02938,Smartphone,Samsung Galaxy A54,Nantes,2022-01-12,2025-01-11
+EQ02939,PC portable,Lenovo ThinkPad T14,Lille,2022-04-05,2025-04-04
+EQ02942,PC portable,Lenovo ThinkPad T14,Lyon,2021-07-01,2024-06-30
+EQ02943,PC portable,Lenovo ThinkPad T14,Paris La Défense,2021-09-15,2024-09-14
+EQ02944,PC portable,Dell Latitude 5440,Paris La Défense,2019-03-17,2022-03-16
+EQ02946,PC portable,Lenovo ThinkPad T14,Marseille,2020-09-19,2023-09-19
+EQ02947,Écran,Iiyama XUB2492,Paris La Défense,2022-01-08,2025-01-07
+EQ02950,Smartphone,iPhone 13,Paris Bercy,2021-05-08,2024-05-07
+EQ02952,PC portable,Lenovo ThinkPad T14,Marseille,2020-12-15,2023-12-15
+EQ02956,Smartphone,Samsung Galaxy A54,Nantes,2019-01-09,2022-01-08
+EQ02959,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-03-13,2023-03-13
+EQ02960,PC portable,Dell Latitude 5440,Paris Bercy,2020-02-29,2023-02-28
+EQ02969,Smartphone,iPhone 13,Lyon,2022-12-29,2025-12-28
+EQ02972,Écran,Iiyama XUB2492,Nantes,2022-10-27,2025-10-26
+EQ02973,Écran,Iiyama XUB2492,Marseille,2023-04-11,2026-04-10
+EQ02975,PC portable,Dell Latitude 5440,Paris La Défense,2021-06-21,2024-06-20
+EQ02977,PC portable,Dell Latitude 5440,Nantes,2023-02-28,2026-02-27
+EQ02978,PC portable,HP EliteBook 840 G10,Marseille,2022-05-07,2025-05-06
+EQ02980,Écran,HP E24 G5,Paris Bercy,2020-05-05,2023-05-05
+EQ02981,PC portable,Lenovo ThinkPad T14,Marseille,2022-11-16,2025-11-15
+EQ02982,Écran,Iiyama XUB2492,Nantes,2023-08-25,2026-08-24
+EQ02985,Écran,Dell P2423,Paris La Défense,2022-02-23,2025-02-22
+EQ02986,Écran,Dell P2423,Paris La Défense,2021-09-21,2024-09-20
+EQ02987,Smartphone,Samsung Galaxy A54,Lyon,2019-11-18,2022-11-17
+EQ02989,Écran,HP E24 G5,Paris Bercy,2022-12-08,2025-12-07
+EQ02990,PC portable,Dell Latitude 5440,Paris Bercy,2019-12-07,2022-12-06
+EQ02992,Smartphone,iPhone 13,Marseille,2019-10-17,2022-10-16
+EQ02993,Écran,Dell P2423,Paris La Défense,2021-02-11,2024-02-11
+EQ02994,PC portable,Dell Latitude 5440,Lille,2020-10-02,2023-10-02
+EQ02995,Écran,Dell P2423,Lille,2021-10-26,2024-10-25
+EQ02996,Smartphone,iPhone 13,Marseille,2021-09-18,2024-09-17
+EQ02999,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-03-23,2022-03-22
+EQ03001,PC fixe,Dell OptiPlex 7010,Marseille,2021-04-22,2024-04-21
+EQ03004,Écran,HP E24 G5,Nantes,2019-03-05,2022-03-04
+EQ03006,PC fixe,Dell OptiPlex 7010,Paris Bercy,2019-08-15,2022-08-14
+EQ03007,Smartphone,Samsung Galaxy A54,Marseille,2021-06-05,2024-06-04
+EQ03008,Écran,HP E24 G5,Paris Bercy,2021-05-12,2024-05-11
+EQ03013,Smartphone,Samsung Galaxy A54,Nantes,2021-12-18,2024-12-17
+EQ03015,Écran,HP E24 G5,Paris Bercy,2023-05-15,2026-05-14
+EQ03016,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-05-28,2022-05-27
+EQ03017,Écran,Dell P2423,Lille,2022-06-15,2025-06-14
+EQ03018,PC portable,Dell Latitude 5440,Nantes,2022-02-15,2025-02-14
+EQ03019,Écran,Dell P2423,Lyon,2023-09-19,2026-09-18
+EQ03021,PC portable,Dell Latitude 5440,Lille,2019-12-03,2022-12-02
+EQ03028,Écran,Iiyama XUB2492,Lille,2022-06-04,2025-06-03
+EQ03030,PC fixe,Dell OptiPlex 7010,Nantes,2022-01-04,2025-01-03
+EQ03031,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-04-21,2025-04-20
+EQ03033,PC portable,Lenovo ThinkPad T14,Paris La Défense,2021-06-21,2024-06-20
+EQ03034,Smartphone,iPhone 13,Lyon,2023-09-26,2026-09-25
+EQ03039,PC portable,Dell Latitude 5440,Nantes,2019-11-11,2022-11-10
+EQ03042,Smartphone,iPhone 13,Lyon,2019-05-14,2022-05-13
+EQ03043,Smartphone,Samsung Galaxy A54,Nantes,2020-04-05,2023-04-05
+EQ03045,Écran,HP E24 G5,Marseille,2022-09-23,2025-09-22
+EQ03046,PC portable,HP EliteBook 840 G10,Marseille,2019-08-22,2022-08-21
+EQ03047,Écran,HP E24 G5,Marseille,2020-10-14,2023-10-14
+EQ03051,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-09-07,2025-09-06
+EQ03052,Smartphone,Samsung Galaxy A54,Lyon,2019-06-26,2022-06-25
+EQ03054,Écran,Iiyama XUB2492,Lille,2020-09-23,2023-09-23
+EQ03057,PC fixe,HP EliteDesk 800 G9,Marseille,2019-07-07,2022-07-06
+EQ03058,PC portable,Dell Latitude 5440,Paris Bercy,2023-01-24,2026-01-23
+EQ03059,PC fixe,Dell OptiPlex 7010,Lille,2022-02-22,2025-02-21
+EQ03061,PC portable,Dell Latitude 5440,Lille,2020-12-23,2023-12-23
+EQ03063,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-09-13,2022-09-12
+EQ03065,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-01-13,2026-01-12
+EQ03066,Smartphone,iPhone 13,Paris La Défense,2023-01-12,2026-01-11
+EQ03068,Écran,Dell P2423,Paris La Défense,2022-03-23,2025-03-22
+EQ03073,Écran,HP E24 G5,Paris La Défense,2021-09-20,2024-09-19
+EQ03074,PC portable,Dell Latitude 5440,Lyon,2019-07-15,2022-07-14
+EQ03075,PC fixe,HP EliteDesk 800 G9,Marseille,2022-09-04,2025-09-03
+EQ03076,PC portable,Dell Latitude 5440,Paris La Défense,2022-08-26,2025-08-25
+EQ03077,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-09-11,2025-09-10
+EQ03078,Écran,Iiyama XUB2492,Paris Bercy,2020-05-15,2023-05-15
+EQ03080,Écran,Dell P2423,Paris Bercy,2021-05-21,2024-05-20
+EQ03082,Écran,HP E24 G5,Paris La Défense,2023-03-18,2026-03-17
+EQ03083,Écran,Iiyama XUB2492,Marseille,2021-04-13,2024-04-12
+EQ03086,Smartphone,iPhone 13,Lyon,2022-02-20,2025-02-19
+EQ03087,PC portable,Lenovo ThinkPad T14,Lille,2021-08-11,2024-08-10
+EQ03088,Écran,Iiyama XUB2492,Paris Bercy,2021-09-12,2024-09-11
+EQ03089,Écran,HP E24 G5,Marseille,2020-09-20,2023-09-20
+EQ03090,PC portable,HP EliteBook 840 G10,Marseille,2022-05-26,2025-05-25
+EQ03092,Écran,Dell P2423,Paris Bercy,2020-08-26,2023-08-26
+EQ03093,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-06-11,2026-06-10
+EQ03101,PC portable,HP EliteBook 840 G10,Marseille,2021-11-10,2024-11-09
+EQ03102,PC portable,HP EliteBook 840 G10,Lille,2023-09-27,2026-09-26
+EQ03103,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-05-28,2025-05-27
+EQ03105,Écran,HP E24 G5,Lille,2021-03-31,2024-03-30
+EQ03106,PC portable,Dell Latitude 5440,Lille,2021-07-14,2024-07-13
+EQ03107,Écran,Dell P2423,Lyon,2023-07-01,2026-06-30
+EQ03109,PC portable,HP EliteBook 840 G10,Nantes,2022-09-30,2025-09-29
+EQ03120,Smartphone,iPhone 13,Paris La Défense,2021-10-15,2024-10-14
+EQ03121,Smartphone,Samsung Galaxy A54,Lille,2020-06-17,2023-06-17
+EQ03125,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-11-19,2024-11-18
+EQ03126,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-08-12,2026-08-11
+EQ03130,PC fixe,HP EliteDesk 800 G9,Lyon,2022-02-17,2025-02-16
+EQ03131,Écran,HP E24 G5,Lille,2022-03-02,2025-03-01
+EQ03132,Smartphone,Samsung Galaxy A54,Lyon,2020-06-14,2023-06-14
+EQ03135,PC portable,Lenovo ThinkPad T14,Lyon,2021-01-07,2024-01-07
+EQ03136,PC portable,Dell Latitude 5440,Lille,2020-04-24,2023-04-24
+EQ03138,Smartphone,Samsung Galaxy A54,Nantes,2022-08-28,2025-08-27
+EQ03140,PC fixe,HP EliteDesk 800 G9,Lyon,2022-08-01,2025-07-31
+EQ03142,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-06-09,2024-06-08
+EQ03143,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-04-08,2024-04-07
+EQ03146,PC portable,HP EliteBook 840 G10,Nantes,2020-03-21,2023-03-21
+EQ03147,PC portable,Dell Latitude 5440,Lille,2020-08-24,2023-08-24
+EQ03149,PC portable,Lenovo ThinkPad T14,Paris La Défense,2021-07-21,2024-07-20
+EQ03150,Écran,HP E24 G5,Lille,2023-09-29,2026-09-28
+EQ03153,Écran,HP E24 G5,Lyon,2019-01-12,2022-01-11
+EQ03156,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2021-03-07,2024-03-06
+EQ03158,Écran,Iiyama XUB2492,Nantes,2020-04-16,2023-04-16
+EQ03159,Écran,Iiyama XUB2492,Lille,2020-12-21,2023-12-21
+EQ03162,Écran,Iiyama XUB2492,Paris La Défense,2021-02-23,2024-02-23
+EQ03163,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2023-03-22,2026-03-21
+EQ03164,PC portable,HP EliteBook 840 G10,Marseille,2022-05-30,2025-05-29
+EQ03166,PC portable,Lenovo ThinkPad T14,Lille,2022-06-26,2025-06-25
+EQ03167,Écran,HP E24 G5,Paris Bercy,2022-10-01,2025-09-30
+EQ03169,Écran,Dell P2423,Paris La Défense,2023-03-28,2026-03-27
+EQ03170,PC fixe,HP EliteDesk 800 G9,Nantes,2022-09-20,2025-09-19
+EQ03172,PC portable,HP EliteBook 840 G10,Nantes,2019-07-19,2022-07-18
+EQ03176,PC portable,Dell Latitude 5440,Paris La Défense,2022-12-24,2025-12-23
+EQ03177,Écran,HP E24 G5,Lyon,2019-09-26,2022-09-25
+EQ03179,Écran,Iiyama XUB2492,Nantes,2019-08-18,2022-08-17
+EQ03182,PC portable,HP EliteBook 840 G10,Lyon,2022-06-04,2025-06-03
+EQ03183,Écran,Iiyama XUB2492,Marseille,2020-09-29,2023-09-29
+EQ03185,PC portable,HP EliteBook 840 G10,Lyon,2022-04-08,2025-04-07
+EQ03193,Écran,Iiyama XUB2492,Paris Bercy,2021-08-09,2024-08-08
+EQ03194,Écran,Dell P2423,Nantes,2023-09-28,2026-09-27
+EQ03196,PC portable,Dell Latitude 5440,Lille,2020-02-13,2023-02-12
+EQ03197,Écran,Dell P2423,Paris Bercy,2021-06-21,2024-06-20
+EQ03199,Écran,Iiyama XUB2492,Lyon,2022-08-27,2025-08-26
+EQ03201,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-04-02,2026-04-01
+EQ03204,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-03-24,2022-03-23
+EQ03206,PC portable,Lenovo ThinkPad T14,Lille,2023-04-05,2026-04-04
+EQ03208,Smartphone,iPhone 13,Paris Bercy,2022-09-25,2025-09-24
+EQ03210,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-01-29,2026-01-28
+EQ03211,PC portable,Dell Latitude 5440,Paris Bercy,2023-04-20,2026-04-19
+EQ03212,Écran,Iiyama XUB2492,Paris Bercy,2022-01-06,2025-01-05
+EQ03215,PC fixe,Dell OptiPlex 7010,Paris La Défense,2023-03-28,2026-03-27
+EQ03217,Écran,Dell P2423,Lyon,2020-12-22,2023-12-22
+EQ03219,PC portable,Dell Latitude 5440,Lille,2021-04-16,2024-04-15
+EQ03222,Smartphone,Samsung Galaxy A54,Lyon,2019-08-13,2022-08-12
+EQ03224,Smartphone,iPhone 13,Paris La Défense,2021-07-24,2024-07-23
+EQ03225,PC portable,Dell Latitude 5440,Lille,2020-12-28,2023-12-28
+EQ03228,Écran,Iiyama XUB2492,Paris Bercy,2019-05-12,2022-05-11
+EQ03232,PC portable,HP EliteBook 840 G10,Lille,2021-04-18,2024-04-17
+EQ03234,PC portable,Dell Latitude 5440,Marseille,2023-06-10,2026-06-09
+EQ03235,Écran,HP E24 G5,Lyon,2020-09-05,2023-09-05
+EQ03236,PC fixe,Dell OptiPlex 7010,Marseille,2023-01-22,2026-01-21
+EQ03238,Écran,Iiyama XUB2492,Lyon,2023-02-25,2026-02-24
+EQ03239,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-10-22,2023-10-22
+EQ03241,Smartphone,Samsung Galaxy A54,Marseille,2023-05-16,2026-05-15
+EQ03242,PC portable,Lenovo ThinkPad T14,Lille,2021-03-14,2024-03-13
+EQ03243,Smartphone,Samsung Galaxy A54,Paris Bercy,2019-02-11,2022-02-10
+EQ03244,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2019-05-03,2022-05-02
+EQ03246,Écran,Dell P2423,Paris La Défense,2022-12-25,2025-12-24
+EQ03247,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-11-07,2024-11-06
+EQ03250,Écran,HP E24 G5,Marseille,2020-01-30,2023-01-29
+EQ03252,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-07-13,2023-07-13
+EQ03254,Écran,Dell P2423,Nantes,2020-11-29,2023-11-29
+EQ03257,Écran,Dell P2423,Lyon,2019-06-24,2022-06-23
+EQ03258,Écran,Dell P2423,Nantes,2019-09-24,2022-09-23
+EQ03259,PC portable,HP EliteBook 840 G10,Marseille,2022-12-20,2025-12-19
+EQ03264,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-02-22,2024-02-22
+EQ03266,PC portable,Dell Latitude 5440,Marseille,2021-08-31,2024-08-30
+EQ03267,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-03-22,2025-03-21
+EQ03269,Écran,Dell P2423,Lyon,2023-09-07,2026-09-06
+EQ03270,Écran,Iiyama XUB2492,Nantes,2019-02-26,2022-02-25
+EQ03271,PC fixe,HP EliteDesk 800 G9,Lille,2019-07-13,2022-07-12
+EQ03272,PC fixe,Dell OptiPlex 7010,Lille,2021-12-10,2024-12-09
+EQ03274,Smartphone,iPhone 13,Lyon,2022-06-05,2025-06-04
+EQ03275,PC portable,Dell Latitude 5440,Lyon,2023-08-17,2026-08-16
+EQ03278,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-12-17,2023-12-17
+EQ03279,PC portable,Lenovo ThinkPad T14,Marseille,2020-10-16,2023-10-16
+EQ03283,PC portable,Lenovo ThinkPad T14,Lyon,2019-12-17,2022-12-16
+EQ03285,PC fixe,HP EliteDesk 800 G9,Lyon,2019-01-04,2022-01-03
+EQ03287,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-01-31,2024-01-31
+EQ03288,PC portable,Lenovo ThinkPad T14,Nantes,2021-02-10,2024-02-10
+EQ03289,Écran,Dell P2423,Marseille,2023-08-28,2026-08-27
+EQ03290,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2022-12-19,2025-12-18
+EQ03291,PC portable,HP EliteBook 840 G10,Nantes,2022-10-21,2025-10-20
+EQ03292,PC portable,Lenovo ThinkPad T14,Lyon,2022-04-09,2025-04-08
+EQ03296,Écran,HP E24 G5,Lyon,2019-05-07,2022-05-06
+EQ03297,PC portable,Dell Latitude 5440,Lyon,2023-03-18,2026-03-17
+EQ03299,PC portable,Lenovo ThinkPad T14,Marseille,2022-08-01,2025-07-31
+EQ03300,Écran,Dell P2423,Lyon,2019-01-14,2022-01-13
+EQ03302,Écran,Iiyama XUB2492,Lille,2023-07-30,2026-07-29
+EQ03303,PC portable,HP EliteBook 840 G10,Lille,2022-04-10,2025-04-09
+EQ03304,PC portable,HP EliteBook 840 G10,Lyon,2022-09-23,2025-09-22
+EQ03306,Écran,Iiyama XUB2492,Lille,2023-03-25,2026-03-24
+EQ03307,PC fixe,HP EliteDesk 800 G9,Lyon,2019-05-29,2022-05-28
+EQ03310,Smartphone,Samsung Galaxy A54,Lyon,2022-08-18,2025-08-17
+EQ03311,Smartphone,iPhone 13,Marseille,2021-03-22,2024-03-21
+EQ03313,PC portable,Lenovo ThinkPad T14,Marseille,2021-06-12,2024-06-11
+EQ03314,Écran,Iiyama XUB2492,Lyon,2022-06-06,2025-06-05
+EQ03317,PC portable,HP EliteBook 840 G10,Marseille,2023-05-11,2026-05-10
+EQ03318,Écran,HP E24 G5,Nantes,2019-02-03,2022-02-02
+EQ03319,PC portable,Dell Latitude 5440,Paris Bercy,2022-02-16,2025-02-15
+EQ03320,Écran,HP E24 G5,Nantes,2020-10-30,2023-10-30
+EQ03321,Écran,Iiyama XUB2492,Lille,2020-04-16,2023-04-16
+EQ03322,Écran,HP E24 G5,Lyon,2020-12-11,2023-12-11
+EQ03323,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-07-10,2026-07-09
+EQ03326,PC portable,HP EliteBook 840 G10,Nantes,2022-02-07,2025-02-06
+EQ03329,PC portable,Lenovo ThinkPad T14,Nantes,2021-11-09,2024-11-08
+EQ03330,Écran,HP E24 G5,Lyon,2019-03-18,2022-03-17
+EQ03331,Écran,HP E24 G5,Nantes,2022-09-01,2025-08-31
+EQ03334,PC portable,HP EliteBook 840 G10,Marseille,2023-06-01,2026-05-31
+EQ03335,Écran,HP E24 G5,Lille,2019-08-06,2022-08-05
+EQ03336,Écran,HP E24 G5,Paris Bercy,2023-02-18,2026-02-17
+EQ03337,PC portable,Lenovo ThinkPad T14,Lyon,2023-01-22,2026-01-21
+EQ03338,PC portable,Dell Latitude 5440,Marseille,2023-08-12,2026-08-11
+EQ03340,PC portable,Lenovo ThinkPad T14,Lyon,2021-05-18,2024-05-17
+EQ03342,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-09-26,2025-09-25
+EQ03343,PC portable,Dell Latitude 5440,Lille,2023-03-14,2026-03-13
+EQ03344,Écran,Dell P2423,Lille,2023-09-07,2026-09-06
+EQ03346,PC portable,HP EliteBook 840 G10,Lyon,2020-05-01,2023-05-01
+EQ03348,Smartphone,Samsung Galaxy A54,Marseille,2019-07-15,2022-07-14
+EQ03349,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-08-05,2023-08-05
+EQ03350,Écran,Iiyama XUB2492,Nantes,2021-07-28,2024-07-27
+EQ03352,Écran,Iiyama XUB2492,Nantes,2021-09-19,2024-09-18
+EQ03354,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-09-15,2026-09-14
+EQ03356,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-06-25,2023-06-25
+EQ03357,PC portable,HP EliteBook 840 G10,Nantes,2023-06-28,2026-06-27
+EQ03359,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-01-06,2025-01-05
+EQ03360,Écran,Dell P2423,Paris La Défense,2019-01-02,2022-01-01
+EQ03362,Écran,HP E24 G5,Marseille,2023-05-26,2026-05-25
+EQ03363,PC portable,Dell Latitude 5440,Nantes,2019-04-13,2022-04-12
+EQ03365,PC portable,Lenovo ThinkPad T14,Lyon,2020-01-07,2023-01-06
+EQ03367,Smartphone,Samsung Galaxy A54,Lille,2023-04-14,2026-04-13
+EQ03368,Écran,Iiyama XUB2492,Lyon,2019-10-24,2022-10-23
+EQ03370,PC portable,HP EliteBook 840 G10,Lille,2021-07-11,2024-07-10
+EQ03376,Écran,Dell P2423,Nantes,2022-11-30,2025-11-29
+EQ03377,Smartphone,iPhone 13,Nantes,2021-11-23,2024-11-22
+EQ03379,PC portable,Lenovo ThinkPad T14,Lille,2020-03-14,2023-03-14
+EQ03380,Smartphone,iPhone 13,Lyon,2021-08-12,2024-08-11
+EQ03381,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-06-12,2025-06-11
+EQ03383,Écran,Iiyama XUB2492,Paris La Défense,2023-03-12,2026-03-11
+EQ03385,Smartphone,iPhone 13,Lille,2022-12-16,2025-12-15
+EQ03386,Écran,Iiyama XUB2492,Lille,2023-04-06,2026-04-05
+EQ03388,Écran,Iiyama XUB2492,Paris Bercy,2021-07-30,2024-07-29
+EQ03389,Écran,Iiyama XUB2492,Lyon,2019-12-23,2022-12-22
+EQ03390,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-07-27,2026-07-26
+EQ03392,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-05-07,2026-05-06
+EQ03393,PC fixe,Dell OptiPlex 7010,Nantes,2022-05-21,2025-05-20
+EQ03394,Écran,HP E24 G5,Paris Bercy,2023-03-27,2026-03-26
+EQ03397,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-09-18,2025-09-17
+EQ03403,Écran,HP E24 G5,Lille,2019-05-14,2022-05-13
+EQ03405,Smartphone,Samsung Galaxy A54,Lille,2023-04-27,2026-04-26
+EQ03407,PC portable,HP EliteBook 840 G10,Nantes,2020-02-01,2023-01-31
+EQ03408,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-11-21,2023-11-21
+EQ03410,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-10-10,2024-10-09
+EQ03413,Écran,Dell P2423,Lille,2023-03-31,2026-03-30
+EQ03414,Smartphone,iPhone 13,Marseille,2019-09-01,2022-08-31
+EQ03415,Smartphone,Samsung Galaxy A54,Nantes,2022-06-08,2025-06-07
+EQ03416,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-07-29,2024-07-28
+EQ03421,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-06-22,2022-06-21
+EQ03423,PC fixe,HP EliteDesk 800 G9,Nantes,2022-10-13,2025-10-12
+EQ03425,Écran,Iiyama XUB2492,Paris La Défense,2019-03-29,2022-03-28
+EQ03426,Écran,Iiyama XUB2492,Marseille,2022-08-11,2025-08-10
+EQ03427,PC portable,Lenovo ThinkPad T14,Lille,2019-04-11,2022-04-10
+EQ03429,PC portable,Lenovo ThinkPad T14,Marseille,2022-01-08,2025-01-07
+EQ03432,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-09-07,2026-09-06
+EQ03433,Smartphone,iPhone 13,Paris La Défense,2020-07-05,2023-07-05
+EQ03435,Écran,Iiyama XUB2492,Paris Bercy,2022-11-22,2025-11-21
+EQ03437,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-08-09,2022-08-08
+EQ03438,Écran,Iiyama XUB2492,Paris La Défense,2023-03-04,2026-03-03
+EQ03439,PC portable,Dell Latitude 5440,Lille,2023-06-02,2026-06-01
+EQ03440,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-10-31,2023-10-31
+EQ03443,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-11-23,2024-11-22
+EQ03446,PC portable,Dell Latitude 5440,Paris Bercy,2022-07-26,2025-07-25
+EQ03447,Écran,HP E24 G5,Marseille,2020-07-03,2023-07-03
+EQ03450,Smartphone,iPhone 13,Nantes,2022-09-04,2025-09-03
+EQ03451,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-04-19,2026-04-18
+EQ03453,Écran,Iiyama XUB2492,Marseille,2019-07-02,2022-07-01
+EQ03454,PC portable,Dell Latitude 5440,Marseille,2023-02-10,2026-02-09
+EQ03455,Écran,Iiyama XUB2492,Lyon,2019-12-28,2022-12-27
+EQ03456,PC fixe,Dell OptiPlex 7010,Marseille,2020-11-25,2023-11-25
+EQ03457,Smartphone,Samsung Galaxy A54,Paris La Défense,2021-08-29,2024-08-28
+EQ03459,PC portable,HP EliteBook 840 G10,Lyon,2022-10-01,2025-09-30
+EQ03462,Smartphone,iPhone 13,Lille,2023-07-22,2026-07-21
+EQ03465,PC portable,Dell Latitude 5440,Nantes,2019-09-20,2022-09-19
+EQ03466,Écran,HP E24 G5,Paris Bercy,2019-07-22,2022-07-21
+EQ03468,PC portable,Dell Latitude 5440,Paris La Défense,2019-08-17,2022-08-16
+EQ03472,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-02-14,2024-02-14
+EQ03474,PC portable,HP EliteBook 840 G10,Nantes,2021-02-05,2024-02-05
+EQ03478,PC portable,Dell Latitude 5440,Lyon,2020-12-04,2023-12-04
+EQ03479,PC portable,Lenovo ThinkPad T14,Marseille,2022-02-19,2025-02-18
+EQ03480,Smartphone,Samsung Galaxy A54,Lille,2021-04-28,2024-04-27
+EQ03481,Écran,HP E24 G5,Lyon,2022-01-02,2025-01-01
+EQ03485,Écran,Iiyama XUB2492,Lyon,2019-09-12,2022-09-11
+EQ03487,PC portable,HP EliteBook 840 G10,Marseille,2021-03-31,2024-03-30
+EQ03489,Écran,HP E24 G5,Marseille,2021-04-30,2024-04-29
+EQ03490,Écran,Iiyama XUB2492,Paris La Défense,2021-02-17,2024-02-17
+EQ03491,Écran,Iiyama XUB2492,Lille,2021-09-13,2024-09-12
+EQ03492,PC portable,Lenovo ThinkPad T14,Nantes,2020-10-30,2023-10-30
+EQ03493,PC portable,HP EliteBook 840 G10,Nantes,2023-05-24,2026-05-23
+EQ03494,PC portable,Dell Latitude 5440,Lyon,2022-02-18,2025-02-17
+EQ03495,PC portable,Lenovo ThinkPad T14,Lyon,2019-05-07,2022-05-06
+EQ03496,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-07-20,2025-07-19
+EQ03498,PC portable,HP EliteBook 840 G10,Nantes,2023-02-23,2026-02-22
+EQ03499,PC portable,Dell Latitude 5440,Lille,2021-11-09,2024-11-08
+EQ03500,PC fixe,Dell OptiPlex 7010,Lyon,2022-06-08,2025-06-07
+EQ03502,Écran,Iiyama XUB2492,Paris La Défense,2023-07-28,2026-07-27
+EQ03506,Smartphone,Samsung Galaxy A54,Lyon,2019-11-11,2022-11-10
+EQ03508,Smartphone,iPhone 13,Lyon,2020-08-30,2023-08-30
+EQ03510,PC portable,Lenovo ThinkPad T14,Lyon,2020-02-02,2023-02-01
+EQ03516,Écran,Iiyama XUB2492,Paris La Défense,2022-12-21,2025-12-20
+EQ03517,PC portable,Dell Latitude 5440,Lille,2023-09-01,2026-08-31
+EQ03518,Smartphone,iPhone 13,Lyon,2022-04-23,2025-04-22
+EQ03522,Smartphone,Samsung Galaxy A54,Paris La Défense,2020-01-19,2023-01-18
+EQ03525,Smartphone,iPhone 13,Paris La Défense,2022-08-24,2025-08-23
+EQ03526,PC fixe,Dell OptiPlex 7010,Paris Bercy,2019-04-16,2022-04-15
+EQ03527,Écran,Dell P2423,Marseille,2020-04-11,2023-04-11
+EQ03530,Écran,HP E24 G5,Nantes,2021-01-07,2024-01-07
+EQ03531,PC fixe,Dell OptiPlex 7010,Lyon,2023-06-30,2026-06-29
+EQ03533,Écran,Dell P2423,Lyon,2022-05-29,2025-05-28
+EQ03536,Écran,Iiyama XUB2492,Paris Bercy,2019-02-23,2022-02-22
+EQ03538,PC fixe,Dell OptiPlex 7010,Lille,2020-10-17,2023-10-17
+EQ03539,PC portable,Dell Latitude 5440,Lille,2022-04-21,2025-04-20
+EQ03542,Écran,Iiyama XUB2492,Lille,2022-04-08,2025-04-07
+EQ03543,Smartphone,iPhone 13,Lyon,2022-02-09,2025-02-08
+EQ03545,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-06-17,2025-06-16
+EQ03546,PC portable,Lenovo ThinkPad T14,Lyon,2019-05-22,2022-05-21
+EQ03547,PC portable,Dell Latitude 5440,Paris La Défense,2023-05-13,2026-05-12
+EQ03549,PC portable,Lenovo ThinkPad T14,Marseille,2021-09-18,2024-09-17
+EQ03550,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2021-11-10,2024-11-09
+EQ03553,PC fixe,Dell OptiPlex 7010,Lyon,2020-05-12,2023-05-12
+EQ03554,Écran,Dell P2423,Paris Bercy,2022-11-01,2025-10-31
+EQ03558,Écran,Iiyama XUB2492,Nantes,2021-04-02,2024-04-01
+EQ03561,PC fixe,Dell OptiPlex 7010,Lyon,2019-09-15,2022-09-14
+EQ03562,PC portable,Dell Latitude 5440,Lyon,2022-07-26,2025-07-25
+EQ03565,PC portable,HP EliteBook 840 G10,Lyon,2020-11-09,2023-11-09
+EQ03566,Smartphone,Samsung Galaxy A54,Paris Bercy,2019-12-18,2022-12-17
+EQ03567,PC fixe,HP EliteDesk 800 G9,Marseille,2020-04-25,2023-04-25
+EQ03569,Écran,HP E24 G5,Lyon,2020-05-30,2023-05-30
+EQ03570,PC portable,Dell Latitude 5440,Lille,2019-06-23,2022-06-22
+EQ03573,PC portable,Dell Latitude 5440,Nantes,2022-07-12,2025-07-11
+EQ03574,PC portable,HP EliteBook 840 G10,Marseille,2019-04-17,2022-04-16
+EQ03575,Smartphone,iPhone 13,Lyon,2020-10-22,2023-10-22
+EQ03577,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-06-23,2022-06-22
+EQ03579,Écran,Iiyama XUB2492,Lille,2022-05-15,2025-05-14
+EQ03580,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2020-04-24,2023-04-24
+EQ03581,Écran,Iiyama XUB2492,Paris La Défense,2020-07-28,2023-07-28
+EQ03582,Smartphone,iPhone 13,Nantes,2019-09-02,2022-09-01
+EQ03585,PC portable,Dell Latitude 5440,Nantes,2023-09-17,2026-09-16
+EQ03589,Écran,Dell P2423,Nantes,2019-07-13,2022-07-12
+EQ03591,Smartphone,iPhone 13,Marseille,2019-11-02,2022-11-01
+EQ03593,PC portable,HP EliteBook 840 G10,Lyon,2020-04-22,2023-04-22
+EQ03595,PC fixe,HP EliteDesk 800 G9,Marseille,2021-12-20,2024-12-19
+EQ03597,Écran,Iiyama XUB2492,Nantes,2021-08-18,2024-08-17
+EQ03601,Écran,Dell P2423,Marseille,2022-08-21,2025-08-20
+EQ03602,PC portable,Lenovo ThinkPad T14,Nantes,2023-02-17,2026-02-16
+EQ03603,PC portable,Lenovo ThinkPad T14,Lyon,2021-02-12,2024-02-12
+EQ03606,Écran,HP E24 G5,Paris Bercy,2022-08-25,2025-08-24
+EQ03610,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-11-09,2022-11-08
+EQ03612,Écran,Iiyama XUB2492,Paris Bercy,2021-10-03,2024-10-02
+EQ03615,Écran,Iiyama XUB2492,Paris Bercy,2022-01-12,2025-01-11
+EQ03617,Écran,Iiyama XUB2492,Lille,2022-12-03,2025-12-02
+EQ03619,Écran,HP E24 G5,Paris Bercy,2020-07-29,2023-07-29
+EQ03621,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-05,2026-04-04
+EQ03623,Smartphone,Samsung Galaxy A54,Lille,2020-07-19,2023-07-19
+EQ03624,Écran,Iiyama XUB2492,Marseille,2022-12-10,2025-12-09
+EQ03625,Écran,HP E24 G5,Nantes,2022-04-02,2025-04-01
+EQ03627,Écran,Dell P2423,Lille,2022-12-29,2025-12-28
+EQ03628,PC portable,Dell Latitude 5440,Nantes,2023-02-21,2026-02-20
+EQ03629,PC portable,Dell Latitude 5440,Paris La Défense,2021-05-19,2024-05-18
+EQ03632,Écran,Dell P2423,Paris La Défense,2022-09-15,2025-09-14
+EQ03636,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2019-09-26,2022-09-25
+EQ03638,PC fixe,Dell OptiPlex 7010,Marseille,2019-11-08,2022-11-07
+EQ03639,Écran,Iiyama XUB2492,Lille,2021-09-19,2024-09-18
+EQ03640,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-05-10,2023-05-10
+EQ03641,Écran,Iiyama XUB2492,Marseille,2019-09-07,2022-09-06
+EQ03642,Écran,Iiyama XUB2492,Marseille,2023-01-03,2026-01-02
+EQ03644,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-01-09,2025-01-08
+EQ03646,Smartphone,Samsung Galaxy A54,Lille,2020-03-13,2023-03-13
+EQ03650,Smartphone,Samsung Galaxy A54,Lyon,2020-01-31,2023-01-30
+EQ03651,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-12-30,2023-12-30
+EQ03653,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-06-17,2026-06-16
+EQ03654,PC fixe,Dell OptiPlex 7010,Nantes,2021-05-24,2024-05-23
+EQ03655,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-11-04,2023-11-04
+EQ03656,PC portable,HP EliteBook 840 G10,Lille,2020-03-25,2023-03-25
+EQ03657,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-04-10,2026-04-09
+EQ03659,Écran,HP E24 G5,Paris Bercy,2021-12-22,2024-12-21
+EQ03660,Écran,Dell P2423,Paris Bercy,2020-11-20,2023-11-20
+EQ03662,Écran,HP E24 G5,Paris Bercy,2020-12-21,2023-12-21
+EQ03663,Smartphone,Samsung Galaxy A54,Marseille,2019-11-13,2022-11-12
+EQ03667,PC fixe,Dell OptiPlex 7010,Marseille,2021-06-12,2024-06-11
+EQ03669,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-04-01,2023-04-01
+EQ03671,PC portable,Dell Latitude 5440,Lille,2021-10-06,2024-10-05
+EQ03673,PC fixe,Dell OptiPlex 7010,Nantes,2019-05-07,2022-05-06
+EQ03674,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-08-10,2024-08-09
+EQ03676,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-01-20,2026-01-19
+EQ03677,PC portable,HP EliteBook 840 G10,Nantes,2022-04-28,2025-04-27
+EQ03678,Écran,HP E24 G5,Lille,2023-06-07,2026-06-06
+EQ03679,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-12-18,2022-12-17
+EQ03682,Écran,Dell P2423,Paris La Défense,2023-07-21,2026-07-20
+EQ03684,Smartphone,iPhone 13,Marseille,2020-09-28,2023-09-28
+EQ03686,PC portable,Lenovo ThinkPad T14,Nantes,2023-02-05,2026-02-04
+EQ03691,Écran,Dell P2423,Lille,2020-07-30,2023-07-30
+EQ03692,Écran,Dell P2423,Nantes,2022-10-28,2025-10-27
+EQ03693,Smartphone,Samsung Galaxy A54,Marseille,2022-11-20,2025-11-19
+EQ03696,PC portable,Dell Latitude 5440,Lyon,2019-02-14,2022-02-13
+EQ03697,Smartphone,iPhone 13,Paris La Défense,2021-09-07,2024-09-06
+EQ03699,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-01-22,2025-01-21
+EQ03701,PC portable,Dell Latitude 5440,Nantes,2020-04-24,2023-04-24
+EQ03702,Écran,Iiyama XUB2492,Paris La Défense,2022-01-18,2025-01-17
+EQ03703,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-11-22,2024-11-21
+EQ03704,Smartphone,Samsung Galaxy A54,Nantes,2020-08-31,2023-08-31
+EQ03707,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-07-26,2026-07-25
+EQ03708,PC portable,Lenovo ThinkPad T14,Lille,2021-05-19,2024-05-18
+EQ03711,Écran,Dell P2423,Marseille,2020-05-12,2023-05-12
+EQ03712,PC portable,Dell Latitude 5440,Marseille,2023-07-03,2026-07-02
+EQ03713,PC fixe,Dell OptiPlex 7010,Marseille,2023-01-17,2026-01-16
+EQ03714,Écran,HP E24 G5,Paris Bercy,2019-03-22,2022-03-21
+EQ03715,Écran,Iiyama XUB2492,Paris La Défense,2022-08-05,2025-08-04
+EQ03716,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-11-25,2023-11-25
+EQ03717,Écran,Dell P2423,Nantes,2021-05-12,2024-05-11
+EQ03718,Écran,Dell P2423,Lyon,2023-02-25,2026-02-24
+EQ03719,PC portable,Lenovo ThinkPad T14,Lyon,2022-04-14,2025-04-13
+EQ03720,Smartphone,iPhone 13,Paris La Défense,2022-11-04,2025-11-03
+EQ03721,Écran,HP E24 G5,Lille,2021-11-09,2024-11-08
+EQ03722,Smartphone,Samsung Galaxy A54,Marseille,2020-05-01,2023-05-01
+EQ03725,PC portable,HP EliteBook 840 G10,Lille,2023-04-18,2026-04-17
+EQ03727,PC fixe,HP EliteDesk 800 G9,Nantes,2023-06-23,2026-06-22
+EQ03728,Smartphone,Samsung Galaxy A54,Lyon,2021-09-09,2024-09-08
+EQ03729,PC fixe,HP EliteDesk 800 G9,Nantes,2021-10-16,2024-10-15
+EQ03730,PC portable,Lenovo ThinkPad T14,Nantes,2019-02-11,2022-02-10
+EQ03732,PC portable,Lenovo ThinkPad T14,Lille,2020-12-30,2023-12-30
+EQ03734,Écran,Iiyama XUB2492,Paris La Défense,2020-11-27,2023-11-27
+EQ03735,PC portable,Dell Latitude 5440,Paris La Défense,2022-01-28,2025-01-27
+EQ03737,Smartphone,iPhone 13,Paris Bercy,2020-04-13,2023-04-13
+EQ03739,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-09-08,2026-09-07
+EQ03740,Smartphone,iPhone 13,Lyon,2023-06-18,2026-06-17
+EQ03741,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-05-01,2025-04-30
+EQ03747,Écran,Iiyama XUB2492,Marseille,2023-06-16,2026-06-15
+EQ03748,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-09-07,2026-09-06
+EQ03749,PC portable,Dell Latitude 5440,Paris Bercy,2022-10-02,2025-10-01
+EQ03750,Écran,HP E24 G5,Lille,2021-12-23,2024-12-22
+EQ03755,Écran,Dell P2423,Paris La Défense,2022-08-10,2025-08-09
+EQ03756,Écran,Dell P2423,Paris La Défense,2021-10-18,2024-10-17
+EQ03757,PC portable,Lenovo ThinkPad T14,Marseille,2021-05-09,2024-05-08
+EQ03759,PC portable,Lenovo ThinkPad T14,Lyon,2022-04-06,2025-04-05
+EQ03761,PC portable,HP EliteBook 840 G10,Lyon,2023-03-09,2026-03-08
+EQ03762,Écran,Iiyama XUB2492,Marseille,2019-01-10,2022-01-09
+EQ03765,PC portable,Lenovo ThinkPad T14,Marseille,2020-07-12,2023-07-12
+EQ03766,PC portable,Dell Latitude 5440,Nantes,2019-03-27,2022-03-26
+EQ03767,Écran,Iiyama XUB2492,Marseille,2022-10-01,2025-09-30
+EQ03771,PC portable,Lenovo ThinkPad T14,Lyon,2020-11-12,2023-11-12
+EQ03774,Écran,Iiyama XUB2492,Lyon,2019-05-21,2022-05-20
+EQ03776,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-05-24,2022-05-23
+EQ03778,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-11-30,2022-11-29
+EQ03779,PC portable,Lenovo ThinkPad T14,Marseille,2021-05-22,2024-05-21
+EQ03780,PC portable,Lenovo ThinkPad T14,Nantes,2020-06-27,2023-06-27
+EQ03781,PC portable,Dell Latitude 5440,Lille,2020-08-23,2023-08-23
+EQ03782,PC portable,Lenovo ThinkPad T14,Marseille,2023-01-17,2026-01-16
+EQ03785,Smartphone,iPhone 13,Paris Bercy,2022-04-18,2025-04-17
+EQ03786,PC fixe,HP EliteDesk 800 G9,Lille,2020-06-26,2023-06-26
+EQ03793,PC fixe,Dell OptiPlex 7010,Lyon,2022-02-25,2025-02-24
+EQ03795,PC fixe,Dell OptiPlex 7010,Paris Bercy,2022-03-14,2025-03-13
+EQ03798,Écran,Iiyama XUB2492,Paris La Défense,2019-05-11,2022-05-10
+EQ03799,Écran,HP E24 G5,Lyon,2020-11-30,2023-11-30
+EQ03800,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-07-08,2023-07-08
+EQ03802,PC portable,Lenovo ThinkPad T14,Marseille,2019-06-02,2022-06-01
+EQ03805,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-05-13,2026-05-12
+EQ03808,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-05-10,2026-05-09
+EQ03809,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-04-08,2023-04-08
+EQ03810,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-09,2026-04-08
+EQ03811,Smartphone,iPhone 13,Paris Bercy,2022-12-06,2025-12-05
+EQ03812,PC portable,Dell Latitude 5440,Paris Bercy,2023-03-21,2026-03-20
+EQ03813,Smartphone,Samsung Galaxy A54,Paris Bercy,2019-08-08,2022-08-07
+EQ03814,PC portable,HP EliteBook 840 G10,Lille,2023-08-04,2026-08-03
+EQ03815,Smartphone,iPhone 13,Paris Bercy,2022-10-05,2025-10-04
+EQ03816,Smartphone,Samsung Galaxy A54,Lyon,2023-02-09,2026-02-08
+EQ03820,PC portable,HP EliteBook 840 G10,Lille,2019-04-04,2022-04-03
+EQ03823,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-04-12,2025-04-11
+EQ03824,Écran,Dell P2423,Marseille,2021-05-22,2024-05-21
+EQ03826,PC portable,HP EliteBook 840 G10,Nantes,2019-08-21,2022-08-20
+EQ03827,Écran,HP E24 G5,Lille,2021-06-30,2024-06-29
+EQ03828,Smartphone,iPhone 13,Paris La Défense,2019-03-25,2022-03-24
+EQ03829,PC portable,HP EliteBook 840 G10,Nantes,2019-10-30,2022-10-29
+EQ03830,Écran,Dell P2423,Nantes,2020-03-19,2023-03-19
+EQ03833,Écran,Iiyama XUB2492,Marseille,2021-08-16,2024-08-15
+EQ03834,Écran,Iiyama XUB2492,Marseille,2020-08-09,2023-08-09
+EQ03835,PC fixe,Dell OptiPlex 7010,Nantes,2019-09-16,2022-09-15
+EQ03836,Écran,Dell P2423,Paris La Défense,2019-06-17,2022-06-16
+EQ03837,PC portable,Lenovo ThinkPad T14,Nantes,2019-11-10,2022-11-09
+EQ03842,PC fixe,HP EliteDesk 800 G9,Lille,2022-09-19,2025-09-18
+EQ03843,PC portable,Lenovo ThinkPad T14,Lille,2020-04-17,2023-04-17
+EQ03844,PC portable,HP EliteBook 840 G10,Nantes,2020-03-09,2023-03-09
+EQ03845,Smartphone,iPhone 13,Nantes,2022-05-10,2025-05-09
+EQ03846,PC portable,Dell Latitude 5440,Paris La Défense,2023-03-30,2026-03-29
+EQ03849,PC portable,HP EliteBook 840 G10,Lyon,2023-07-26,2026-07-25
+EQ03851,Écran,Iiyama XUB2492,Lille,2021-05-17,2024-05-16
+EQ03853,Écran,HP E24 G5,Marseille,2022-04-01,2025-03-31
+EQ03855,PC portable,HP EliteBook 840 G10,Lyon,2021-10-16,2024-10-15
+EQ03859,PC portable,Lenovo ThinkPad T14,Nantes,2023-01-07,2026-01-06
+EQ03861,Écran,HP E24 G5,Paris La Défense,2020-07-15,2023-07-15
+EQ03862,PC portable,HP EliteBook 840 G10,Lille,2019-02-27,2022-02-26
+EQ03865,PC portable,Dell Latitude 5440,Paris Bercy,2022-04-10,2025-04-09
+EQ03867,Smartphone,Samsung Galaxy A54,Lyon,2019-07-29,2022-07-28
+EQ03869,PC portable,Dell Latitude 5440,Lille,2022-11-13,2025-11-12
+EQ03870,PC portable,Dell Latitude 5440,Lyon,2022-08-10,2025-08-09
+EQ03871,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-05-30,2024-05-29
+EQ03876,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-10-11,2025-10-10
+EQ03879,Écran,Dell P2423,Nantes,2022-02-15,2025-02-14
+EQ03880,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-12-04,2022-12-03
+EQ03881,PC fixe,HP EliteDesk 800 G9,Lyon,2020-02-26,2023-02-25
+EQ03882,Écran,Iiyama XUB2492,Lille,2022-07-09,2025-07-08
+EQ03883,PC portable,Lenovo ThinkPad T14,Lille,2023-04-12,2026-04-11
+EQ03884,Écran,HP E24 G5,Lille,2019-02-10,2022-02-09
+EQ03887,Écran,Dell P2423,Nantes,2020-02-15,2023-02-14
+EQ03889,Écran,HP E24 G5,Paris La Défense,2023-01-02,2026-01-01
+EQ03890,Écran,HP E24 G5,Marseille,2020-07-10,2023-07-10
+EQ03892,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2020-09-28,2023-09-28
+EQ03897,PC portable,Lenovo ThinkPad T14,Marseille,2023-07-12,2026-07-11
+EQ03900,Smartphone,Samsung Galaxy A54,Marseille,2022-08-05,2025-08-04
+EQ03905,Smartphone,iPhone 13,Paris La Défense,2022-12-10,2025-12-09
+EQ03907,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-06-15,2025-06-14
+EQ03914,Écran,Dell P2423,Paris La Défense,2020-07-07,2023-07-07
+EQ03918,Écran,Iiyama XUB2492,Marseille,2022-04-18,2025-04-17
+EQ03919,PC portable,Lenovo ThinkPad T14,Nantes,2019-03-26,2022-03-25
+EQ03924,Écran,HP E24 G5,Lille,2020-11-05,2023-11-05
+EQ03925,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2023-06-20,2026-06-19
+EQ03930,PC portable,Lenovo ThinkPad T14,Lyon,2020-12-19,2023-12-19
+EQ03934,PC fixe,Dell OptiPlex 7010,Nantes,2021-12-31,2024-12-30
+EQ03935,PC portable,Dell Latitude 5440,Nantes,2022-01-29,2025-01-28
+EQ03936,Smartphone,Samsung Galaxy A54,Paris La Défense,2022-07-30,2025-07-29
+EQ03938,PC portable,Dell Latitude 5440,Lille,2020-01-31,2023-01-30
+EQ03939,Écran,Iiyama XUB2492,Marseille,2019-12-20,2022-12-19
+EQ03940,PC portable,Dell Latitude 5440,Lyon,2022-02-07,2025-02-06
+EQ03941,PC portable,Lenovo ThinkPad T14,Nantes,2022-10-26,2025-10-25
+EQ03942,Écran,Iiyama XUB2492,Nantes,2022-05-30,2025-05-29
+EQ03943,Smartphone,iPhone 13,Nantes,2023-07-08,2026-07-07
+EQ03944,PC fixe,HP EliteDesk 800 G9,Lyon,2023-02-16,2026-02-15
+EQ03945,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-06-12,2023-06-12
+EQ03947,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-09-25,2026-09-24
+EQ03948,Smartphone,Samsung Galaxy A54,Paris La Défense,2019-09-07,2022-09-06
+EQ03955,Smartphone,iPhone 13,Nantes,2021-11-13,2024-11-12
+EQ03956,PC portable,Lenovo ThinkPad T14,Marseille,2020-09-23,2023-09-23
+EQ03957,PC portable,HP EliteBook 840 G10,Lille,2021-07-26,2024-07-25
+EQ03959,Écran,HP E24 G5,Lyon,2020-10-08,2023-10-08
+EQ03961,Écran,HP E24 G5,Marseille,2019-03-29,2022-03-28
+EQ03962,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-05-09,2025-05-08
+EQ03963,PC fixe,HP EliteDesk 800 G9,Lille,2022-01-01,2024-12-31
+EQ03964,Écran,HP E24 G5,Lyon,2023-03-15,2026-03-14
+EQ03966,Smartphone,iPhone 13,Paris Bercy,2021-09-18,2024-09-17
+EQ03968,PC fixe,HP EliteDesk 800 G9,Lyon,2019-06-08,2022-06-07
+EQ03969,Écran,HP E24 G5,Lyon,2022-11-26,2025-11-25
+EQ03970,Smartphone,Samsung Galaxy A54,Lyon,2021-11-15,2024-11-14
+EQ03972,PC portable,HP EliteBook 840 G10,Marseille,2019-06-20,2022-06-19
+EQ03973,Smartphone,iPhone 13,Paris La Défense,2022-04-08,2025-04-07
+EQ03976,PC portable,Lenovo ThinkPad T14,Marseille,2022-08-05,2025-08-04
+EQ03978,Écran,HP E24 G5,Nantes,2021-09-17,2024-09-16
+EQ03981,PC portable,Lenovo ThinkPad T14,Marseille,2023-03-02,2026-03-01
+EQ03982,PC portable,Dell Latitude 5440,Paris La Défense,2023-05-22,2026-05-21
+EQ03983,PC portable,HP EliteBook 840 G10,Lille,2023-06-05,2026-06-04
+EQ03987,PC portable,HP EliteBook 840 G10,Marseille,2022-01-19,2025-01-18
+EQ03988,Écran,HP E24 G5,Paris Bercy,2020-07-01,2023-07-01
+EQ03990,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-10-27,2023-10-27
+EQ03991,PC portable,HP EliteBook 840 G10,Marseille,2022-08-03,2025-08-02
+EQ03994,Écran,Dell P2423,Nantes,2022-01-26,2025-01-25
+EQ03995,Écran,HP E24 G5,Lyon,2020-04-12,2023-04-12
+EQ03996,PC portable,HP EliteBook 840 G10,Marseille,2020-08-02,2023-08-02
+EQ03998,Écran,HP E24 G5,Nantes,2021-08-12,2024-08-11
+EQ03999,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-07-13,2026-07-12
+EQ04001,Smartphone,Samsung Galaxy A54,Marseille,2020-11-02,2023-11-02
+EQ04002,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2023-04-07,2026-04-06
+EQ04003,Smartphone,iPhone 13,Lille,2022-01-24,2025-01-23
+EQ04004,Écran,HP E24 G5,Nantes,2020-09-12,2023-09-12
+EQ04006,PC portable,Dell Latitude 5440,Marseille,2019-10-01,2022-09-30
+EQ04007,PC portable,Dell Latitude 5440,Marseille,2023-01-12,2026-01-11
+EQ04010,Écran,HP E24 G5,Lyon,2022-05-10,2025-05-09
+EQ04013,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-11-19,2024-11-18
+EQ04015,PC portable,Dell Latitude 5440,Paris La Défense,2022-10-26,2025-10-25
+EQ04016,PC portable,Dell Latitude 5440,Marseille,2020-07-22,2023-07-22
+EQ04018,PC portable,HP EliteBook 840 G10,Lille,2023-09-10,2026-09-09
+EQ04021,Écran,Iiyama XUB2492,Nantes,2019-04-15,2022-04-14
+EQ04022,PC portable,Lenovo ThinkPad T14,Lille,2022-06-25,2025-06-24
+EQ04028,PC portable,Dell Latitude 5440,Paris Bercy,2020-11-17,2023-11-17
+EQ04029,Écran,HP E24 G5,Lyon,2022-10-07,2025-10-06
+EQ04030,PC fixe,HP EliteDesk 800 G9,Lyon,2020-06-04,2023-06-04
+EQ04031,Smartphone,Samsung Galaxy A54,Paris Bercy,2022-10-23,2025-10-22
+EQ04034,Écran,Iiyama XUB2492,Paris Bercy,2020-10-26,2023-10-26
+EQ04036,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-08-11,2025-08-10
+EQ04037,PC portable,HP EliteBook 840 G10,Marseille,2021-01-01,2024-01-01
+EQ04041,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-01-16,2024-01-16
+EQ04042,Écran,Iiyama XUB2492,Paris La Défense,2023-03-09,2026-03-08
+EQ04044,Écran,Iiyama XUB2492,Nantes,2022-04-04,2025-04-03
+EQ04046,PC fixe,HP EliteDesk 800 G9,Nantes,2022-08-31,2025-08-30
+EQ04049,PC portable,Lenovo ThinkPad T14,Lyon,2019-12-12,2022-12-11
+EQ04050,Écran,Dell P2423,Lille,2022-04-03,2025-04-02
+EQ04054,Smartphone,Samsung Galaxy A54,Nantes,2020-03-16,2023-03-16
+EQ04055,PC fixe,HP EliteDesk 800 G9,Lille,2022-01-22,2025-01-21
+EQ04056,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-10-26,2025-10-25
+EQ04057,Écran,HP E24 G5,Nantes,2023-06-28,2026-06-27
+EQ04059,PC portable,Lenovo ThinkPad T14,Lyon,2020-05-18,2023-05-18
+EQ04060,Écran,Dell P2423,Nantes,2022-07-27,2025-07-26
+EQ04063,PC portable,Dell Latitude 5440,Paris Bercy,2021-08-01,2024-07-31
+EQ04064,Écran,HP E24 G5,Marseille,2022-01-17,2025-01-16
+EQ04066,Écran,HP E24 G5,Paris Bercy,2022-05-18,2025-05-17
+EQ04068,Écran,HP E24 G5,Paris Bercy,2020-04-26,2023-04-26
+EQ04071,Écran,Iiyama XUB2492,Lille,2021-05-17,2024-05-16
+EQ04074,PC fixe,Dell OptiPlex 7010,Marseille,2019-02-04,2022-02-03
+EQ04076,Écran,HP E24 G5,Paris Bercy,2022-03-12,2025-03-11
+EQ04077,Écran,Dell P2423,Marseille,2023-05-16,2026-05-15
+EQ04078,Écran,HP E24 G5,Paris Bercy,2021-04-24,2024-04-23
+EQ04080,PC portable,Dell Latitude 5440,Nantes,2020-01-21,2023-01-20
+EQ04085,PC portable,Lenovo ThinkPad T14,Lyon,2021-06-30,2024-06-29
+EQ04087,Smartphone,iPhone 13,Lille,2020-02-03,2023-02-02
+EQ04091,Écran,HP E24 G5,Lyon,2023-07-30,2026-07-29
+EQ04092,PC portable,Dell Latitude 5440,Paris Bercy,2023-07-09,2026-07-08
+EQ04094,Smartphone,iPhone 13,Nantes,2019-12-11,2022-12-10
+EQ04097,Écran,Iiyama XUB2492,Nantes,2020-11-11,2023-11-11
+EQ04098,Smartphone,iPhone 13,Lyon,2021-01-02,2024-01-02
+EQ04099,PC portable,Dell Latitude 5440,Paris Bercy,2020-06-27,2023-06-27
+EQ04100,PC portable,Lenovo ThinkPad T14,Paris Bercy,2022-08-29,2025-08-28
+EQ04101,Écran,HP E24 G5,Lyon,2023-08-12,2026-08-11
+EQ04103,Écran,Iiyama XUB2492,Lyon,2020-02-18,2023-02-17
+EQ04106,PC fixe,HP EliteDesk 800 G9,Marseille,2021-01-07,2024-01-07
+EQ04107,Smartphone,Samsung Galaxy A54,Nantes,2021-03-25,2024-03-24
+EQ04109,PC portable,Lenovo ThinkPad T14,Lille,2019-11-19,2022-11-18
+EQ04111,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-03-06,2022-03-05
+EQ04113,Écran,Iiyama XUB2492,Lyon,2023-08-22,2026-08-21
+EQ04116,PC portable,HP EliteBook 840 G10,Marseille,2022-06-20,2025-06-19
+EQ04121,Écran,HP E24 G5,Paris Bercy,2019-12-28,2022-12-27
+EQ04125,Smartphone,Samsung Galaxy A54,Paris Bercy,2021-08-31,2024-08-30
+EQ04126,Écran,Dell P2423,Paris Bercy,2021-11-01,2024-10-31
+EQ04127,PC fixe,Dell OptiPlex 7010,Paris La Défense,2021-06-08,2024-06-07
+EQ04128,PC portable,Lenovo ThinkPad T14,Marseille,2022-10-21,2025-10-20
+EQ04131,PC fixe,HP EliteDesk 800 G9,Nantes,2021-03-01,2024-02-29
+EQ04132,Écran,HP E24 G5,Paris Bercy,2022-07-27,2025-07-26
+EQ04133,Écran,Dell P2423,Lille,2022-05-10,2025-05-09
+EQ04134,PC fixe,HP EliteDesk 800 G9,Lille,2019-12-27,2022-12-26
+EQ04135,Smartphone,Samsung Galaxy A54,Lyon,2022-10-15,2025-10-14
+EQ04142,Smartphone,Samsung Galaxy A54,Nantes,2019-06-22,2022-06-21
+EQ04144,Écran,HP E24 G5,Marseille,2022-02-16,2025-02-15
+EQ04145,Écran,Iiyama XUB2492,Lyon,2020-10-29,2023-10-29
+EQ04146,Écran,Dell P2423,Lyon,2022-11-07,2025-11-06
+EQ04147,Écran,Dell P2423,Lille,2023-04-15,2026-04-14
+EQ04148,Smartphone,iPhone 13,Paris La Défense,2021-02-06,2024-02-06
+EQ04151,Smartphone,iPhone 13,Nantes,2023-05-09,2026-05-08
+EQ04154,PC fixe,Dell OptiPlex 7010,Marseille,2021-12-22,2024-12-21
+EQ04155,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-05-30,2026-05-29
+EQ04156,Smartphone,iPhone 13,Nantes,2021-03-17,2024-03-16
+EQ04157,Smartphone,Samsung Galaxy A54,Marseille,2021-01-03,2024-01-03
+EQ04160,Écran,HP E24 G5,Paris Bercy,2023-07-18,2026-07-17
+EQ04161,Écran,Dell P2423,Lille,2021-08-14,2024-08-13
+EQ04163,PC portable,Lenovo ThinkPad T14,Marseille,2020-02-24,2023-02-23
+EQ04165,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-01-24,2022-01-23
+EQ04167,PC portable,Dell Latitude 5440,Lille,2020-06-05,2023-06-05
+EQ04171,PC portable,Dell Latitude 5440,Marseille,2019-09-09,2022-09-08
+EQ04173,PC portable,Lenovo ThinkPad T14,Lille,2020-07-26,2023-07-26
+EQ04174,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2019-11-17,2022-11-16
+EQ04178,PC portable,HP EliteBook 840 G10,Nantes,2022-10-29,2025-10-28
+EQ04179,Écran,HP E24 G5,Paris Bercy,2019-11-24,2022-11-23
+EQ04182,Écran,HP E24 G5,Lille,2022-05-15,2025-05-14
+EQ04184,PC portable,HP EliteBook 840 G10,Nantes,2021-08-03,2024-08-02
+EQ04192,PC portable,Lenovo ThinkPad T14,Paris La Défense,2020-11-14,2023-11-14
+EQ04194,Écran,Iiyama XUB2492,Marseille,2020-05-13,2023-05-13
+EQ04196,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-06-02,2026-06-01
+EQ04197,Écran,HP E24 G5,Lille,2021-11-19,2024-11-18
+EQ04198,PC portable,HP EliteBook 840 G10,Marseille,2023-08-30,2026-08-29
+EQ04202,Écran,Dell P2423,Lille,2020-11-04,2023-11-04
+EQ04203,Écran,Dell P2423,Lyon,2022-01-05,2025-01-04
+EQ04204,PC portable,Dell Latitude 5440,Lyon,2019-03-19,2022-03-18
+EQ04206,Écran,Iiyama XUB2492,Lyon,2021-04-24,2024-04-23
+EQ04207,Écran,HP E24 G5,Paris Bercy,2023-05-12,2026-05-11
+EQ04210,PC portable,HP EliteBook 840 G10,Nantes,2023-05-09,2026-05-08
+EQ04211,Écran,HP E24 G5,Paris La Défense,2022-05-06,2025-05-05
+EQ04212,PC fixe,HP EliteDesk 800 G9,Marseille,2019-09-27,2022-09-26
+EQ04216,PC portable,HP EliteBook 840 G10,Paris La Défense,2023-05-10,2026-05-09
+EQ04217,PC portable,Lenovo ThinkPad T14,Marseille,2019-03-13,2022-03-12
+EQ04218,PC portable,Lenovo ThinkPad T14,Nantes,2021-12-08,2024-12-07
+EQ04219,PC portable,Lenovo ThinkPad T14,Lille,2022-07-23,2025-07-22
+EQ04220,PC portable,Lenovo ThinkPad T14,Marseille,2019-04-28,2022-04-27
+EQ04221,Écran,Dell P2423,Marseille,2023-02-17,2026-02-16
+EQ04224,Écran,Dell P2423,Paris Bercy,2021-02-08,2024-02-08
+EQ04229,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-02-02,2022-02-01
+EQ04232,PC portable,HP EliteBook 840 G10,Lyon,2023-09-19,2026-09-18
+EQ04236,Écran,Dell P2423,Nantes,2019-03-03,2022-03-02
+EQ04237,Écran,Dell P2423,Lyon,2023-03-20,2026-03-19
+EQ04238,PC portable,Lenovo ThinkPad T14,Marseille,2023-07-10,2026-07-09
+EQ04240,PC fixe,HP EliteDesk 800 G9,Nantes,2022-04-29,2025-04-28
+EQ04242,Écran,HP E24 G5,Paris La Défense,2019-03-06,2022-03-05
+EQ04244,PC portable,Lenovo ThinkPad T14,Marseille,2019-08-02,2022-08-01
+EQ04246,Smartphone,Samsung Galaxy A54,Nantes,2020-10-02,2023-10-02
+EQ04249,Écran,Iiyama XUB2492,Lyon,2020-10-10,2023-10-10
+EQ04250,PC portable,Lenovo ThinkPad T14,Paris Bercy,2023-09-07,2026-09-06
+EQ04252,PC portable,HP EliteBook 840 G10,Lyon,2020-02-18,2023-02-17
+EQ04255,Écran,Dell P2423,Paris La Défense,2023-06-17,2026-06-16
+EQ04258,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-01-20,2024-01-20
+EQ04259,PC portable,Dell Latitude 5440,Lyon,2023-06-25,2026-06-24
+EQ04260,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-08-26,2025-08-25
+EQ04266,PC portable,HP EliteBook 840 G10,Nantes,2021-08-22,2024-08-21
+EQ04267,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-05-15,2024-05-14
+EQ04268,Écran,Iiyama XUB2492,Paris Bercy,2023-05-21,2026-05-20
+EQ04270,Écran,HP E24 G5,Paris La Défense,2021-05-17,2024-05-16
+EQ04271,Écran,Iiyama XUB2492,Nantes,2020-04-06,2023-04-06
+EQ04272,PC portable,Dell Latitude 5440,Nantes,2020-07-30,2023-07-30
+EQ04273,PC fixe,HP EliteDesk 800 G9,Lille,2021-10-16,2024-10-15
+EQ04274,Écran,Iiyama XUB2492,Lyon,2022-06-28,2025-06-27
+EQ04276,Écran,Iiyama XUB2492,Lyon,2022-04-03,2025-04-02
+EQ04278,Smartphone,iPhone 13,Paris Bercy,2020-10-27,2023-10-27
+EQ04281,PC portable,HP EliteBook 840 G10,Marseille,2020-01-05,2023-01-04
+EQ04282,PC fixe,HP EliteDesk 800 G9,Lyon,2021-08-08,2024-08-07
+EQ04287,PC portable,Lenovo ThinkPad T14,Nantes,2019-07-30,2022-07-29
+EQ04288,PC fixe,Dell OptiPlex 7010,Paris Bercy,2021-01-17,2024-01-17
+EQ04292,Écran,HP E24 G5,Paris Bercy,2021-10-23,2024-10-22
+EQ04293,PC portable,HP EliteBook 840 G10,Lyon,2020-03-09,2023-03-09
+EQ04297,PC portable,Lenovo ThinkPad T14,Nantes,2022-11-09,2025-11-08
+EQ04298,Écran,Iiyama XUB2492,Nantes,2020-07-08,2023-07-08
+EQ04300,Écran,Iiyama XUB2492,Marseille,2022-08-20,2025-08-19
+EQ04301,Écran,Dell P2423,Paris Bercy,2019-07-12,2022-07-11
+EQ04304,PC portable,Dell Latitude 5440,Paris Bercy,2022-05-29,2025-05-28
+EQ04305,PC fixe,Dell OptiPlex 7010,Nantes,2022-10-16,2025-10-15
+EQ04306,PC portable,HP EliteBook 840 G10,Nantes,2022-06-05,2025-06-04
+EQ04308,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-11-05,2023-11-05
+EQ04310,Écran,HP E24 G5,Lyon,2022-11-19,2025-11-18
+EQ04312,Écran,Iiyama XUB2492,Nantes,2019-07-22,2022-07-21
+EQ04313,Écran,Iiyama XUB2492,Paris La Défense,2022-03-25,2025-03-24
+EQ04315,Écran,HP E24 G5,Nantes,2019-04-15,2022-04-14
+EQ04316,Écran,Dell P2423,Lyon,2022-09-22,2025-09-21
+EQ04317,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-03-10,2023-03-10
+EQ04319,PC portable,Dell Latitude 5440,Nantes,2022-10-05,2025-10-04
+EQ04320,PC portable,Dell Latitude 5440,Paris La Défense,2023-09-11,2026-09-10
+EQ04321,PC portable,HP EliteBook 840 G10,Marseille,2021-12-14,2024-12-13
+EQ04324,Écran,Iiyama XUB2492,Lyon,2019-03-29,2022-03-28
+EQ04327,PC portable,Dell Latitude 5440,Lyon,2020-06-20,2023-06-20
+EQ04331,Smartphone,iPhone 13,Lille,2019-12-03,2022-12-02
+EQ04332,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-06-19,2025-06-18
+EQ04333,PC portable,Lenovo ThinkPad T14,Lyon,2023-07-12,2026-07-11
+EQ04334,PC portable,Lenovo ThinkPad T14,Nantes,2020-03-12,2023-03-12
+EQ04335,Écran,Dell P2423,Paris Bercy,2019-07-13,2022-07-12
+EQ04338,Écran,HP E24 G5,Lyon,2020-09-08,2023-09-08
+EQ04339,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-01-04,2025-01-03
+EQ04340,PC portable,HP EliteBook 840 G10,Paris Bercy,2020-12-31,2023-12-31
+EQ04341,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-12-27,2025-12-26
+EQ04342,PC portable,Dell Latitude 5440,Paris Bercy,2022-07-21,2025-07-20
+EQ04343,Écran,Iiyama XUB2492,Marseille,2023-09-24,2026-09-23
+EQ04344,Smartphone,iPhone 13,Paris La Défense,2021-10-02,2024-10-01
+EQ04345,PC fixe,Dell OptiPlex 7010,Lille,2023-06-29,2026-06-28
+EQ04349,PC portable,Lenovo ThinkPad T14,Nantes,2021-05-23,2024-05-22
+EQ04350,Smartphone,iPhone 13,Paris La Défense,2019-09-27,2022-09-26
+EQ04353,PC portable,Lenovo ThinkPad T14,Marseille,2023-02-16,2026-02-15
+EQ04354,PC portable,Dell Latitude 5440,Lille,2022-02-27,2025-02-26
+EQ04355,Écran,Iiyama XUB2492,Lyon,2020-08-26,2023-08-26
+EQ04357,Écran,HP E24 G5,Marseille,2021-11-11,2024-11-10
+EQ04358,Écran,Iiyama XUB2492,Nantes,2021-02-18,2024-02-18
+EQ04359,Écran,Iiyama XUB2492,Marseille,2019-02-23,2022-02-22
+EQ04361,Écran,HP E24 G5,Paris Bercy,2023-05-28,2026-05-27
+EQ04362,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-12-08,2025-12-07
+EQ04363,PC portable,Dell Latitude 5440,Lyon,2022-08-21,2025-08-20
+EQ04369,PC portable,Dell Latitude 5440,Paris La Défense,2022-03-31,2025-03-30
+EQ04370,Écran,Iiyama XUB2492,Paris Bercy,2023-08-05,2026-08-04
+EQ04373,PC portable,Dell Latitude 5440,Paris Bercy,2019-04-04,2022-04-03
+EQ04374,PC fixe,HP EliteDesk 800 G9,Lyon,2019-03-19,2022-03-18
+EQ04375,PC fixe,Dell OptiPlex 7010,Lyon,2022-08-21,2025-08-20
+EQ04376,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-10-13,2023-10-13
+EQ04377,PC portable,Lenovo ThinkPad T14,Nantes,2023-05-09,2026-05-08
+EQ04378,Smartphone,Samsung Galaxy A54,Nantes,2021-01-07,2024-01-07
+EQ04383,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-12-22,2024-12-21
+EQ04387,Écran,HP E24 G5,Lille,2022-06-16,2025-06-15
+EQ04391,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-09-13,2026-09-12
+EQ04392,Écran,HP E24 G5,Nantes,2023-02-20,2026-02-19
+EQ04393,PC fixe,Dell OptiPlex 7010,Marseille,2022-07-12,2025-07-11
+EQ04395,PC portable,Dell Latitude 5440,Paris La Défense,2019-11-10,2022-11-09
+EQ04397,Écran,HP E24 G5,Lyon,2020-09-23,2023-09-23
+EQ04398,PC portable,Lenovo ThinkPad T14,Lille,2020-12-31,2023-12-31
+EQ04400,PC portable,Dell Latitude 5440,Nantes,2020-12-14,2023-12-14
+EQ04401,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-09-13,2024-09-12
+EQ04404,PC portable,Lenovo ThinkPad T14,Lille,2020-06-24,2023-06-24
+EQ04405,PC portable,Dell Latitude 5440,Marseille,2022-04-16,2025-04-15
+EQ04407,Écran,Dell P2423,Paris Bercy,2020-09-03,2023-09-03
+EQ04408,Écran,Dell P2423,Paris La Défense,2023-05-25,2026-05-24
+EQ04409,Écran,Dell P2423,Nantes,2022-01-15,2025-01-14
+EQ04411,PC fixe,Dell OptiPlex 7010,Paris Bercy,2021-03-17,2024-03-16
+EQ04412,Écran,HP E24 G5,Lille,2022-11-13,2025-11-12
+EQ04415,Smartphone,iPhone 13,Lille,2023-02-02,2026-02-01
+EQ04416,Écran,Dell P2423,Lille,2020-08-17,2023-08-17
+EQ04417,PC fixe,HP EliteDesk 800 G9,Nantes,2023-01-28,2026-01-27
+EQ04418,PC portable,HP EliteBook 840 G10,Nantes,2021-06-29,2024-06-28
+EQ04420,Écran,Dell P2423,Paris La Défense,2023-04-05,2026-04-04
+EQ04421,Smartphone,iPhone 13,Paris Bercy,2020-05-05,2023-05-05
+EQ04422,Smartphone,iPhone 13,Marseille,2021-10-02,2024-10-01
+EQ04424,PC fixe,Dell OptiPlex 7010,Lyon,2022-05-28,2025-05-27
+EQ04425,PC portable,Dell Latitude 5440,Nantes,2022-03-18,2025-03-17
+EQ04427,Smartphone,iPhone 13,Lyon,2021-02-18,2024-02-18
+EQ04429,PC fixe,Dell OptiPlex 7010,Lille,2020-07-19,2023-07-19
+EQ04431,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-08-26,2026-08-25
+EQ04433,Smartphone,Samsung Galaxy A54,Lyon,2023-07-25,2026-07-24
+EQ04434,Smartphone,iPhone 13,Paris La Défense,2021-07-25,2024-07-24
+EQ04436,Smartphone,iPhone 13,Paris Bercy,2021-12-27,2024-12-26
+EQ04438,PC fixe,HP EliteDesk 800 G9,Marseille,2022-01-31,2025-01-30
+EQ04440,Écran,Dell P2423,Paris Bercy,2023-06-29,2026-06-28
+EQ04443,Écran,Iiyama XUB2492,Marseille,2020-10-21,2023-10-21
+EQ04444,PC portable,HP EliteBook 840 G10,Lille,2022-12-04,2025-12-03
+EQ04449,Écran,HP E24 G5,Paris La Défense,2021-04-16,2024-04-15
+EQ04454,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-06-27,2023-06-27
+EQ04457,Smartphone,Samsung Galaxy A54,Nantes,2020-02-13,2023-02-12
+EQ04461,Smartphone,Samsung Galaxy A54,Marseille,2022-10-23,2025-10-22
+EQ04462,PC portable,HP EliteBook 840 G10,Marseille,2021-01-26,2024-01-26
+EQ04463,Écran,Dell P2423,Lyon,2023-02-07,2026-02-06
+EQ04466,Smartphone,iPhone 13,Nantes,2019-02-23,2022-02-22
+EQ04467,Smartphone,iPhone 13,Marseille,2023-01-23,2026-01-22
+EQ04468,PC portable,HP EliteBook 840 G10,Nantes,2020-06-03,2023-06-03
+EQ04469,Écran,Dell P2423,Marseille,2021-02-14,2024-02-14
+EQ04470,PC portable,Dell Latitude 5440,Lille,2022-10-13,2025-10-12
+EQ04472,PC portable,Lenovo ThinkPad T14,Nantes,2019-07-25,2022-07-24
+EQ04476,Écran,Iiyama XUB2492,Lille,2022-11-01,2025-10-31
+EQ04478,PC portable,Dell Latitude 5440,Marseille,2022-08-10,2025-08-09
+EQ04480,PC portable,HP EliteBook 840 G10,Nantes,2019-07-04,2022-07-03
+EQ04481,PC portable,Lenovo ThinkPad T14,Lille,2023-07-04,2026-07-03
+EQ04483,PC portable,Lenovo ThinkPad T14,Lyon,2020-09-25,2023-09-25
+EQ04486,Écran,HP E24 G5,Marseille,2023-06-24,2026-06-23
+EQ04488,PC portable,HP EliteBook 840 G10,Lille,2020-08-28,2023-08-28
+EQ04490,PC portable,HP EliteBook 840 G10,Marseille,2020-04-21,2023-04-21
+EQ04491,PC portable,Dell Latitude 5440,Paris La Défense,2023-06-12,2026-06-11
+EQ04492,Smartphone,Samsung Galaxy A54,Nantes,2021-12-22,2024-12-21
+EQ04495,PC fixe,Dell OptiPlex 7010,Lille,2023-07-31,2026-07-30
+EQ04497,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-08-20,2026-08-19
+EQ04498,Écran,Iiyama XUB2492,Lille,2021-12-11,2024-12-10
+EQ04499,PC portable,Lenovo ThinkPad T14,Lyon,2021-11-15,2024-11-14
+EQ04500,PC portable,Dell Latitude 5440,Paris Bercy,2022-03-25,2025-03-24
+EQ04507,Smartphone,iPhone 13,Paris Bercy,2023-05-20,2026-05-19
+EQ04508,PC fixe,HP EliteDesk 800 G9,Lille,2020-09-30,2023-09-30
+EQ04513,Smartphone,Samsung Galaxy A54,Nantes,2023-07-14,2026-07-13
+EQ04514,PC portable,HP EliteBook 840 G10,Marseille,2022-12-11,2025-12-10
+EQ04516,PC portable,Lenovo ThinkPad T14,Marseille,2023-07-29,2026-07-28
+EQ04517,Écran,Iiyama XUB2492,Paris Bercy,2022-12-26,2025-12-25
+EQ04518,PC portable,Dell Latitude 5440,Lille,2019-03-31,2022-03-30
+EQ04521,Smartphone,Samsung Galaxy A54,Lille,2022-05-13,2025-05-12
+EQ04522,Smartphone,Samsung Galaxy A54,Lille,2022-11-15,2025-11-14
+EQ04525,PC portable,Dell Latitude 5440,Lyon,2022-12-17,2025-12-16
+EQ04527,PC portable,Dell Latitude 5440,Nantes,2020-05-31,2023-05-31
+EQ04528,Smartphone,Samsung Galaxy A54,Marseille,2020-01-31,2023-01-30
+EQ04529,Écran,HP E24 G5,Nantes,2019-10-03,2022-10-02
+EQ04530,PC portable,Lenovo ThinkPad T14,Paris Bercy,2019-05-27,2022-05-26
+EQ04531,PC portable,Lenovo ThinkPad T14,Lille,2019-11-19,2022-11-18
+EQ04533,Écran,Iiyama XUB2492,Lyon,2022-05-17,2025-05-16
+EQ04535,PC portable,Dell Latitude 5440,Lyon,2022-11-01,2025-10-31
+EQ04537,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-03-29,2023-03-29
+EQ04542,PC portable,Dell Latitude 5440,Lyon,2022-11-17,2025-11-16
+EQ04545,Écran,Dell P2423,Lyon,2021-06-24,2024-06-23
+EQ04549,PC fixe,HP EliteDesk 800 G9,Nantes,2021-05-13,2024-05-12
+EQ04550,Écran,Iiyama XUB2492,Marseille,2021-02-12,2024-02-12
+EQ04551,Écran,HP E24 G5,Lille,2021-06-19,2024-06-18
+EQ04552,PC portable,Dell Latitude 5440,Paris Bercy,2022-06-30,2025-06-29
+EQ04553,PC fixe,Dell OptiPlex 7010,Nantes,2019-05-23,2022-05-22
+EQ04556,PC fixe,Dell OptiPlex 7010,Lyon,2021-07-13,2024-07-12
+EQ04557,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-05-25,2024-05-24
+EQ04559,PC portable,Lenovo ThinkPad T14,Marseille,2022-07-03,2025-07-02
+EQ04560,Écran,Iiyama XUB2492,Lyon,2020-02-18,2023-02-17
+EQ04564,PC portable,Dell Latitude 5440,Lyon,2021-11-03,2024-11-02
+EQ04565,Écran,Iiyama XUB2492,Paris Bercy,2022-11-05,2025-11-04
+EQ04567,Écran,Dell P2423,Marseille,2020-05-15,2023-05-15
+EQ04568,PC fixe,Dell OptiPlex 7010,Nantes,2022-09-09,2025-09-08
+EQ04569,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2020-04-22,2023-04-22
+EQ04572,PC portable,Dell Latitude 5440,Lyon,2019-08-05,2022-08-04
+EQ04573,PC portable,HP EliteBook 840 G10,Nantes,2023-01-14,2026-01-13
+EQ04575,Smartphone,iPhone 13,Paris La Défense,2022-03-02,2025-03-01
+EQ04576,PC fixe,HP EliteDesk 800 G9,Lyon,2021-07-13,2024-07-12
+EQ04577,PC portable,Lenovo ThinkPad T14,Marseille,2020-02-25,2023-02-24
+EQ04579,PC portable,HP EliteBook 840 G10,Marseille,2023-08-22,2026-08-21
+EQ04580,PC portable,Dell Latitude 5440,Nantes,2021-06-01,2024-05-31
+EQ04581,PC portable,Lenovo ThinkPad T14,Lille,2020-04-02,2023-04-02
+EQ04583,Smartphone,iPhone 13,Lille,2020-04-21,2023-04-21
+EQ04584,Écran,Iiyama XUB2492,Nantes,2021-05-05,2024-05-04
+EQ04585,Smartphone,iPhone 13,Paris La Défense,2021-01-19,2024-01-19
+EQ04586,PC portable,Lenovo ThinkPad T14,Marseille,2022-10-04,2025-10-03
+EQ04587,PC portable,Lenovo ThinkPad T14,Paris La Défense,2019-01-29,2022-01-28
+EQ04589,Smartphone,Samsung Galaxy A54,Nantes,2023-08-13,2026-08-12
+EQ04591,Écran,Dell P2423,Lille,2021-03-24,2024-03-23
+EQ04592,Smartphone,Samsung Galaxy A54,Paris La Défense,2023-09-19,2026-09-18
+EQ04593,Écran,Dell P2423,Nantes,2020-09-11,2023-09-11
+EQ04595,PC portable,HP EliteBook 840 G10,Lille,2020-08-03,2023-08-03
+EQ04596,Écran,HP E24 G5,Nantes,2020-01-07,2023-01-06
+EQ04599,Smartphone,iPhone 13,Lille,2019-04-26,2022-04-25
+EQ04601,PC fixe,Dell OptiPlex 7010,Paris Bercy,2023-09-05,2026-09-04
+EQ04602,PC portable,Dell Latitude 5440,Lille,2020-01-18,2023-01-17
+EQ04603,Écran,Iiyama XUB2492,Lyon,2020-05-01,2023-05-01
+EQ04604,Écran,Dell P2423,Marseille,2022-01-28,2025-01-27
+EQ04605,PC fixe,Dell OptiPlex 7010,Lyon,2019-02-28,2022-02-27
+EQ04607,Smartphone,iPhone 13,Paris La Défense,2022-04-25,2025-04-24
+EQ04608,PC portable,HP EliteBook 840 G10,Marseille,2021-06-02,2024-06-01
+EQ04609,Écran,Iiyama XUB2492,Marseille,2023-02-24,2026-02-23
+EQ04610,PC fixe,Dell OptiPlex 7010,Nantes,2020-11-16,2023-11-16
+EQ04612,Écran,HP E24 G5,Paris Bercy,2021-03-13,2024-03-12
+EQ04613,PC portable,HP EliteBook 840 G10,Nantes,2019-11-30,2022-11-29
+EQ04615,PC portable,Dell Latitude 5440,Paris Bercy,2021-03-13,2024-03-12
+EQ04616,Écran,Iiyama XUB2492,Paris Bercy,2020-10-02,2023-10-02
+EQ04618,PC portable,Dell Latitude 5440,Paris La Défense,2022-08-25,2025-08-24
+EQ04619,PC portable,HP EliteBook 840 G10,Paris La Défense,2021-12-22,2024-12-21
+EQ04620,PC portable,HP EliteBook 840 G10,Marseille,2019-01-23,2022-01-22
+EQ04624,Écran,Iiyama XUB2492,Paris Bercy,2019-05-15,2022-05-14
+EQ04628,PC portable,HP EliteBook 840 G10,Lille,2021-08-10,2024-08-09
+EQ04633,Écran,Dell P2423,Paris Bercy,2019-01-31,2022-01-30
+EQ04638,PC portable,Dell Latitude 5440,Paris Bercy,2021-07-13,2024-07-12
+EQ04641,PC fixe,HP EliteDesk 800 G9,Paris La Défense,2022-04-13,2025-04-12
+EQ04642,PC portable,Lenovo ThinkPad T14,Lille,2022-02-18,2025-02-17
+EQ04647,Écran,Iiyama XUB2492,Lyon,2022-08-12,2025-08-11
+EQ04649,Écran,Dell P2423,Nantes,2021-10-28,2024-10-27
+EQ04650,PC portable,Dell Latitude 5440,Paris La Défense,2021-11-26,2024-11-25
+EQ04652,PC fixe,Dell OptiPlex 7010,Marseille,2021-08-02,2024-08-01
+EQ04653,Écran,Dell P2423,Nantes,2022-09-08,2025-09-07
+EQ04655,PC portable,HP EliteBook 840 G10,Nantes,2019-03-07,2022-03-06
+EQ04657,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-01-30,2026-01-29
+EQ04660,Écran,HP E24 G5,Lyon,2019-10-02,2022-10-01
+EQ04661,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-01-24,2025-01-23
+EQ04662,PC portable,Lenovo ThinkPad T14,Marseille,2019-06-08,2022-06-07
+EQ04666,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-01-09,2022-01-08
+EQ04667,Écran,Iiyama XUB2492,Nantes,2019-06-16,2022-06-15
+EQ04668,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2023-04-19,2026-04-18
+EQ04669,PC portable,Dell Latitude 5440,Paris Bercy,2023-03-05,2026-03-04
+EQ04675,Écran,Dell P2423,Marseille,2022-04-19,2025-04-18
+EQ04676,Écran,Iiyama XUB2492,Paris Bercy,2022-05-08,2025-05-07
+EQ04682,Écran,HP E24 G5,Nantes,2023-08-06,2026-08-05
+EQ04684,Écran,HP E24 G5,Paris Bercy,2020-02-20,2023-02-19
+EQ04685,PC portable,HP EliteBook 840 G10,Paris La Défense,2022-07-06,2025-07-05
+EQ04688,PC portable,Dell Latitude 5440,Paris La Défense,2021-03-15,2024-03-14
+EQ04689,Écran,Iiyama XUB2492,Marseille,2022-04-02,2025-04-01
+EQ04697,PC portable,Dell Latitude 5440,Lyon,2020-01-06,2023-01-05
+EQ04699,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-02-17,2024-02-17
+EQ04700,PC portable,HP EliteBook 840 G10,Marseille,2022-03-12,2025-03-11
+EQ04702,Écran,HP E24 G5,Paris La Défense,2023-06-21,2026-06-20
+EQ04703,PC portable,Dell Latitude 5440,Nantes,2023-04-21,2026-04-20
+EQ04704,Smartphone,iPhone 13,Lyon,2022-09-12,2025-09-11
+EQ04705,Smartphone,iPhone 13,Paris La Défense,2022-08-03,2025-08-02
+EQ04707,PC portable,Lenovo ThinkPad T14,Marseille,2019-05-23,2022-05-22
+EQ04709,PC portable,HP EliteBook 840 G10,Nantes,2022-04-27,2025-04-26
+EQ04710,Smartphone,iPhone 13,Paris Bercy,2020-01-27,2023-01-26
+EQ04711,PC portable,Lenovo ThinkPad T14,Marseille,2023-05-20,2026-05-19
+EQ04712,Smartphone,iPhone 13,Nantes,2020-06-18,2023-06-18
+EQ04716,Écran,HP E24 G5,Lyon,2022-06-01,2025-05-31
+EQ04717,PC portable,Dell Latitude 5440,Lille,2022-11-15,2025-11-14
+EQ04720,PC portable,HP EliteBook 840 G10,Marseille,2021-04-10,2024-04-09
+EQ04723,PC portable,HP EliteBook 840 G10,Marseille,2019-11-20,2022-11-19
+EQ04724,PC portable,Dell Latitude 5440,Marseille,2022-05-08,2025-05-07
+EQ04726,PC portable,Dell Latitude 5440,Marseille,2021-02-18,2024-02-18
+EQ04727,Smartphone,Samsung Galaxy A54,Lille,2021-04-20,2024-04-19
+EQ04734,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2020-12-20,2023-12-20
+EQ04736,Écran,Iiyama XUB2492,Nantes,2020-11-05,2023-11-05
+EQ04737,PC portable,Lenovo ThinkPad T14,Lille,2023-07-09,2026-07-08
+EQ04738,PC portable,Lenovo ThinkPad T14,Paris La Défense,2023-02-28,2026-02-27
+EQ04740,Écran,Dell P2423,Lyon,2020-10-01,2023-10-01
+EQ04741,PC portable,HP EliteBook 840 G10,Marseille,2019-10-16,2022-10-15
+EQ04742,PC portable,Dell Latitude 5440,Lille,2023-01-02,2026-01-01
+EQ04744,PC portable,HP EliteBook 840 G10,Lyon,2020-12-22,2023-12-22
+EQ04750,PC fixe,Dell OptiPlex 7010,Nantes,2023-05-28,2026-05-27
+EQ04752,Smartphone,iPhone 13,Lyon,2019-04-15,2022-04-14
+EQ04755,Écran,Dell P2423,Lyon,2021-04-06,2024-04-05
+EQ04757,Écran,Dell P2423,Paris Bercy,2023-01-30,2026-01-29
+EQ04761,Smartphone,Samsung Galaxy A54,Nantes,2021-11-19,2024-11-18
+EQ04762,Écran,Iiyama XUB2492,Lille,2020-01-23,2023-01-22
+EQ04764,Écran,Dell P2423,Lyon,2022-06-05,2025-06-04
+EQ04765,PC fixe,HP EliteDesk 800 G9,Lyon,2022-01-03,2025-01-02
+EQ04766,Écran,HP E24 G5,Marseille,2023-02-24,2026-02-23
+EQ04770,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-03-08,2026-03-07
+EQ04771,Écran,Iiyama XUB2492,Nantes,2022-07-11,2025-07-10
+EQ04772,PC portable,Dell Latitude 5440,Lille,2021-07-16,2024-07-15
+EQ04776,Écran,Dell P2423,Paris Bercy,2023-07-08,2026-07-07
+EQ04781,Écran,HP E24 G5,Lyon,2022-03-05,2025-03-04
+EQ04782,Écran,HP E24 G5,Marseille,2021-01-17,2024-01-17
+EQ04783,Smartphone,iPhone 13,Marseille,2020-10-27,2023-10-27
+EQ04785,PC fixe,Dell OptiPlex 7010,Paris Bercy,2019-10-20,2022-10-19
+EQ04791,Smartphone,iPhone 13,Lyon,2021-05-13,2024-05-12
+EQ04794,PC portable,HP EliteBook 840 G10,Nantes,2022-11-05,2025-11-04
+EQ04795,Écran,HP E24 G5,Lille,2023-07-23,2026-07-22
+EQ04796,PC portable,HP EliteBook 840 G10,Paris La Défense,2020-09-19,2023-09-19
+EQ04798,PC fixe,HP EliteDesk 800 G9,Lille,2021-12-01,2024-11-30
+EQ04799,PC fixe,HP EliteDesk 800 G9,Paris Bercy,2022-05-24,2025-05-23
+EQ04800,PC portable,Lenovo ThinkPad T14,Paris Bercy,2021-06-30,2024-06-29
+EQ04803,PC portable,HP EliteBook 840 G10,Nantes,2019-09-11,2022-09-10
+EQ04805,Écran,Dell P2423,Marseille,2020-10-17,2023-10-17
+EQ04806,PC fixe,Dell OptiPlex 7010,Lille,2022-10-05,2025-10-04
+EQ04808,PC portable,HP EliteBook 840 G10,Marseille,2023-06-27,2026-06-26
+EQ04809,PC fixe,Dell OptiPlex 7010,Nantes,2019-09-27,2022-09-26
+EQ04813,Smartphone,iPhone 13,Marseille,2023-01-06,2026-01-05
+EQ04814,Écran,Iiyama XUB2492,Nantes,2020-10-05,2023-10-05
+EQ04815,Smartphone,iPhone 13,Lille,2019-10-12,2022-10-11
+EQ04816,Écran,Dell P2423,Paris La Défense,2019-11-21,2022-11-20
+EQ04818,Écran,Iiyama XUB2492,Paris Bercy,2022-09-11,2025-09-10
+EQ04819,PC portable,Dell Latitude 5440,Nantes,2021-08-01,2024-07-31
+EQ04820,PC portable,Lenovo ThinkPad T14,Nantes,2021-08-09,2024-08-08
+EQ04821,Smartphone,Samsung Galaxy A54,Nantes,2019-05-22,2022-05-21
+EQ04822,PC portable,HP EliteBook 840 G10,Nantes,2020-05-12,2023-05-12
+EQ04825,Écran,Dell P2423,Nantes,2022-01-25,2025-01-24
+EQ04826,PC portable,HP EliteBook 840 G10,Nantes,2019-02-15,2022-02-14
+EQ04827,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-02-16,2024-02-16
+EQ04829,PC portable,Dell Latitude 5440,Lille,2020-04-15,2023-04-15
+EQ04831,Smartphone,Samsung Galaxy A54,Lyon,2020-11-02,2023-11-02
+EQ04832,PC portable,Lenovo ThinkPad T14,Nantes,2022-10-25,2025-10-24
+EQ04833,Écran,Dell P2423,Paris La Défense,2023-01-19,2026-01-18
+EQ04834,PC fixe,HP EliteDesk 800 G9,Lyon,2022-12-07,2025-12-06
+EQ04837,PC portable,Lenovo ThinkPad T14,Nantes,2021-06-11,2024-06-10
+EQ04838,Écran,Dell P2423,Paris Bercy,2022-05-13,2025-05-12
+EQ04845,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-07-04,2024-07-03
+EQ04846,Smartphone,iPhone 13,Nantes,2020-04-27,2023-04-27
+EQ04848,Écran,Iiyama XUB2492,Nantes,2022-08-23,2025-08-22
+EQ04849,Écran,Iiyama XUB2492,Paris Bercy,2020-09-12,2023-09-12
+EQ04851,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-11-09,2025-11-08
+EQ04852,PC portable,HP EliteBook 840 G10,Marseille,2021-08-26,2024-08-25
+EQ04854,Smartphone,Samsung Galaxy A54,Paris La Défense,2023-05-05,2026-05-04
+EQ04856,Écran,HP E24 G5,Nantes,2023-02-27,2026-02-26
+EQ04857,PC portable,HP EliteBook 840 G10,Marseille,2021-10-21,2024-10-20
+EQ04859,Écran,Dell P2423,Paris Bercy,2020-10-19,2023-10-19
+EQ04860,Écran,Iiyama XUB2492,Paris Bercy,2022-09-04,2025-09-03
+EQ04861,PC portable,HP EliteBook 840 G10,Lyon,2020-01-02,2023-01-01
+EQ04865,Écran,HP E24 G5,Lille,2021-05-05,2024-05-04
+EQ04869,Écran,Dell P2423,Lyon,2022-05-07,2025-05-06
+EQ04871,PC portable,HP EliteBook 840 G10,Nantes,2022-10-23,2025-10-22
+EQ04872,PC portable,HP EliteBook 840 G10,Marseille,2021-09-05,2024-09-04
+EQ04874,PC portable,HP EliteBook 840 G10,Paris Bercy,2022-02-04,2025-02-03
+EQ04877,Smartphone,iPhone 13,Lyon,2021-03-19,2024-03-18
+EQ04879,Smartphone,Samsung Galaxy A54,Paris Bercy,2019-06-16,2022-06-15
+EQ04884,Écran,HP E24 G5,Lyon,2020-03-18,2023-03-18
+EQ04886,PC portable,Dell Latitude 5440,Paris Bercy,2023-08-20,2026-08-19
+EQ04887,Écran,HP E24 G5,Lille,2023-04-04,2026-04-03
+EQ04889,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-09-14,2026-09-13
+EQ04890,Écran,Dell P2423,Paris La Défense,2019-12-22,2022-12-21
+EQ04892,PC portable,Dell Latitude 5440,Lille,2022-10-19,2025-10-18
+EQ04893,PC portable,HP EliteBook 840 G10,Paris Bercy,2023-04-26,2026-04-25
+EQ04895,PC portable,HP EliteBook 840 G10,Paris Bercy,2019-10-23,2022-10-22
+EQ04897,Écran,HP E24 G5,Lille,2019-08-14,2022-08-13
+EQ04899,Écran,HP E24 G5,Marseille,2020-06-03,2023-06-03
+EQ04900,PC fixe,HP EliteDesk 800 G9,Nantes,2021-06-27,2024-06-26
+EQ04901,PC portable,Lenovo ThinkPad T14,Marseille,2022-06-06,2025-06-05
+EQ04902,PC portable,Lenovo ThinkPad T14,Lille,2020-11-08,2023-11-08
+EQ04903,PC fixe,Dell OptiPlex 7010,Marseille,2023-08-14,2026-08-13
+EQ04904,PC portable,Lenovo ThinkPad T14,Paris Bercy,2020-11-07,2023-11-07
+EQ04906,Écran,Dell P2423,Lille,2021-08-07,2024-08-06
+EQ04907,PC portable,Lenovo ThinkPad T14,Lyon,2023-05-21,2026-05-20
+EQ04910,Écran,Dell P2423,Lyon,2022-03-09,2025-03-08
+EQ04911,PC portable,HP EliteBook 840 G10,Paris La Défense,2019-02-12,2022-02-11
+EQ04912,Écran,HP E24 G5,Lille,2019-06-02,2022-06-01
+EQ04917,Smartphone,Samsung Galaxy A54,Lille,2022-03-27,2025-03-26
+EQ04919,PC portable,HP EliteBook 840 G10,Nantes,2021-10-30,2024-10-29
+EQ04922,PC fixe,Dell OptiPlex 7010,Lyon,2022-04-12,2025-04-11
+EQ04926,Écran,HP E24 G5,Paris Bercy,2023-01-02,2026-01-01
+EQ04930,Écran,Iiyama XUB2492,Nantes,2019-09-06,2022-09-05
+EQ04935,Smartphone,Samsung Galaxy A54,Lille,2022-05-14,2025-05-13
+EQ04936,Écran,HP E24 G5,Lille,2022-10-27,2025-10-26
+EQ04937,PC fixe,Dell OptiPlex 7010,Nantes,2020-05-14,2023-05-14
+EQ04939,PC fixe,Dell OptiPlex 7010,Nantes,2023-06-13,2026-06-12
+EQ04941,Smartphone,Samsung Galaxy A54,Paris Bercy,2020-11-30,2023-11-30
+EQ04943,Smartphone,iPhone 13,Marseille,2023-07-27,2026-07-26
+EQ04944,Écran,Iiyama XUB2492,Lille,2022-01-12,2025-01-11
+EQ04945,Écran,HP E24 G5,Marseille,2020-01-14,2023-01-13
+EQ04946,Écran,HP E24 G5,Paris La Défense,2022-05-01,2025-04-30
+EQ04947,Écran,Dell P2423,Lille,2020-05-20,2023-05-20
+EQ04949,Smartphone,Samsung Galaxy A54,Lyon,2020-02-11,2023-02-10
+EQ04952,PC portable,HP EliteBook 840 G10,Paris Bercy,2021-12-21,2024-12-20
+EQ04953,PC portable,Dell Latitude 5440,Paris La Défense,2022-04-06,2025-04-05
+EQ04954,Écran,Dell P2423,Paris Bercy,2023-01-14,2026-01-13
+EQ04956,Smartphone,Samsung Galaxy A54,Paris Bercy,2023-04-29,2026-04-28
+EQ04957,PC portable,HP EliteBook 840 G10,Marseille,2022-12-29,2025-12-28
+EQ04958,Écran,Iiyama XUB2492,Lyon,2021-06-19,2024-06-18
+EQ04960,PC portable,Lenovo ThinkPad T14,Lille,2020-07-10,2023-07-10
+EQ04961,PC portable,Dell Latitude 5440,Marseille,2022-04-14,2025-04-13
+EQ04962,PC portable,HP EliteBook 840 G10,Nantes,2019-03-11,2022-03-10
+EQ04963,PC portable,Dell Latitude 5440,Lille,2020-09-03,2023-09-03
+EQ04965,PC portable,Lenovo ThinkPad T14,Lyon,2020-12-09,2023-12-09
+EQ04967,PC portable,Dell Latitude 5440,Nantes,2023-07-31,2026-07-30
+EQ04968,PC portable,Lenovo ThinkPad T14,Lyon,2021-04-16,2024-04-15
+EQ04969,PC portable,HP EliteBook 840 G10,Lyon,2021-01-26,2024-01-26
+EQ04970,Smartphone,Samsung Galaxy A54,Lyon,2019-11-17,2022-11-16
+EQ04972,Smartphone,iPhone 13,Lyon,2021-02-12,2024-02-12
+EQ04973,PC portable,Lenovo ThinkPad T14,Lyon,2022-09-05,2025-09-04
+EQ04975,Écran,Iiyama XUB2492,Marseille,2019-09-11,2022-09-10
+EQ04976,PC portable,HP EliteBook 840 G10,Marseille,2021-10-14,2024-10-13
+EQ04977,Écran,Dell P2423,Paris La Défense,2021-01-13,2024-01-13
+EQ04979,Smartphone,Samsung Galaxy A54,Lille,2023-02-16,2026-02-15
+EQ04981,PC portable,Lenovo ThinkPad T14,Paris La Défense,2022-08-24,2025-08-23
+EQ04983,PC fixe,Dell OptiPlex 7010,Paris Bercy,2020-08-27,2023-08-27
+EQ04984,PC portable,Lenovo ThinkPad T14,Lille,2020-05-13,2023-05-13
+EQ04987,Écran,HP E24 G5,Lille,2020-03-29,2023-03-29
+EQ04989,PC fixe,HP EliteDesk 800 G9,Lille,2021-12-10,2024-12-09
+EQ04990,Smartphone,Samsung Galaxy A54,Nantes,2020-12-20,2023-12-20
+EQ04991,Écran,HP E24 G5,Marseille,2022-06-16,2025-06-15
+EQ04992,PC portable,HP EliteBook 840 G10,Lyon,2020-10-29,2023-10-29
+EQ04995,Smartphone,iPhone 13,Paris Bercy,2020-10-03,2023-10-03
+EQ04996,PC portable,Dell Latitude 5440,Paris Bercy,2022-03-12,2025-03-11
+EQ04998,Écran,Iiyama XUB2492,Marseille,2021-08-23,2024-08-22
+EQ04999,PC portable,HP EliteBook 840 G10,Marseille,2022-12-29,2025-12-28
+EQ05000,PC portable,HP EliteBook 840 G10,Lyon,2019-10-17,2022-10-16
